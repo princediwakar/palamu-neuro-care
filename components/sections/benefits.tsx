@@ -28,13 +28,13 @@ export default async function Benefits({ lang }: { lang?: string }) {
           title={t("title")}
           subtitle={t("subtitle")}
         />
-        <div className="mt-16 grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3">
+        <div className="mt-16 grid grid-cols-6 gap-8">
           {items.map((item, index) => {
             const Icon = iconMap[icons[index]] || ArrowRight;
             return (
               <div
                 key={index}
-                className="group relative flex flex-col overflow-hidden rounded-lg bg-white dark:bg-zinc-900 p-8 transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_8px_30px_rgb(0,0,0,0.04)] dark:hover:shadow-[0_8px_30px_rgb(255,255,255,0.02)]"
+                className="col-span-6 sm:col-span-3 lg:col-span-2 group relative flex flex-col overflow-hidden rounded-lg bg-white dark:bg-zinc-900 p-8 transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_8px_30px_rgb(0,0,0,0.04)] dark:hover:shadow-[0_8px_30px_rgb(255,255,255,0.02)]"
               >
                 <div className="relative flex-1">
                   <div className="mb-6 flex size-12 items-center justify-center rounded-full bg-zinc-100 dark:bg-zinc-800 transition-transform duration-500 group-hover:scale-110">
