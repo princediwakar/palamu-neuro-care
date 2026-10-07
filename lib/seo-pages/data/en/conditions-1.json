@@ -363,6 +363,10 @@
         {
           "name": "Complication Management",
           "description": "Addressing common post-stroke issues such as muscle spasticity, neuropathic pain, depression, and fatigue to improve overall quality of life."
+        },
+        {
+          "name": "Caregiver Guidance & Support",
+          "description": "Stroke recovery is a family effort. We provide comprehensive education for family members on how to assist with daily activities, prevent falls, and support the emotional well-being of the patient, while also managing their own caregiver stress."
         }
       ]
     },

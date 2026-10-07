@@ -89,6 +89,7 @@ export default async function DoctorsPage({ params }: PageProps) {
                   <div className="p-6 bg-secondary/30 rounded-lg">
                     <h5 className="font-medium text-foreground">{t("lahreDegree3")}</h5>
                     <p className="mt-1 text-sm text-muted-foreground">{t("lahreInstitution3")}</p>
+                    <p className="mt-2 text-xs text-muted-foreground/80 italic">{t("lahreDegree3Desc")}</p>
                   </div>
                   <div className="p-6 bg-secondary/30 rounded-lg">
                     <h5 className="font-medium text-foreground">{t("lahreAchievement1Title")}</h5>
@@ -153,6 +154,12 @@ export default async function DoctorsPage({ params }: PageProps) {
                   <div className="p-6 bg-secondary/30 rounded-lg">
                     <h5 className="font-medium text-foreground">{t("prabhaDegree3")}</h5>
                     <p className="mt-1 text-sm text-muted-foreground">{t("prabhaInstitution3")}</p>
+                    <p className="mt-2 text-xs text-muted-foreground/80 italic">{t("prabhaDegree3Desc")}</p>
+                  </div>
+                  <div className="p-6 bg-secondary/30 rounded-lg">
+                    <h5 className="font-medium text-foreground">{t("prabhaDegree4")}</h5>
+                    <p className="mt-1 text-sm text-muted-foreground">{t("prabhaInstitution4")}</p>
+                    <p className="mt-2 text-xs text-muted-foreground/80 italic">{t("prabhaDegree4Desc")}</p>
                   </div>
                 </div>
               </div>
