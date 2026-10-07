@@ -152,7 +152,7 @@
     font-size: 112.5%; /* 18px base for better readability with this design */
   }
   body {
-    @apply font-sans text-foreground antialiased bg-background;
+    @apply font-sans text-foreground antialiased bg-background overflow-x-hidden;
     line-height: 1.6;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
