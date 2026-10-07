@@ -53,11 +53,11 @@ export default async function MeetTheDoctors({ lang }: { lang?: string }) {
                 <h3 className="text-2xl font-bold text-foreground">{doctor.name}</h3>
                 <p className="mt-2 text-sm text-muted-foreground">{doctor.credentials}</p>
                 <p className="mt-4 text-base text-muted-foreground leading-relaxed">{doctor.description}</p>
-                <div className="mt-5 flex items-center justify-between">
-                  <BookAppointmentBtn buttonText={t("consultButton")} className="!px-3 !py-1.5 !text-xs" />
+                <div className="mt-5 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 sm:gap-0">
+                  <BookAppointmentBtn buttonText={t("consultButton")} className="!px-4 !py-2 !text-sm w-full sm:w-auto" />
                   <Link
                     href={lang === "hi" ? `/hi/${resolveSlug(doctor.slug, "hi")}` : `/${doctor.slug}`}
-                    className="text-sm font-medium text-primary hover:text-primary/80 transition-colors"
+                    className="text-sm font-medium text-primary hover:text-primary/80 transition-colors whitespace-nowrap"
                   >
                     {t("learnMore")}
                   </Link>
