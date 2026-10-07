@@ -22,8 +22,8 @@ export default async function HeroLanding({ lang }: { lang?: string }) {
         aria-hidden="true"
         className="pointer-events-none absolute inset-0 grid grid-cols-2 -space-x-52 opacity-40 dark:opacity-20 -z-10"
       >
-        <div className="blur-[106px] h-56 bg-gradient-to-br from-zinc-200 to-zinc-100 dark:from-zinc-800 dark:to-zinc-900"></div>
-        <div className="blur-[106px] h-32 bg-gradient-to-r from-zinc-100 to-zinc-200 dark:from-zinc-900 dark:to-zinc-800"></div>
+        <div className="blur-3xl sm:blur-[106px] h-56 bg-gradient-to-br from-zinc-200 to-zinc-100 dark:from-zinc-800 dark:to-zinc-900"></div>
+        <div className="blur-3xl sm:blur-[106px] h-32 bg-gradient-to-r from-zinc-100 to-zinc-200 dark:from-zinc-900 dark:to-zinc-800"></div>
       </div>
       <MaxWidthWrapper className="flex flex-col items-center gap-6 lg:flex-row lg:gap-8 lg:items-center">
         <div className="space-y-8 lg:w-1/2">

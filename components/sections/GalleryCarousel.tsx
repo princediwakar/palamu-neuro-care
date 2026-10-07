@@ -24,7 +24,7 @@ export default function GalleryCarousel({ images, lang }: GalleryPageProps) {
   const [api, setApi] = useState<CarouselApi>();
   const t = useTranslations("gallery");
   const common = useTranslations("common");
-  const sortedImages = [...images].sort((a, b) => b.createdAt.getTime() - a.createdAt.getTime());
+  const sortedImages = [...images].sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime());
 
   useEffect(() => {
     if (!api) return;
