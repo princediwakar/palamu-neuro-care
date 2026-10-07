@@ -5,7 +5,7 @@ import { useTranslations } from "next-intl";
 import BookAppointmentBtn from "../BookAppointmentBtn";
 import { ThemeToggle } from "../ThemeToggle";
 import { useState, useEffect } from "react";
-import { Menu, X } from "lucide-react";
+import { Menu, X, Phone } from "lucide-react";
 import Image from "next/image";
 import LanguageSwitcher from "../shared/language-switcher";
 
@@ -100,7 +100,13 @@ export const Navbar = ({
               </div>
               <LanguageSwitcher currentLang={lang} enHref={enHref} hiHref={hiHref} />
               <ThemeToggle />
-              <BookAppointmentBtn buttonText={cta("contactUs")} />
+              <a 
+                href="tel:+917779897207" 
+                className="flex items-center gap-2 text-sm font-semibold tracking-wide text-foreground hover:text-primary transition-colors ml-2"
+              >
+                <Phone className="h-4 w-4 text-primary" />
+                77798 97207
+              </a>
             </div>
 
             {/* Hamburger Icon - Force layout protection with flex-shrink-0 */}
@@ -148,8 +154,14 @@ export const Navbar = ({
             <div className="flex flex-col items-center space-y-6 w-full pb-12">
               <LanguageSwitcher currentLang={lang} enHref={enHref} hiHref={hiHref} />
               <ThemeToggle />
-              <div className="w-full max-w-[280px]">
-                <BookAppointmentBtn buttonText={cta("bookAppointment")} className="w-full" />
+              <div className="w-full flex justify-center mt-4">
+                <a 
+                  href="tel:+917779897207" 
+                  className="flex items-center gap-3 text-xl font-semibold tracking-wide text-foreground hover:text-primary transition-colors"
+                >
+                  <Phone className="h-6 w-6 text-primary" />
+                  77798 97207
+                </a>
               </div>
             </div>
           </div>

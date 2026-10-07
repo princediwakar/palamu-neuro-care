@@ -75,7 +75,8 @@ export default function InfoTemplate({ page, lang }: { page: InfoSeoPage; lang: 
           <h2 className="text-2xl font-bold mb-4">{page.callToAction}</h2>
           <p className="text-primary-foreground/90 mb-6">{t("consultAt", { doctor: doctorName })}</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="tel:+7779897207" className="bg-primary-foreground text-primary px-6 py-3 rounded-lg font-semibold hover:bg-primary-foreground/90 transition-colors">{ta("callToBook", { phone: "7779897207" })}</a>
+            <a href="tel:+917779897207" className="bg-primary-foreground text-primary px-6 py-3 rounded-lg font-semibold hover:bg-primary-foreground/90 transition-colors">{ta("callToBook", { phone: "7779897207" })}</a>
+            <a href="tel:+919955707207" className="bg-primary-foreground text-primary px-6 py-3 rounded-lg font-semibold hover:bg-primary-foreground/90 transition-colors">{ta("callToBook", { phone: "9955707207" })}</a>
             <a href="https://wa.me/7779897207" className="bg-green-700 text-white px-6 py-3 rounded-lg font-semibold hover:bg-green-800 dark:bg-green-800 dark:hover:bg-green-700 transition-colors">{ta("whatsappUs")}</a>
           </div>
         </div>

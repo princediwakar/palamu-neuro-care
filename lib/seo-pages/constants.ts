@@ -6,8 +6,9 @@ export const CLINIC = {
   url: "https://www.palamuneurocare.com",
   logo: "https://www.palamuneurocare.com/logo.svg",
   email: "hello@palamu-neuro-care.app",
+  phones: ["+91 77798 97207", "+91 99557 07207"],
   phone: "+91 77798 97207",
-  phoneDisplay: "+91 77798 97207",
+  phoneDisplay: "77798 97207",
   whatsapp: "https://wa.me/917779897207",
   address: {
     street: "Sitakunj police line road, Hamidganj",

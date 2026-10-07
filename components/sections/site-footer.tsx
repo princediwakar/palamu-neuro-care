@@ -118,12 +118,18 @@ export default function SiteFooter({ className, lang }: React.HTMLAttributes<HTM
               {tc("fullAddress")}
             </Link>
           </div>
-          <div className="mt-4 flex items-center gap-2">
+          <div className="mt-4 flex flex-col gap-2">
             <a
-              href="tel:+7779897207"
+              href="tel:+917779897207"
               className="text-sm font-light text-muted-foreground hover:text-foreground transition-colors"
             >
-              7779897207
+              77798 97207 (Phone & WhatsApp)
+            </a>
+            <a
+              href="tel:+919955707207"
+              className="text-sm font-light text-muted-foreground hover:text-foreground transition-colors"
+            >
+              99557 07207
             </a>
           </div>
         </div>
