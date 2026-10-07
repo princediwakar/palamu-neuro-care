@@ -1,0 +1,218 @@
+[
+  {
+    "slug": "visual-field-testing-in-palamu",
+    "category": "diagnostic",
+    "title": "Visual Field Testing in Palamu",
+    "metaTitle": "Visual Field Testing in Palamu | Perimetry Test | Palamu Neuro & Eye Care",
+    "metaDescription": "Get visual field testing (perimetry) in Palamu at Palamu Neuro & Eye Care. Dr. Dibya Prabha performs comprehensive visual field tests for glaucoma diagnosis, neurological vision loss, and monitoring of optic nerve and brain conditions affecting vision.",
+    "keywords": [
+      "visual field test Palamu",
+      "perimetry test Palamu",
+      "visual field examination Palamu",
+      "glaucoma test Palamu",
+      "peripheral vision test Palamu",
+      "visual field testing Jharkhand"
+    ],
+    "hero": {
+      "label": "Visual Field Testing",
+      "title": "Visual Field Testing in Palamu",
+      "subtitle": "Comprehensive perimetry (visual field testing) for glaucoma, neurological vision disorders, and optic nerve conditions — performed and interpreted by Dr. Dibya Prabha at Palamu Neuro & Eye Care."
+    },
+    "faqs": [
+      {
+        "question": "What is a visual field test?",
+        "answer": "A visual field test (perimetry) measures your entire scope of vision — both central and peripheral (side) vision. It maps areas of vision loss (scotomas) that you may not have noticed. It is essential for diagnosing and monitoring glaucoma, neurological conditions affecting vision, and certain retinal diseases."
+      },
+      {
+        "question": "How is a visual field test performed?",
+        "answer": "You sit at the perimeter machine and look at a central fixation point. Small lights of varying brightness appear in different areas of your peripheral vision. You press a button each time you see a light. The machine maps which areas you can and cannot see, creating a detailed map of your visual field."
+      },
+      {
+        "question": "How long does visual field testing take?",
+        "answer": "A standard visual field test takes about 5–10 minutes per eye. More detailed or specialized testing may take 15 minutes per eye. It requires concentration and cooperation — the technician will guide you through the process."
+      }
+    ],
+    "relatedPages": [
+      "ophthalmologist-in-palamu",
+      "glaucoma-treatment-in-palamu",
+      "oct-scan-in-palamu",
+      "retina-specialist-in-palamu",
+      "vision-loss-treatment-in-palamu"
+    ],
+    "clinician": "dr-prabha",
+    "jsonLdType": "MedicalProcedure",
+    "testName": "Visual Field Testing (Perimetry)",
+    "parentDepartment": "ophthalmology",
+    "whatIsIt": "Visual Field Testing (Perimetry) is a specialized diagnostic exam that precisely maps your entire field of vision, including your central and peripheral (side) sight. By asking you to respond to small flashes of light of varying intensities, the machine identifies exactly where your vision is intact and where you have 'blind spots' (scotomas). This testing is available at Palamu Neuro & Eye Care and is crucial for detecting diseases that slowly steal side vision.",
+    "whyItIsDone": [
+      "To detect the subtle, early loss of peripheral vision that is the hallmark of Glaucoma",
+      "To map the specific visual field defects caused by neurological issues like a stroke or brain tumor",
+      "To evaluate the visual impact of an inflamed or compressed optic nerve (optic neuritis)",
+      "To monitor whether a known eye or brain condition is worsening over time or stabilizing with treatment"
+    ],
+    "procedureSteps": [
+      {
+        "step": 1,
+        "title": "Setup",
+        "description": "You sit comfortably at the perimeter machine. One eye is patched. Your chin and forehead are positioned against supports. The room lighting is standardized."
+      },
+      {
+        "step": 2,
+        "title": "Instructions",
+        "description": [
+          {
+            "type": "paragraphs",
+            "items": [
+              "The technician explains the procedure: keep looking at the central orange fixation light at all times. Small white lights will flash at various locations and brightness levels throughout your visual field."
+            ]
+          },
+          {
+            "type": "bullets",
+            "items": [
+              "Press the button each time you see a light — even if it's very dim",
+              "It's normal to miss some lights — the machine is testing your threshold",
+              "Don't look around for lights — keep your eyes fixed on the central target"
+            ]
+          }
+        ]
+      },
+      {
+        "step": 3,
+        "title": "Testing",
+        "description": "The automated program presents lights at various locations in your visual field. You respond to each light you see. The machine adjusts light intensity to determine the threshold of visibility at each point. A typical test takes 5–10 minutes per eye."
+      },
+      {
+        "step": 4,
+        "title": "Analysis",
+        "description": [
+          {
+            "type": "paragraphs",
+            "items": [
+              "The machine generates detailed maps and statistical analyses including mean deviation, pattern standard deviation, and glaucoma hemifield test. Dr. Dibya Prabha reviews the results, compares them to any previous tests, and integrates the findings with your complete eye examination and OCT results."
+            ]
+          }
+        ]
+      }
+    ],
+    "preparation": [
+      "No special preparation is needed — you can eat, drink, and take medications normally",
+      "Bring your current glasses — you'll wear them during the test if needed (near correction for the central target)",
+      "Get a good night's sleep — fatigue affects concentration and test reliability",
+      "The test requires concentration — if you're not feeling well, consider rescheduling",
+      "A practice test may be run first to familiarize you with the process"
+    ],
+    "relatedConditions": [
+      "glaucoma-treatment-in-palamu",
+      "vision-loss-treatment-in-palamu",
+      "ophthalmologist-in-palamu"
+    ]
+  },
+  {
+    "slug": "retinal-laser-treatment-in-palamu",
+    "category": "diagnostic",
+    "title": "Retinal Laser Treatment in Palamu",
+    "metaTitle": "Retinal Laser Treatment in Palamu | Diabetic Retinopathy Laser | Palamu Neuro & Eye Care",
+    "metaDescription": "Get advanced retinal laser treatment in Palamu at Palamu Neuro & Eye Care. Dr. Dibya Prabha (Retina Specialist, LV Prasad Eye Institute Hyderabad) performs laser photocoagulation for diabetic retinopathy, retinal tears, and retinal vascular diseases. Expert care with modern laser technology.",
+    "keywords": [
+      "retinal laser treatment Palamu",
+      "laser photocoagulation Palamu",
+      "diabetic retinopathy laser Palamu",
+      "retinal tear laser Palamu",
+      "eye laser treatment Palamu",
+      "retina laser surgery Palamu",
+      "best retinal laser Jharkhand"
+    ],
+    "hero": {
+      "label": "Retinal Laser",
+      "title": "Retinal Laser Treatment in Palamu",
+      "subtitle": "Advanced retinal laser photocoagulation for diabetic retinopathy, retinal tears, and vascular conditions — performed by Dr. Dibya Prabha, Fellowship-trained Retina Specialist, at Palamu Neuro & Eye Care."
+    },
+    "faqs": [
+      {
+        "question": "What is retinal laser treatment?",
+        "answer": "Retinal laser treatment (laser photocoagulation) uses a focused beam of light to create tiny, controlled burns on the retina. These burns seal leaking blood vessels in diabetic retinopathy, create a barrier around retinal tears to prevent detachment, or reduce abnormal blood vessel growth. It is a proven, effective treatment performed in the clinic — no hospital stay needed."
+      },
+      {
+        "question": "Is retinal laser painful?",
+        "answer": "Most patients experience mild discomfort — a sensation of brief, bright flashes and sometimes a mild aching sensation. Numbing eye drops are used. The procedure is generally well-tolerated. For more extensive treatment (pan-retinal photocoagulation), the procedure may be divided into multiple sessions for comfort."
+      },
+      {
+        "question": "How much does retinal laser treatment cost in Palamu?",
+        "answer": "The cost depends on the type and extent of laser treatment needed. A single focal laser session is more affordable than extensive pan-retinal photocoagulation. At Palamu Neuro & Eye Care, we provide transparent pricing — call 7779897207 for a cost estimate after your evaluation with Dr. Dibya Prabha."
+      }
+    ],
+    "relatedPages": [
+      "retina-specialist-in-palamu",
+      "diabetic-retinopathy-treatment-in-palamu",
+      "retinal-detachment-surgery-in-palamu",
+      "macular-degeneration-treatment-in-palamu",
+      "oct-scan-in-palamu",
+      "octa-scan-in-palamu"
+    ],
+    "clinician": "dr-prabha",
+    "jsonLdType": "MedicalProcedure",
+    "testName": "Retinal Laser Treatment (Laser Photocoagulation)",
+    "parentDepartment": "ophthalmology",
+    "whatIsIt": "Retinal Laser Treatment (Photocoagulation) is a highly precise, outpatient medical procedure utilized by Dr. Dibya Prabha to treat various severe retinal conditions. A finely focused beam of light is used to create microscopic thermal burns on the retina. These strategic burns can seal leaking blood vessels, destroy abnormal new vessel growth, or effectively 'weld' a torn retina to the underlying tissue to prevent a catastrophic detachment.",
+    "whyItIsDone": [
+      "To urgently seal a retinal tear or hole, completely preventing a full retinal detachment",
+      "To stop the leaking of fluid from damaged blood vessels in Diabetic Macular Edema",
+      "To purposefully destroy the oxygen-starved peripheral retina (Panretinal Photocoagulation) in advanced Proliferative Diabetic Retinopathy, forcing abnormal blood vessels to shrink",
+      "To treat complications following a retinal vein occlusion (eye stroke)"
+    ],
+    "procedureSteps": [
+      {
+        "step": 1,
+        "title": "Preparation",
+        "description": [
+          {
+            "type": "paragraphs",
+            "items": [
+              "Numbing eye drops are instilled to ensure comfort. A special contact lens is placed on the eye with lubricating gel to focus the laser beam precisely on the retina. The procedure is performed with you seated comfortably at the slit lamp."
+            ]
+          }
+        ]
+      },
+      {
+        "step": 2,
+        "title": "Laser Application",
+        "description": [
+          {
+            "type": "paragraphs",
+            "items": [
+              "Dr. Dibya Prabha delivers laser spots to the targeted areas of the retina. You will see brief, bright flashes and may feel a mild sensation — most patients tolerate this well."
+            ]
+          },
+          {
+            "type": "paragraphs",
+            "items": [
+              "The number of laser spots varies by condition: from a few dozen spots for a small retinal tear, to several hundred spots over multiple sessions for pan-retinal photocoagulation. Each session typically lasts 10–30 minutes."
+            ]
+          }
+        ]
+      },
+      {
+        "step": 3,
+        "title": "Completion",
+        "description": "The contact lens is removed. Your vision will be blurry for a few hours from the bright lights and gel. You can go home immediately. Arrange for someone to drive you if extensive laser was performed."
+      },
+      {
+        "step": 4,
+        "title": "Follow-up",
+        "description": "Dr. Dibya Prabha schedules follow-up visits to assess the laser effect — typically 2–4 weeks after treatment. Additional laser sessions may be needed depending on the condition and response."
+      }
+    ],
+    "preparation": [
+      "No special preparation is needed for most retinal laser procedures",
+      "If extensive laser (PRP) is planned, arrange for someone to drive you home — your vision will be temporarily blurred",
+      "Take your regular medications unless instructed otherwise",
+      "Inform Dr. Prabha of all medications, especially blood thinners (though these usually do not need to be stopped)",
+      "Bring sunglasses for after the procedure"
+    ],
+    "relatedConditions": [
+      "diabetic-retinopathy-treatment-in-palamu",
+      "retinal-detachment-surgery-in-palamu",
+      "macular-degeneration-treatment-in-palamu"
+    ]
+  }
+]

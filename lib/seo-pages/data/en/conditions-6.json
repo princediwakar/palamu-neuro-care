@@ -1,0 +1,127 @@
+[
+  {
+    "slug": "spine-treatment-in-palamu",
+    "category": "condition",
+    "title": "Spine Treatment in Palamu",
+    "metaTitle": "Spine Treatment in Palamu | Back Pain Doctor | Palamu Neuro & Eye Care",
+    "metaDescription": "Expert spine treatment in Palamu by Dr. Yuvraj Lahre (DM Neurology, AIIMS). Medical management of back pain, herniated discs, sciatica, spinal stenosis, and all spine-related neurological conditions at Palamu Neuro & Eye Care.",
+    "keywords": [
+      "spine treatment Palamu",
+      "back pain treatment Palamu",
+      "herniated disc treatment Palamu",
+      "sciatica treatment Palamu",
+      "spine doctor Palamu",
+      "spinal stenosis treatment Palamu",
+      "slip disc treatment Palamu",
+      "spine clinic Jharkhand"
+    ],
+    "hero": {
+      "label": "Spine Care",
+      "title": "Spine Treatment in Palamu",
+      "subtitle": "Expert medical management of spine conditions by Dr. Yuvraj Lahre, DM Neurology (AIIMS). Comprehensive care for back pain, herniated discs, sciatica, and all spine-related neurological problems at Palamu Neuro & Eye Care."
+    },
+    "faqs": [
+      {
+        "question": "What type of specialist treats spine-related nerve problems?",
+        "answer": "For spine conditions causing neurological symptoms (pain radiating to arms/legs, numbness, weakness, tingling), consult a neurologist. Dr. Yuvraj Lahre at Palamu Neuro & Eye Care is a DM Neurology-qualified specialist who diagnoses and treats spine-related neurological conditions. He focuses on non-surgical management first, referring to surgeons only when necessary."
+      },
+      {
+        "question": "Do all spine problems require surgery?",
+        "answer": "No. The vast majority of spine conditions — including herniated discs, sciatica, and spinal stenosis — are managed without surgery. Treatment typically includes medications, physical therapy, lifestyle modifications, and sometimes targeted injections. Dr. Lahre's approach prioritizes non-surgical management. Surgery is reserved for progressive neurological deficits, severe unrelenting pain despite adequate conservative treatment, or cauda equina syndrome (a surgical emergency)."
+      },
+      {
+        "question": "What causes back pain with leg pain?",
+        "answer": "When back pain radiates down the leg (sciatica), it usually indicates nerve root compression in the lower spine — commonly from a herniated disc, spinal stenosis, or spondylolisthesis. Dr. Yuvraj Lahre performs a detailed neurological examination to identify which nerve root is affected and determines the best treatment approach."
+      },
+      {
+        "question": "How can I book a spine consultation in Palamu?",
+        "answer": "Call Palamu Neuro & Eye Care at 7779897207 or use the WhatsApp button. Doctor consultations are strictly on Sundays. Appointments and pharmacy open 7 days a week."
+      }
+    ],
+    "relatedPages": [
+      "neurologist-in-palamu",
+      "when-to-see-a-neurologist",
+      "back-pain-specialist-in-palamu",
+      "nerve-specialist-in-palamu",
+      "neuropathy-treatment-in-palamu",
+      "numbness-tingling-treatment-in-palamu"
+    ],
+    "clinician": "dr-lahre",
+    "jsonLdType": "MedicalCondition",
+    "parentDepartment": "neurology",
+    "conditionName": "Spine Disorders",
+    "whatIsIt": "Spine disorders encompass a variety of conditions affecting the bones, discs, and nerves of your spinal column. When structural issues—such as a herniated (slipped) disc, age-related degeneration (spondylosis), or a narrowing of the spinal canal (stenosis)—compress the delicate nerve roots branching off the spinal cord, they cause severe neurological symptoms. This often presents as intense pain, numbness, or weakness radiating down the arms (from the neck) or legs (sciatica from the lower back). In Palamu, we frequently treat spine issues aggravated by heavy agricultural or construction work. Dr. Yuvraj Lahre specializes in the medical, non-surgical management of these painful conditions, helping patients regain mobility without immediate surgery.",
+    "symptoms": [
+      "Sharp, localized pain in the neck or lower back that worsens with movement",
+      "Radiating pain shooting down the arm or the back of the leg (sciatica)",
+      "Numbness, tingling, or 'pins and needles' in the hands, feet, or limbs",
+      "Muscle weakness, making it difficult to lift objects, grip, or walk normally",
+      "Pain that intensifies when bending, lifting, coughing, or sneezing",
+      "Leg pain that surprisingly improves when sitting or leaning forward (classic spinal stenosis)",
+      "Urgent: Loss of bowel or bladder control alongside leg weakness (Cauda Equina Syndrome - a medical emergency)"
+    ],
+    "causes": [
+      "Age-related wear and tear, causing discs to dry out and degenerate",
+      "Herniated discs, where the soft inner gel pushes out and pinches a nerve",
+      "Spinal stenosis (narrowing of the bone canal housing the nerves)",
+      "Repetitive heavy lifting or chronic poor posture, common in manual labor occupations",
+      "Trauma from falls, accidents, or sports injuries",
+      "Osteoarthritis causing bone spurs that intrude on nerve pathways",
+      "Obesity, which places excessive, continuous strain on the lower spine"
+    ],
+    "diagnosticTests": [
+      {
+        "name": "Neurological Examination",
+        "description": "Detailed assessment of sensation, strength, reflexes, and nerve tension signs (straight leg raise test) to pinpoint the affected nerve root level and assess severity.",
+        "slug": "neurologist-in-palamu"
+      },
+      {
+        "name": "MRI Scan",
+        "description": "The gold standard imaging for spine disorders. MRI provides detailed visualization of discs, nerve roots, spinal cord, and surrounding soft tissues to identify herniations, stenosis, and nerve compression.",
+        "slug": "mri-scan-in-palamu"
+      },
+      {
+        "name": "CT Scan",
+        "description": "Useful for visualizing bone anatomy, fractures, and assessing spinal canal dimensions when MRI is not available or contraindicated.",
+        "slug": "ct-scan-in-palamu"
+      }
+    ],
+    "treatmentApproach": {
+      "intro": "Dr. Yuvraj Lahre prioritizes aggressive, non-surgical medical management for spine and nerve pain:",
+      "methods": [
+        {
+          "name": "Targeted Nerve Medication",
+          "description": "Prescribing specialized neuropathic pain modulators (like gabapentinoids), muscle relaxants, and anti-inflammatories to calm irritated nerve roots, avoiding heavy reliance on basic painkillers."
+        },
+        {
+          "name": "Physical Therapy Coordination",
+          "description": "Designing and overseeing targeted physiotherapy plans (such as core strengthening and McKenzie exercises) to relieve pressure on the spine and improve posture."
+        },
+        {
+          "name": "Ergonomic & Lifestyle Modification",
+          "description": "Providing actionable advice on safe lifting techniques, workspace ergonomics, and weight management to prevent further spinal deterioration."
+        },
+        {
+          "name": "Surgical Triage",
+          "description": "Carefully monitoring for neurological 'red flags' and seamlessly coordinating with trusted spine surgeons only when conservative treatments fail or emergencies arise."
+        }
+      ]
+    },
+    "whenToSeeDoctor": [
+      "If back or neck pain radiates into your arm or leg",
+      "If you have numbness, tingling, or weakness in your arms, hands, legs, or feet",
+      "If back pain persists for more than 2 weeks despite rest and over-the-counter medication",
+      "If you have difficulty walking, climbing stairs, or performing daily activities due to spine pain",
+      "EMERGENCY: If you develop bowel or bladder incontinence with leg weakness — go to the hospital immediately (cauda equina syndrome)",
+      "If you have had a fall or injury and have new spine pain with neurological symptoms"
+    ],
+    "clinicalObservations": [
+      {
+        "standardView": "Standard orthopaedic and neurological textbooks attribute degenerative spine disease to age, obesity, and sedentary lifestyle. Occupation-related spine disorders are discussed mainly in the context of heavy lifting and construction work.",
+        "palamuObservation": "At Palamu Neuro & Eye Care, Dr. Yuvraj Lahre treats a distinct population of young men from Jharkhand's mining districts and construction sites who present with severe multi-level disc prolapses by age 30–35. The combination of heavy load-bearing without core muscle conditioning, and chronic whole-body vibration from operating drilling machinery without ergonomic protection, accelerates disc degeneration.",
+        "treatmentModification": "We emphasise core-strengthening physiotherapy in addition to medical management, and counsel patients in Hindi about proper lifting biomechanics. For those who cannot change occupations, we prescribe a daily 15-minute spinal decompression routine that can be done at home without equipment.",
+        "clinician": "dr-lahre"
+      }
+    ]
+  }
+]

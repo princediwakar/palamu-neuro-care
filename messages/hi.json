@@ -1,0 +1,138 @@
+{
+  "nav": {
+    "neurology": "न्यूरोलॉजी",
+    "ophthalmology": "ऑफ्थैल्मोलॉजी",
+    "doctors": "डॉक्टर",
+    "videos": "वीडियो",
+    "gallery": "गैलरी"
+  },
+  "cta": {
+    "bookAppointment": "अपॉइंटमेंट बुक करें",
+    "contactUs": "संपर्क करें",
+    "callNow": "अभी कॉल करें",
+    "callToBook": "{phone} पर कॉल करें",
+    "whatsappUs": "व्हाट्सएप करें"
+  },
+  "footer": {
+    "quickLinks": "त्वरित लिंक",
+    "ourSpecialists": "हमारे विशेषज्ञ",
+    "neuroConditions": "न्यूरो रोग",
+    "eyeConditions": "आँख के रोग",
+    "company": "कंपनी",
+    "clinicName": "Palamu Neuro & Eye Care",
+    "home": "होम",
+    "doctors": "डॉक्टर",
+    "videos": "वीडियो",
+    "gallery": "गैलरी",
+    "privacy": "गोपनीयता नीति",
+    "terms": "सेवा की शर्तें",
+    "neurology": "न्यूरोलॉजी",
+    "ophthalmology": "ऑफ्थैल्मोलॉजी",
+    "neurologist": "न्यूरोलॉजिस्ट",
+    "ophthalmologist": "नेत्र रोग विशेषज्ञ",
+    "eyeSpecialist": "आँख विशेषज्ञ",
+    "retinaSpecialist": "रेटिना विशेषज्ञ",
+    "migraine": "माइग्रेन",
+    "epilepsy": "मिर्गी",
+    "stroke": "स्ट्रोक",
+    "spineBackPain": "रीढ़ और कमर दर्द",
+    "parkinsonsDisease": "पार्किंसन रोग",
+    "neuropathy": "न्यूरोपैथी",
+    "cataract": "मोतियाबिंद",
+    "glaucoma": "ग्लूकोमा",
+    "diabeticRetinopathy": "मधुमेह रेटिनोपैथी",
+    "retinalDetachment": "रेटिना का अलग होना",
+    "macularDegeneration": "मैक्युलर डिजनरेशन"
+  },
+  "common": {
+    "readMore": "और पढ़ें"
+  },
+  "videos": {
+    "subtitle": "Palamu Neuro & Eye Care के विशेषज्ञ Dr. Yuvraj Lahre और Dr. Dibya Prabha से दिमाग, रीढ़, नस, और आंखों की सेहत पर एक्सपर्ट वीडियो देखें।",
+    "neuroVideosTitle": "Dr. Yuvraj Lahre के न्यूरोलॉजी वीडियो",
+    "eyeVideosTitle": "Dr. Dibya Prabha के ऑफ्थैल्मोलॉजी वीडियो",
+    "viewAllNeuro": "सभी न्यूरोलॉजी वीडियो देखें",
+    "viewAllEye": "सभी ऑफ्थैल्मोलॉजी वीडियो देखें",
+    "learnMore": "और जानें →"
+  },
+  "doctors": {
+    "label": "हमारे विशेषज्ञ",
+    "title": "डॉक्टरों से मिलिए",
+    "subtitle": "हमारे विशेषज्ञ दिमाग, आंख, रीढ़, और नस की बीमारियों के लिए बेहतर इलाज प्रदान करते हैं, जिससे Jharkhand, Bihar, West Bengal, और Chhattisgarh भर के मरीजों को स्वस्थ जीवन जीने में मदद मिलती है।",
+    "missionTitle": "हमारा मिशन",
+    "missionText1": "Palamu Neuro & Eye Care में, हम दिमाग, आंख, रीढ़, और नस की बीमारियों के लिए विश्व स्तरीय देखभाल प्रदान करने के लिए प्रतिबद्ध हैं। हमारा मिशन उन्नत जांच, व्यक्तिगत इलाज योजना, और दयालु देखभाल के जरिए मरीजों के जीवन की गुणवत्ता सुधारना है।",
+    "missionText2": "हम Palamu, Jharkhand, Bihar, West Bengal, और Chhattisgarh के मरीजों की सेवा करते हैं, और सबके लिए सुलभ और समावेशी स्वास्थ्य सेवा सुनिश्चित करते हैं।",
+    "educationAndTraining": "शिक्षा और प्रशिक्षण",
+    "achievements": "उपलब्धियां",
+    "specializations": "विशेषज्ञताएं",
+    "lahreName": "Dr. Yuvraj Lahre",
+    "prabhaName": "Dr. Dibya Prabha",
+    "lahreTitle": "न्यूरोलॉजिस्ट",
+    "prabhaTitle": "ऑफ्थैल्मोलॉजिस्ट और रेटिना विशेषज्ञ",
+    "lahreBio": "Dr. Yuvraj Lahre पलामू और आसपास के इलाकों में उन्नत न्यूरोलॉजी देखभाल लाने के लिए उत्साहित हैं। उनका मानना है कि हर मरीज का इलाज सहानुभूति और समझ के साथ करना चाहिए, ताकि उन्हें सबसे अच्छी देखभाल मिल सके।",
+    "degreeMBBS": "MBBS"
+  },
+  "clinic": {
+    "name": "Palamu Neuro & Eye Care",
+    "address": "पता",
+    "fullAddress": "सीताकुंज पुलिस लाइन रोड, हमीदगंज, मेदिनीनगर, झारखंड 822102",
+    "phone": "फोन",
+    "whatsapp": "WhatsApp",
+    "hours": "समय",
+    "chatWithUs": "हमसे चैट करें"
+  },
+  "language": {
+    "switchTo": "हिन्दी"
+  },
+  "templates": {
+    "condition": {
+      "whatIs": "{condition} क्या है?",
+      "symptomsOf": "{condition} के लक्षण",
+      "causesAndRiskFactors": "कारण और जोखिम कारक",
+      "diagnosticTests": "नैदानिक परीक्षण",
+      "treatmentApproach": "इलाज का तरीका",
+      "whenToSeeDoctor": "डॉक्टर को कब दिखाएं",
+      "clinicalObservations": "Palamu Neuro & Eye Care में नैदानिक अवलोकन",
+      "standardMedicalLiterature": "मानक चिकित्सा साहित्य कहता है:",
+      "treatmentOutcomes": "Palamu Neuro & Eye Care में इलाज के परिणाम"
+    },
+    "diagnostic": {
+      "whatIs": "{test} क्या है?",
+      "whyItIsDone": "{test} क्यों किया जाता है?"
+    }
+  },
+  "pages": {
+    "ophthalmology": {
+      "metaDescription": "Palamu Neuro & Eye Care में हमारी उन्नत आँख सेवाओं को जानें, Palamu, Jharkhand में आँखों की समस्याओं का विशेषज्ञ इलाज प्रदान करते हुए।",
+      "headerLabel": "आँख सेवाएँ",
+      "headerTitle": "आँखों की समस्याओं के लिए विशेषज्ञ देखभाल",
+      "headerSubtitle": "Palamu Neuro & Eye Care में, हम विभिन्न आँखों के विकारों का निदान और इलाज करने के लिए उन्नत आँख सेवाएँ प्रदान करते हैं, Palamu, Jharkhand और आस-पास के इलाकों के मरीजों की सेवा करते हुए।",
+      "keyBenefits": "मुख्य लाभ:",
+      "learnMore": "और जानें →",
+      "commonConditions": {
+        "heading": "हम जिन आम समस्याओं का इलाज करते हैं",
+        "subtitle": "Palamu Neuro & Eye Care, Palamu में आँखों की विभिन्न समस्याओं का विशेषज्ञ निदान और इलाज।"
+      },
+      "meetOurSpecialists": {
+        "heading": "हमारे विशेषज्ञों से मिलिए",
+        "subtitle": "हमारी टीम अनुभवी, फेलोशिप-प्रशिक्षित विशेषज्ञों के नेतृत्व में है जो आँखों की देखभाल का उच्चतम स्तर प्रदान करने के लिए समर्पित हैं।"
+      },
+      "diagnosticTests": {
+        "heading": "उन्नत नैदानिक जाँचें",
+        "subtitle": "हम आँखों की समस्याओं का सटीक निदान और निगरानी करने के लिए अत्याधुनिक तकनीक का उपयोग करते हैं।"
+      },
+      "commonSymptoms": {
+        "heading": "आँखों के आम लक्षण",
+        "subtitle": "Palamu Neuro & Eye Care, Palamu में आँख से जुड़े लक्षणों का विशेषज्ञ मूल्यांकन और इलाज।"
+      },
+      "stats": {
+        "patientsTreated": "10,000+",
+        "patientsTreatedLabel": "इलाज किए गए मरीज",
+        "experience": "15+",
+        "experienceLabel": "सालों का अनुभव",
+        "successRate": "98%",
+        "successRateLabel": "सफलता दर"
+      }
+    }
+  }
+}

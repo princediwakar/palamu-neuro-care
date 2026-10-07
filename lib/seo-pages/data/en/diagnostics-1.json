@@ -1,0 +1,296 @@
+[
+  {
+    "slug": "eeg-test-in-palamu",
+    "category": "diagnostic",
+    "title": "EEG Test in Palamu",
+    "metaTitle": "EEG Test in Palamu | Electroencephalogram | Palamu Neuro & Eye Care",
+    "metaDescription": "Get an EEG test in Palamu at Palamu Neuro & Eye Care. Dr. Yuvraj Lahre (DM Neurology, AIIMS) offers electroencephalogram (EEG) for epilepsy, seizure disorders, and brain activity evaluation. Painless, non-invasive test with expert interpretation.",
+    "keywords": [
+      "EEG test Palamu",
+      "electroencephalogram Palamu",
+      "EEG test near me Palamu",
+      "brain test Palamu",
+      "epilepsy test Palamu",
+      "seizure test Palamu",
+      "EEG lab Palamu",
+      "best EEG test Jharkhand"
+    ],
+    "hero": {
+      "label": "EEG Diagnostics",
+      "title": "EEG Test in Palamu",
+      "subtitle": "Electroencephalogram (EEG) — a painless, non-invasive test recording brain electrical activity — performed and interpreted by Dr. Yuvraj Lahre, DM Neurology (AIIMS), at Palamu Neuro & Eye Care."
+    },
+    "faqs": [
+      {
+        "question": "What is an EEG test and why is it done?",
+        "answer": "An EEG (electroencephalogram) records the electrical activity of your brain using small electrodes placed on the scalp. It is primarily used to diagnose epilepsy and seizure disorders, but also helps evaluate sleep disorders, brain infections, encephalopathy, and unexplained confusion or memory problems."
+      },
+      {
+        "question": "Is EEG test painful?",
+        "answer": "No, EEG is completely painless and non-invasive. Small electrodes are placed on your scalp with a conductive paste — there are no needles, shocks, or radiation involved. You may feel mild discomfort from the paste, but the test itself causes no pain."
+      },
+      {
+        "question": "How much does an EEG test cost in Palamu?",
+        "answer": "At Palamu Neuro & Eye Care, EEG testing is priced affordably. Contact us at 7779897207 for the current cost. We believe essential neurological diagnostics should be accessible to all patients in Jharkhand and neighboring states."
+      },
+      {
+        "question": "How should I prepare for an EEG test?",
+        "answer": "Wash your hair the night before (no conditioner, oils, or styling products). Avoid caffeine for 8 hours before the test. Take your usual medications unless your doctor instructs otherwise. You may be asked to sleep less the night before if a sleep-deprived EEG is needed."
+      }
+    ],
+    "relatedPages": [
+      "epilepsy-treatment-in-palamu",
+      "signs-of-neurological-problems",
+      "neurologist-in-palamu",
+      "mri-scan-in-palamu",
+      "ct-scan-in-palamu",
+      "headache-specialist-in-palamu",
+      "memory-loss-specialist-in-palamu"
+    ],
+    "clinician": "dr-lahre",
+    "jsonLdType": "MedicalProcedure",
+    "testName": "EEG (Electroencephalogram)",
+    "parentDepartment": "neurology",
+    "whatIsIt": "An Electroencephalogram (EEG) is a painless, non-invasive diagnostic test that records the electrical activity of your brain. Brain cells communicate via continuous electrical impulses; an EEG detects these patterns using small metal discs (electrodes) attached to your scalp. At Palamu Neuro & Eye Care, Dr. Yuvraj Lahre uses this essential tool to detect brain wave abnormalities.",
+    "whyItIsDone": [
+      "To accurately diagnose and classify different types of epilepsy and seizure disorders",
+      "To investigate the root cause of frequent, unexplained fainting spells or periods of confusion",
+      "To assess the extent of brain dysfunction after a severe head injury or stroke",
+      "To evaluate patients suffering from severe memory impairment or suspected dementia",
+      "To monitor brain activity in patients experiencing chronic, unexplained sleep disturbances"
+    ],
+    "procedureSteps": [
+      {
+        "step": 1,
+        "title": "Preparation",
+        "description": "You'll be seated comfortably or lie down. A technician measures your head and marks electrode positions. Your scalp is gently cleaned at each spot."
+      },
+      {
+        "step": 2,
+        "title": "Electrode Placement",
+        "description": "20–25 small electrodes are attached to your scalp using a water-soluble conductive paste. The process takes about 20–30 minutes and is completely painless."
+      },
+      {
+        "step": 3,
+        "title": "Recording",
+        "description": "You'll be asked to relax with your eyes closed. The recording typically lasts 20–40 minutes. You may be asked to open/close your eyes, breathe deeply (hyperventilate), or look at a flashing light (photic stimulation) — these are standard activation procedures that help reveal abnormalities."
+      },
+      {
+        "step": 4,
+        "title": "Sleep Recording (if needed)",
+        "description": "For some patients, a sleep recording is obtained. You may be asked to sleep naturally or, in a sleep-deprived EEG, you'll have been asked to sleep less the night before to facilitate sleep during the test."
+      },
+      {
+        "step": 5,
+        "title": "Completion & Cleanup",
+        "description": "The electrodes are removed and any remaining paste is cleaned from your scalp. You can resume normal activities immediately. The recording is analyzed by Dr. Yuvraj Lahre, and results are discussed with you at a follow-up appointment."
+      }
+    ],
+    "preparation": [
+      "Wash your hair thoroughly the night before the test with shampoo only — no conditioner, hair oil, gel, or styling products",
+      "Avoid caffeine (tea, coffee, cola, energy drinks) for at least 8 hours before the test",
+      "Take your regular medications as prescribed unless your doctor specifically tells you otherwise — bring a list of all medications",
+      "If a sleep-deprived EEG is ordered, follow the sleep restriction instructions provided (typically sleep only 4–5 hours the night before)",
+      "Eat a normal meal before the test to prevent low blood sugar, which can affect brain activity",
+      "Inform the technician if you have any skin allergies or scalp conditions"
+    ],
+    "relatedConditions": [
+      "epilepsy-treatment-in-palamu",
+      "seizure-treatment-in-palamu",
+      "migraine-treatment-in-palamu",
+      "memory-loss-specialist-in-palamu",
+      "dizziness-specialist-in-palamu"
+    ]
+  },
+  {
+    "slug": "mri-scan-in-palamu",
+    "category": "diagnostic",
+    "title": "MRI Scan in Palamu",
+    "metaTitle": "MRI Scan in Palamu | Brain & Spine MRI | Palamu Neuro & Eye Care",
+    "metaDescription": "Need an MRI scan in Palamu? Dr. Yuvraj Lahre at Palamu Neuro & Eye Care coordinates brain and spine MRI scans for accurate diagnosis of neurological conditions. Expert interpretation by an AIIMS-trained neurologist.",
+    "keywords": [
+      "MRI scan Palamu",
+      "brain MRI Palamu",
+      "spine MRI Palamu",
+      "MRI test Palamu",
+      "MRI near me Palamu",
+      "best MRI center Palamu",
+      "neurology MRI Palamu"
+    ],
+    "hero": {
+      "label": "MRI Diagnostics",
+      "title": "MRI Scan in Palamu",
+      "subtitle": "High-resolution MRI (Magnetic Resonance Imaging) for brain and spine — coordinated by Dr. Yuvraj Lahre, DM Neurology (AIIMS), with expert neurological interpretation at Palamu Neuro & Eye Care."
+    },
+    "faqs": [
+      {
+        "question": "When is an MRI scan needed for neurological conditions?",
+        "answer": "An MRI is recommended when detailed images of the brain or spinal cord are needed. Common reasons include persistent headaches with red-flag signs, seizures, suspected stroke, multiple sclerosis, brain tumors, spinal disc problems, and unexplained neurological symptoms that require detailed structural imaging."
+      },
+      {
+        "question": "Is MRI scan safe?",
+        "answer": "Yes, MRI is very safe. It uses powerful magnets and radio waves — no ionizing radiation (unlike X-rays and CT scans). However, it is not suitable for patients with certain metal implants (pacemakers, some aneurysm clips, certain metal fragments). Always inform your doctor about any implants."
+      },
+      {
+        "question": "How long does an MRI scan take?",
+        "answer": "A brain MRI typically takes 30–45 minutes. A spine MRI may take 45–60 minutes depending on the area being scanned. You need to lie still during the scan for clear images."
+      }
+    ],
+    "relatedPages": [
+      "neurologist-in-palamu",
+      "ct-scan-in-palamu",
+      "eeg-test-in-palamu",
+      "stroke-rehabilitation-in-palamu",
+      "epilepsy-treatment-in-palamu",
+      "spine-treatment-in-palamu",
+      "brain-doctor-in-palamu"
+    ],
+    "clinician": "dr-lahre",
+    "jsonLdType": "MedicalProcedure",
+    "testName": "MRI (Magnetic Resonance Imaging)",
+    "parentDepartment": "neurology",
+    "whatIsIt": "Magnetic Resonance Imaging (MRI) is an advanced medical imaging technique that uses a powerful magnetic field and radio waves to create incredibly detailed, cross-sectional images of the internal structures of your body. Unlike X-rays or CT scans, an MRI does not use harmful ionizing radiation. While we do not have an MRI machine in our clinic, Dr. Yuvraj Lahre coordinates with the best imaging centers in Palamu to obtain high-resolution scans of the brain and spine.",
+    "whyItIsDone": [
+      "To detect structural abnormalities in the brain, such as tumors, aneurysms, or evidence of a past stroke",
+      "To vividly visualize spinal cord compression, herniated discs, or severe spinal stenosis causing nerve pain",
+      "To diagnose demyelinating diseases like Multiple Sclerosis by identifying lesions on the brain or spine",
+      "To evaluate chronic, severe headaches that do not respond to standard treatments"
+    ],
+    "procedureSteps": [
+      {
+        "step": 1,
+        "title": "Screening & Preparation",
+        "description": "You'll complete a safety screening form. All metal objects (jewelry, watches, glasses, hearing aids) must be removed. You may change into a hospital gown."
+      },
+      {
+        "step": 2,
+        "title": "Positioning",
+        "description": "You lie on a motorized table that slides into the MRI scanner — a large tube-like machine. A coil device may be placed around the area being scanned (head coil for brain MRI)."
+      },
+      {
+        "step": 3,
+        "title": "Scanning",
+        "description": "The table slides into the scanner. You must lie completely still. The machine makes loud knocking/thumping sounds — earplugs or headphones are provided. Multiple sequences are obtained, each lasting 2–5 minutes."
+      },
+      {
+        "step": 4,
+        "title": "Contrast (if needed)",
+        "description": "For some scans, a gadolinium-based contrast agent is injected through an IV line to highlight certain abnormalities. This is painless aside from the IV insertion."
+      },
+      {
+        "step": 5,
+        "title": "Interpretation",
+        "description": "After the scan, the images are analyzed by a radiologist and reviewed by Dr. Yuvraj Lahre, who correlates the MRI findings with your clinical symptoms and examination to arrive at an accurate diagnosis."
+      }
+    ],
+    "preparation": [
+      "Inform your doctor about any metal implants, pacemakers, aneurysm clips, cochlear implants, or metal fragments in your body",
+      "Remove all metal objects before the scan — jewelry, watches, hairpins, glasses, dentures, hearing aids",
+      "Inform staff if you are pregnant or might be pregnant",
+      "If you have claustrophobia, discuss it with Dr. Lahre beforehand — mild sedation may be arranged",
+      "If contrast is needed, inform your doctor of any kidney problems or allergies",
+      "Wear comfortable, metal-free clothing or the hospital gown provided"
+    ],
+    "relatedConditions": [
+      "epilepsy-treatment-in-palamu",
+      "stroke-rehabilitation-in-palamu",
+      "migraine-treatment-in-palamu",
+      "spine-treatment-in-palamu",
+      "parkinsons-disease-treatment-in-palamu"
+    ]
+  },
+  {
+    "slug": "ct-scan-in-palamu",
+    "category": "diagnostic",
+    "title": "CT Scan in Palamu",
+    "metaTitle": "CT Scan in Palamu | Brain & Head CT | Palamu Neuro & Eye Care",
+    "metaDescription": "Need a CT scan in Palamu? Dr. Yuvraj Lahre at Palamu Neuro & Eye Care coordinates brain and head CT scans for rapid diagnosis of stroke, head injury, and neurological emergencies. Expert interpretation by an AIIMS-trained neurologist.",
+    "keywords": [
+      "CT scan Palamu",
+      "brain CT Palamu",
+      "head CT scan Palamu",
+      "CT test Palamu",
+      "CT scan near me Palamu",
+      "best CT center Palamu",
+      "emergency CT scan Palamu"
+    ],
+    "hero": {
+      "label": "CT Diagnostics",
+      "title": "CT Scan in Palamu",
+      "subtitle": "Computed Tomography (CT) scan for rapid brain and head imaging — coordinated by Dr. Yuvraj Lahre, DM Neurology (AIIMS), with expert interpretation at Palamu Neuro & Eye Care, Palamu."
+    },
+    "faqs": [
+      {
+        "question": "What is the difference between CT scan and MRI?",
+        "answer": "CT uses X-rays to create cross-sectional images and is much faster (5–10 minutes). MRI uses magnetic fields and provides more detailed images of soft tissues but takes longer (30–60 minutes). CT is preferred for emergencies (stroke, head trauma) because of its speed, while MRI is preferred for detailed evaluation of brain structure, tumors, and multiple sclerosis."
+      },
+      {
+        "question": "When is a CT scan needed for neurological problems?",
+        "answer": "CT scans are most valuable in emergencies — suspected stroke (to rule out bleeding before treatment), head injury, sudden severe headache, or acute neurological deficits. They are also used when MRI is contraindicated (certain implants) or when rapid imaging is needed."
+      },
+      {
+        "question": "How much does a CT scan cost in Palamu?",
+        "answer": "CT scan costs vary depending on the area scanned and whether contrast is used. Palamu Neuro & Eye Care coordinates CT scans at trusted, affordable imaging centers in Palamu. Call 7779897207 for guidance."
+      }
+    ],
+    "relatedPages": [
+      "neurologist-in-palamu",
+      "mri-scan-in-palamu",
+      "eeg-test-in-palamu",
+      "stroke-rehabilitation-in-palamu",
+      "headache-specialist-in-palamu",
+      "brain-doctor-in-palamu"
+    ],
+    "clinician": "dr-lahre",
+    "jsonLdType": "MedicalProcedure",
+    "testName": "CT Scan (Computed Tomography)",
+    "parentDepartment": "neurology",
+    "whatIsIt": "A Computed Tomography (CT) scan combines a series of X-ray images taken from different angles around your body and uses computer processing to create cross-sectional images (slices) of the bones, blood vessels, and soft tissues. It is much faster than an MRI and is incredibly useful in emergency situations. Dr. Lahre seamlessly coordinates CT scans with local Medininagar diagnostic partners for rapid neurological assessment.",
+    "whyItIsDone": [
+      "To rapidly detect acute intracranial bleeding (hemorrhage) immediately following a stroke or head trauma",
+      "To quickly identify skull fractures or major structural damage after a severe accident",
+      "To visualize complex bone abnormalities in the spine that may be impinging on nerves",
+      "To quickly assess the brain when an MRI is contraindicated (e.g., in patients with certain metal implants)"
+    ],
+    "procedureSteps": [
+      {
+        "step": 1,
+        "title": "Preparation",
+        "description": "Remove all metal objects including jewelry, glasses, and hairpins. You may change into a hospital gown if needed."
+      },
+      {
+        "step": 2,
+        "title": "Positioning",
+        "description": "You lie on a motorized table. For a brain CT, your head is positioned in a cradle to keep it still and aligned."
+      },
+      {
+        "step": 3,
+        "title": "Scanning",
+        "description": "The table slides into the CT machine — a large doughnut-shaped scanner. The X-ray tube rotates around you, capturing images from multiple angles. The scan itself takes only 1–5 minutes. You must lie still."
+      },
+      {
+        "step": 4,
+        "title": "Contrast (if needed)",
+        "description": "For some scans, an iodine-based contrast dye is injected through an IV to enhance visibility of certain structures. This adds a few minutes to the procedure."
+      },
+      {
+        "step": 5,
+        "title": "Results",
+        "description": "Images are immediately available for review. In emergencies, results are interpreted urgently. Dr. Lahre reviews the scans and correlates them with your clinical symptoms."
+      }
+    ],
+    "preparation": [
+      "Remove all metal objects — jewelry, glasses, hairpins, dentures",
+      "Inform staff if you are pregnant or might be pregnant — CT uses radiation and is generally avoided in pregnancy",
+      "If contrast dye is needed, inform your doctor of any kidney problems, diabetes, or previous allergic reactions to contrast",
+      "You may be asked to avoid food for a few hours before a contrast-enhanced CT scan",
+      "Wear comfortable, metal-free clothing"
+    ],
+    "relatedConditions": [
+      "stroke-rehabilitation-in-palamu",
+      "migraine-treatment-in-palamu",
+      "headache-specialist-in-palamu",
+      "epilepsy-treatment-in-palamu"
+    ]
+  }
+]

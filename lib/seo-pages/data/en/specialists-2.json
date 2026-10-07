@@ -1,0 +1,368 @@
+[
+  {
+    "slug": "best-eye-doctor-in-palamu",
+    "category": "specialist",
+    "title": "Best Eye Doctor in Palamu",
+    "metaTitle": "Best Eye Doctor in Palamu — Dr. Dibya Prabha, Retina Specialist | Palamu Neuro & Eye Care",
+    "metaDescription": "Looking for the best eye doctor in Palamu? Dr. Dibya Prabha (MS Ophthalmology, FICO, Retina Fellow — LV Prasad Eye Institute) at Palamu Neuro & Eye Care is among Palamu's top eye specialists. Expert care in cataract surgery, retinal diseases, and comprehensive ophthalmology.",
+    "keywords": [
+      "best eye doctor in Palamu",
+      "top eye doctor Palamu",
+      "best ophthalmologist Palamu",
+      "best eye specialist Jharkhand",
+      "top retina specialist Palamu",
+      "best cataract surgeon Palamu"
+    ],
+    "hero": {
+      "label": "Top Eye Care",
+      "title": "Best Eye Doctor in Palamu",
+      "subtitle": "Dr. Dibya Prabha — Fellowship-trained Retina Specialist with international certification, providing world-class eye care at Palamu Neuro & Eye Care, Palamu."
+    },
+    "faqs": [
+      {
+        "question": "What makes Dr. Dibya Prabha the best eye doctor in Palamu?",
+        "answer": "Dr. Dibya Prabha's credentials set her apart: MS Ophthalmology from RIMS Palamu, FICO (international ophthalmology certification from UK), and advanced Retina & Vitreous fellowship from LV Prasad Eye Institute, Hyderabad — one of India's top eye hospitals. She is one of the few retina specialists practicing in Palamu."
+      },
+      {
+        "question": "What conditions does the best eye doctor in Palamu treat?",
+        "answer": "Dr. Dibya Prabha treats all eye conditions including cataracts, glaucoma, diabetic retinopathy, retinal detachment, macular degeneration, eye infections, refractive errors, and ocular tumors. She performs cataract surgery, retinal laser, injections, and complex vitreoretinal surgeries."
+      },
+      {
+        "question": "How do I book an appointment with the best eye doctor in Palamu?",
+        "answer": "Call Palamu Neuro & Eye Care at 7779897207 or use the WhatsApp button on our website. Appointments are available Monday to Saturday, 9 AM to 8 PM. Walk-in patients are also welcome, though prior appointments are recommended."
+      },
+      {
+        "question": "Does the best eye doctor in Palamu offer pediatric eye care?",
+        "answer": "Yes, Dr. Dibya Prabha provides comprehensive eye care for patients of all ages, including children. Early eye exams are important for detecting vision problems that can affect learning and development."
+      }
+    ],
+    "relatedPages": [
+      "eye-doctor-in-palamu",
+      "ophthalmologist-in-palamu",
+      "retina-specialist-in-palamu",
+      "eye-hospital-in-palamu",
+      "cataract-surgery-in-palamu",
+      "retinal-detachment-surgery-in-palamu",
+      "dr-dibya-prabha-ophthalmologist-palamu"
+    ],
+    "clinician": "dr-prabha",
+    "jsonLdType": "Physician",
+    "specialistType": "Ophthalmologist / Eye Doctor",
+    "doctorName": "Dr. Dibya Prabha",
+    "doctorImage": "/_static/illustrations/dibya.jpeg",
+    "doctorQualifications": [
+      "MBBS from MGM Jamshedpur",
+      "MS Ophthalmology from RIMS Palamu",
+      "FICO (Fellow of International Council of Ophthalmology, UK)",
+      "Fellow — Retina & Vitreous, LV Prasad Eye Institute, Hyderabad"
+    ],
+    "conditionsTreated": [
+      {
+        "name": "Cataract",
+        "description": "At Palamu Neuro & Eye Care, we offer advanced micro-incision cataract surgery with premium lens options for optimal vision.",
+        "slug": "cataract-surgery-in-palamu"
+      },
+      {
+        "name": "Diabetic Retinopathy",
+        "description": "At Palamu Neuro & Eye Care, we offer expert retinal care for diabetic eye disease with laser, injections, and surgical management.",
+        "slug": "diabetic-retinopathy-treatment-in-palamu"
+      },
+      {
+        "name": "Retinal Detachment",
+        "description": "At Palamu Neuro & Eye Care, we offer urgent and complex retinal detachment repair using modern surgical approaches.",
+        "slug": "retinal-detachment-surgery-in-palamu"
+      },
+      {
+        "name": "Macular Degeneration",
+        "description": "At Palamu Neuro & Eye Care, we offer comprehensive armd management with anti-vegf therapy and regular monitoring.",
+        "slug": "macular-degeneration-treatment-in-palamu"
+      },
+      {
+        "name": "Glaucoma",
+        "description": "At Palamu Neuro & Eye Care, we offer long-term glaucoma care with medications, laser, and surgical options.",
+        "slug": "glaucoma-treatment-in-palamu"
+      }
+    ],
+    "servicesOffered": [
+      {
+        "name": "Cataract Surgery",
+        "description": "Expert modern phacoemulsification with foldable iol implantation for rapid recovery. provided locally in Palamu.",
+        "icon": "Eye"
+      },
+      {
+        "name": "Retinal Laser",
+        "description": "Expert precision laser treatment for diabetic retinopathy, retinal tears, and other retinal conditions. provided locally in Palamu.",
+        "icon": "Target"
+      },
+      {
+        "name": "Intravitreal Injections",
+        "description": "Expert anti-vegf and steroid injections for macular degeneration, diabetic macular edema, and more. provided locally in Palamu.",
+        "icon": "Syringe"
+      },
+      {
+        "name": "OCT/OCTA Diagnostics",
+        "description": "Expert advanced retinal imaging for micron-level detail of retinal layers and blood flow. provided locally in Palamu.",
+        "icon": "Scan"
+      }
+    ],
+    "specialistIntro": "Finding top-tier eye care locally can be challenging, but Dr. Dibya Prabha brings exceptional ophthalmic expertise to Palamu. She combines her extensive medical training with advanced diagnostic technology (like OCT and OCTA) available directly in her Medininagar clinic. Whether you need precise cataract surgery or management of complex macular degeneration, she delivers compassionate, expert care designed to preserve and restore your vision.",
+    "whyChooseUs": [
+      "One of the few fellowship-trained retina specialists practicing in Medininagar, Palamu",
+      "International FICO certification demonstrating global standards of ophthalmology knowledge",
+      "Advanced diagnostic technology including OCT, OCTA, and Fundus Photography on-site",
+      "Comprehensive care — medical, laser, and surgical eye treatments under one roof",
+      "Patient education focus — every condition and treatment is explained clearly",
+      "accessible and reasonable, accessible care for patients from Palamu, Jharkhand, and neighboring states"
+    ]
+  },
+  {
+    "slug": "ophthalmologist-in-palamu",
+    "category": "specialist",
+    "title": "Ophthalmologist in Palamu",
+    "metaTitle": "Ophthalmologist in Palamu | Dr. Dibya Prabha | Palamu Neuro & Eye Care",
+    "metaDescription": "Consult the best ophthalmologist in Palamu at Palamu Neuro & Eye Care. Dr. Dibya Prabha (MS Ophthalmology, FICO, Retina Fellow) provides advanced eye care, cataract surgery, retinal treatments, and comprehensive ophthalmology services for all eye conditions.",
+    "keywords": [
+      "ophthalmologist in Palamu",
+      "best ophthalmologist Palamu",
+      "eye surgeon Palamu",
+      "ophthalmologist near me Palamu",
+      "eye specialist doctor Palamu",
+      "ophthalmology clinic Jharkhand"
+    ],
+    "hero": {
+      "label": "Ophthalmology",
+      "title": "Best Ophthalmologist in Palamu",
+      "subtitle": "Dr. Dibya Prabha — MS Ophthalmology, FICO, Retina & Vitreous Fellow — providing comprehensive medical and surgical eye care at Palamu Neuro & Eye Care, Palamu."
+    },
+    "faqs": [
+      {
+        "question": "What is the difference between an ophthalmologist and an optometrist?",
+        "answer": "An ophthalmologist like Dr. Dibya Prabha is a medical doctor (MBBS + MS) who can diagnose and treat all eye diseases, perform eye surgery, and prescribe medications. Optometrists primarily provide vision testing and prescribe glasses. For any eye disease or surgery, you should consult an ophthalmologist."
+      },
+      {
+        "question": "Which ophthalmologist is best for retinal problems in Palamu?",
+        "answer": "Dr. Dibya Prabha at Palamu Neuro & Eye Care is a fellowship-trained retina specialist — one of the few in Palamu. She completed her Retina & Vitreous fellowship at LV Prasad Eye Institute, Hyderabad, and specializes in diabetic retinopathy, retinal detachment, macular degeneration, and other retinal conditions."
+      },
+      {
+        "question": "Do I need a referral to see an ophthalmologist in Palamu?",
+        "answer": "No referral is needed. You can directly book an appointment with Dr. Dibya Prabha at Palamu Neuro & Eye Care by calling 7779897207. Walk-in patients are also welcome during clinic hours (Mon–Sat, 9 AM – 8 PM)."
+      },
+      {
+        "question": "How often should I see an ophthalmologist?",
+        "answer": "Adults should have a comprehensive eye exam every 1–2 years. People with diabetes, hypertension, a family history of eye disease, or those over 60 should have annual eye exams. Children should have their first eye exam by age 3–5 and then as recommended."
+      }
+    ],
+    "relatedPages": [
+      "eye-doctor-in-palamu",
+      "best-eye-doctor-in-palamu",
+      "retina-specialist-in-palamu",
+      "eye-hospital-in-palamu",
+      "cataract-surgery-in-palamu",
+      "glaucoma-treatment-in-palamu",
+      "retinal-detachment-surgery-in-palamu",
+      "when-to-see-an-ophthalmologist"
+    ],
+    "clinician": "dr-prabha",
+    "jsonLdType": "Physician",
+    "specialistType": "Ophthalmologist",
+    "doctorName": "Dr. Dibya Prabha",
+    "doctorImage": "/_static/illustrations/dibya.jpeg",
+    "doctorQualifications": [
+      "MBBS from MGM Jamshedpur",
+      "MS Ophthalmology from RIMS Palamu",
+      "FICO (Fellow of International Council of Ophthalmology, UK)",
+      "Fellow — Retina & Vitreous, LV Prasad Eye Institute, Hyderabad"
+    ],
+    "conditionsTreated": [
+      {
+        "name": "Cataract",
+        "description": "At Palamu Neuro & Eye Care, we offer clouding of the eye's natural lens causing blurry vision. treated with modern micro-incision cataract surgery.",
+        "slug": "cataract-surgery-in-palamu"
+      },
+      {
+        "name": "Glaucoma",
+        "description": "At Palamu Neuro & Eye Care, we offer increased eye pressure damaging the optic nerve. managed with medications, laser, or surgery.",
+        "slug": "glaucoma-treatment-in-palamu"
+      },
+      {
+        "name": "Diabetic Retinopathy",
+        "description": "At Palamu Neuro & Eye Care, we offer diabetes-related retinal damage that can cause vision loss. treated with laser, injections, or surgery.",
+        "slug": "diabetic-retinopathy-treatment-in-palamu"
+      },
+      {
+        "name": "Retinal Detachment",
+        "description": "At Palamu Neuro & Eye Care, we offer separation of the retina from the back of the eye. a surgical emergency requiring prompt repair.",
+        "slug": "retinal-detachment-surgery-in-palamu"
+      },
+      {
+        "name": "Macular Degeneration",
+        "description": "At Palamu Neuro & Eye Care, we offer age-related deterioration of central vision. managed with anti-vegf injections and monitoring.",
+        "slug": "macular-degeneration-treatment-in-palamu"
+      }
+    ],
+    "servicesOffered": [
+      {
+        "name": "Comprehensive Eye Exam",
+        "description": "Expert full eye health evaluation including dilation, refraction, and retinal examination. provided locally in Palamu.",
+        "icon": "Eye"
+      },
+      {
+        "name": "Cataract Surgery",
+        "description": "Expert advanced phacoemulsification with premium iol implantation. provided locally in Palamu.",
+        "icon": "Scalpel"
+      },
+      {
+        "name": "Retinal Laser & Injections",
+        "description": "Expert intravitreal anti-vegf/steroid injections and laser photocoagulation for retinal diseases. provided locally in Palamu.",
+        "icon": "Target"
+      },
+      {
+        "name": "Glaucoma Care",
+        "description": "Expert comprehensive glaucoma evaluation, monitoring, and treatment. provided locally in Palamu.",
+        "icon": "Eye"
+      },
+      {
+        "name": "OCT & OCTA Imaging",
+        "description": "Expert high-resolution cross-sectional retinal imaging for precise diagnosis. provided locally in Palamu.",
+        "icon": "Scan"
+      },
+      {
+        "name": "Vitreoretinal Surgery",
+        "description": "Expert complex retinal and vitreous surgical procedures for advanced eye conditions. provided locally in Palamu.",
+        "icon": "Scalpel"
+      }
+    ],
+    "specialistIntro": "An ophthalmologist is a medical doctor specialized in both the medical and surgical care of the eyes. At Palamu Neuro & Eye Care, Dr. Dibya Prabha provides full-spectrum ophthalmology services. Her rigorous training allows her to accurately diagnose structural eye issues, perform delicate microsurgeries, and manage chronic conditions like dry eye syndrome and uveitis, ensuring the community of Palamu has access to complete eye health solutions.",
+    "whyChooseUs": [
+      "MS Ophthalmology from RIMS Palamu — rigorous surgical training at a premier government medical college",
+      "FICO certification — meeting international benchmarks in ophthalmology knowledge and practice",
+      "Retina & Vitreous Fellowship from LV Prasad Eye Institute — specialized training at one of India's top eye hospitals",
+      "Full spectrum eye care — from routine eye exams to advanced retinal and cataract surgery",
+      "Advanced diagnostic technology available on-site for immediate, accurate diagnosis",
+      "Patient education emphasis — every diagnosis, treatment option, and surgical plan is explained in detail"
+    ]
+  },
+  {
+    "slug": "retina-specialist-in-palamu",
+    "category": "specialist",
+    "title": "Retina Specialist in Palamu",
+    "metaTitle": "Best Retina Specialist in Palamu | Dr. Dibya Prabha | Palamu Neuro & Eye Care",
+    "metaDescription": "Looking for the best retina specialist in Palamu? Dr. Dibya Prabha (Retina & Vitreous Fellow, LV Prasad Eye Institute) offers advanced retinal care including diabetic retinopathy, retinal detachment, and macular degeneration treatments at Palamu Neuro & Eye Care.",
+    "keywords": [
+      "retina specialist in Palamu",
+      "retina doctor Palamu",
+      "vitreoretinal surgeon Palamu",
+      "retinal detachment surgery Palamu",
+      "diabetic retinopathy treatment Palamu",
+      "macular degeneration doctor Palamu",
+      "best retina specialist Jharkhand"
+    ],
+    "hero": {
+      "label": "Retina Care",
+      "title": "Retina Specialist in Palamu",
+      "subtitle": "Advanced retinal care by Dr. Dibya Prabha — Fellowship-trained Retina & Vitreous Specialist from LV Prasad Eye Institute Hyderabad — at Palamu Neuro & Eye Care."
+    },
+    "faqs": [
+      {
+        "question": "Who is the best retina specialist in Palamu?",
+        "answer": "Dr. Dibya Prabha at Palamu Neuro & Eye Care is one of the few fellowship-trained retina specialists in Palamu. She completed her Retina & Vitreous fellowship at LV Prasad Eye Institute, Hyderabad — one of India's leading eye hospitals — and provides advanced retinal care for all retinal and vitreous conditions."
+      },
+      {
+        "question": "When should I see a retina specialist?",
+        "answer": "You should see a retina specialist if you experience sudden floaters or flashes of light, a curtain-like shadow over your vision, distorted or wavy vision, sudden vision loss, or if you have diabetes and need a retinal exam. Also consult a retina specialist if your ophthalmologist detects retinal changes requiring specialist care."
+      },
+      {
+        "question": "What retinal treatments are available at Palamu Neuro & Eye Care?",
+        "answer": "Palamu Neuro & Eye Care offers comprehensive retinal care including intravitreal injections (anti-VEGF and steroids), retinal laser photocoagulation, and vitreoretinal surgery for conditions like retinal detachment, macular hole, and epiretinal membrane. Advanced diagnostics with OCT and OCTA are available on-site."
+      },
+      {
+        "question": "How much does retinal treatment cost in Palamu?",
+        "answer": "The cost of retinal treatment varies by procedure. A consultation with Dr. Dibya Prabha is Rs. 500. Diagnostic tests (OCT, fundus photography) and treatments (injections, laser) are priced affordably. For specific cost estimates, call 7779897207."
+      }
+    ],
+    "relatedPages": [
+      "eye-doctor-in-palamu",
+      "best-eye-doctor-in-palamu",
+      "ophthalmologist-in-palamu",
+      "diabetic-retinopathy-treatment-in-palamu",
+      "retinal-detachment-surgery-in-palamu",
+      "macular-degeneration-treatment-in-palamu",
+      "macular-hole-surgery-in-palamu",
+      "retinal-laser-treatment-in-palamu"
+    ],
+    "clinician": "dr-prabha",
+    "jsonLdType": "Physician",
+    "specialistType": "Retina Specialist",
+    "doctorName": "Dr. Dibya Prabha",
+    "doctorImage": "/_static/illustrations/dibya.jpeg",
+    "doctorQualifications": [
+      "MBBS from MGM Jamshedpur",
+      "MS Ophthalmology from RIMS Palamu",
+      "FICO (Fellow of International Council of Ophthalmology, UK)",
+      "Fellow — Retina & Vitreous, LV Prasad Eye Institute, Hyderabad"
+    ],
+    "conditionsTreated": [
+      {
+        "name": "Diabetic Retinopathy",
+        "description": "At Palamu Neuro & Eye Care, we offer diabetes-related retinal damage. treated with strict glucose control, laser, anti-vegf injections, and vitrectomy for advanced cases.",
+        "slug": "diabetic-retinopathy-treatment-in-palamu"
+      },
+      {
+        "name": "Retinal Detachment",
+        "description": "At Palamu Neuro & Eye Care, we offer separation of retina from underlying tissue. requires prompt surgical repair to prevent permanent vision loss.",
+        "slug": "retinal-detachment-surgery-in-palamu"
+      },
+      {
+        "name": "Macular Degeneration (ARMD)",
+        "description": "At Palamu Neuro & Eye Care, we offer age-related deterioration of the macula causing central vision loss. managed with anti-vegf injections.",
+        "slug": "macular-degeneration-treatment-in-palamu"
+      },
+      {
+        "name": "Macular Hole",
+        "description": "At Palamu Neuro & Eye Care, we offer a small break in the macula causing distorted or blurred central vision. treated with vitrectomy surgery.",
+        "slug": "macular-hole-surgery-in-palamu"
+      },
+      {
+        "name": "Endophthalmitis",
+        "description": "At Palamu Neuro & Eye Care, we offer severe infection inside the eye, a medical emergency requiring immediate treatment to save vision.",
+        "slug": "endophthalmitis-treatment-in-palamu"
+      },
+      {
+        "name": "Ocular Oncology",
+        "description": "At Palamu Neuro & Eye Care, we offer diagnosis and management of tumors affecting the eye and surrounding structures.",
+        "slug": "ocular-oncology-in-palamu"
+      }
+    ],
+    "servicesOffered": [
+      {
+        "name": "Intravitreal Injections",
+        "description": "Expert anti-vegf and steroid injections for macular degeneration, diabetic macular edema, and more. provided locally in Palamu.",
+        "icon": "Syringe"
+      },
+      {
+        "name": "Retinal Laser Photocoagulation",
+        "description": "Expert precision laser treatment for diabetic retinopathy, retinal tears, and vascular conditions. provided locally in Palamu.",
+        "icon": "Target"
+      },
+      {
+        "name": "Vitrectomy Surgery",
+        "description": "Expert microsurgical removal of vitreous gel for retinal detachment, macular hole, and vitreous hemorrhage. provided locally in Palamu.",
+        "icon": "Scalpel"
+      },
+      {
+        "name": "OCT & OCTA Imaging",
+        "description": "Expert high-resolution imaging for diagnosis and monitoring of all retinal conditions. provided locally in Palamu.",
+        "icon": "Scan"
+      }
+    ],
+    "specialistIntro": "The retina is the delicate, light-sensitive tissue at the back of the eye, and it requires highly specialized care. Dr. Dibya Prabha is Palamu's dedicated Retina and Vitreous Surgeon. She specifically focuses on severe, vision-threatening diseases such as retinal detachments, macular holes, and advanced diabetic eye disease. Her fellowship training ensures she can perform the intricate laser treatments and vitrectomies necessary to save sight.",
+    "whyChooseUs": [
+      "Fellowship-trained retina specialist — one of the few in Medininagar, Palamu and Jharkhand",
+      "LV Prasad Eye Institute, Hyderabad training — one of India's top centers for retinal care and surgery",
+      "Advanced on-site diagnostics including OCT and OCTA for precise retinal imaging",
+      "Full range of retinal treatments — medical, laser, and surgical — under one roof",
+      "Emergency retinal care available — prompt treatment for retinal detachment and other urgent conditions",
+      "Compassionate, patient-centered approach with detailed explanations at every step"
+    ]
+  }
+]

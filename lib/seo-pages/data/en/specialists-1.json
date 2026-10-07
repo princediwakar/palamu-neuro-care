@@ -1,0 +1,395 @@
+[
+  {
+    "slug": "neurologist-in-palamu",
+    "category": "specialist",
+    "title": "Neurologist in Palamu",
+    "metaTitle": "Best Neurologist in Palamu | Dr. Yuvraj Lahre | Palamu Neuro & Eye Care",
+    "metaDescription": "Looking for the best neurologist in Palamu? Dr. Yuvraj Lahre (DM Neurology, AIIMS Bhubaneswar) at Palamu Neuro & Eye Care provides expert care for migraines, epilepsy, stroke, Parkinson's, and all neurological conditions. Book your consultation today.",
+    "keywords": [
+      "neurologist in Palamu",
+      "best neurologist Palamu",
+      "neurology doctor Palamu",
+      "brain doctor Palamu",
+      "neurologist near me Palamu",
+      "top neurologist Jharkhand",
+      "neurology clinic Palamu"
+    ],
+    "hero": {
+      "label": "Neurology Care",
+      "title": "Best Neurologist in Palamu",
+      "subtitle": "Expert diagnosis and treatment of brain, nerve, and spine conditions by Dr. Yuvraj Lahre, DM Neurology (AIIMS Bhubaneswar), Gold Medalist, at Palamu Neuro & Eye Care."
+    },
+    "faqs": [
+      {
+        "question": "Who is the best neurologist in Palamu?",
+        "answer": "Dr. Yuvraj Lahre at Palamu Neuro & Eye Care is one of the most qualified neurologists in Palamu, with DM Neurology from AIIMS Bhubaneswar and a Gold Medal in MD Medicine from RIMS Palamu. He specializes in migraines, epilepsy, stroke, Parkinson's disease, and nerve disorders."
+      },
+      {
+        "question": "When should I see a neurologist in Palamu?",
+        "answer": "You should consult a neurologist if you experience frequent headaches or migraines, seizures, dizziness, numbness or tingling in limbs, memory problems, tremors, muscle weakness, or persistent back pain with nerve involvement. Early consultation leads to better outcomes."
+      },
+      {
+        "question": "How much does a neurologist consultation cost in Palamu?",
+        "answer": "At Palamu Neuro & Eye Care, the consultation fee for Dr. Yuvraj Lahre is Rs. 500. Follow-up consultations are priced affordably. We believe quality neurological care should be accessible to everyone in Jharkhand and nearby states."
+      },
+      {
+        "question": "Does Palamu Neuro & Eye Care offer EEG and other neurological tests in Palamu?",
+        "answer": "Yes, Palamu Neuro & Eye Care provides diagnostic services including EEG (electroencephalogram) for seizure disorders and coordination for MRI and CT scans when needed for comprehensive neurological evaluation."
+      },
+      {
+        "question": "How do I book an appointment with a neurologist in Palamu?",
+        "answer": "You can book an appointment with Dr. Yuvraj Lahre at Palamu Neuro & Eye Care by calling 7779897207 or clicking the WhatsApp button on our website. Doctors are available on Sundays. Appointments and pharmacy open 7 days a week."
+      }
+    ],
+    "relatedPages": [
+      "best-neurologist-in-palamu",
+      "brain-doctor-in-palamu",
+      "nerve-specialist-in-palamu",
+      "migraine-treatment-in-palamu",
+      "epilepsy-treatment-in-palamu",
+      "stroke-rehabilitation-in-palamu",
+      "parkinsons-disease-treatment-in-palamu",
+      "dr-yuvraj-lahre-neurologist-palamu"
+    ],
+    "clinician": "dr-lahre",
+    "jsonLdType": "Physician",
+    "specialistType": "Neurologist",
+    "doctorName": "Dr. Yuvraj Lahre",
+    "doctorImage": "/_static/illustrations/yuvraj.jpeg",
+    "doctorQualifications": [
+      "MBBS from GMC Nagpur",
+      "MD Medicine from RIMS Palamu (Gold Medalist)",
+      "DM Neurology from AIIMS Bhubaneswar"
+    ],
+    "conditionsTreated": [
+      {
+        "name": "Migraine & Headaches",
+        "description": "At Palamu Neuro & Eye Care, we offer comprehensive migraine management including preventive therapy, acute treatment, and lifestyle modification guidance.",
+        "slug": "migraine-treatment-in-palamu"
+      },
+      {
+        "name": "Epilepsy & Seizures",
+        "description": "At Palamu Neuro & Eye Care, we offer expert diagnosis and management of epilepsy with medication optimization and eeg monitoring for seizure control.",
+        "slug": "epilepsy-treatment-in-palamu"
+      },
+      {
+        "name": "Stroke Rehabilitation",
+        "description": "At Palamu Neuro & Eye Care, we offer post-stroke care focusing on recovery, prevention of recurrence, and management of stroke risk factors.",
+        "slug": "stroke-rehabilitation-in-palamu"
+      },
+      {
+        "name": "Parkinson's Disease",
+        "description": "At Palamu Neuro & Eye Care, we offer specialized care for parkinson's disease including medication management and quality-of-life improvement strategies.",
+        "slug": "parkinsons-disease-treatment-in-palamu"
+      },
+      {
+        "name": "Neuropathy & Nerve Disorders",
+        "description": "At Palamu Neuro & Eye Care, we offer diagnosis and treatment of peripheral neuropathy, carpal tunnel syndrome, and other nerve-related conditions.",
+        "slug": "neuropathy-treatment-in-palamu"
+      },
+      {
+        "name": "Spine & Back Pain",
+        "description": "At Palamu Neuro & Eye Care, we offer evaluation and management of spine-related neurological issues including herniated discs and sciatica.",
+        "slug": "spine-treatment-in-palamu"
+      }
+    ],
+    "servicesOffered": [
+      {
+        "name": "Neurological Consultation",
+        "description": "Expert thorough clinical evaluation of neurological symptoms with detailed history-taking and physical examination. provided locally in Palamu.",
+        "icon": "Brain"
+      },
+      {
+        "name": "EEG (Electroencephalogram)",
+        "description": "Expert recording of brain electrical activity to diagnose epilepsy, sleep disorders, and other brain conditions. provided locally in Palamu.",
+        "icon": "Activity"
+      },
+      {
+        "name": "Nerve Conduction Studies",
+        "description": "Expert testing to evaluate nerve function in cases of numbness, tingling, weakness, or suspected neuropathy. provided locally in Palamu.",
+        "icon": "Zap"
+      },
+      {
+        "name": "Stroke Prevention",
+        "description": "Expert risk assessment and management for stroke prevention including blood pressure, diabetes, and cholesterol control. provided locally in Palamu.",
+        "icon": "Heart"
+      },
+      {
+        "name": "Migraine Management",
+        "description": "Expert personalized treatment plans combining medication, trigger identification, and lifestyle strategies. provided locally in Palamu.",
+        "icon": "Brain"
+      },
+      {
+        "name": "Parkinson's Disease Care",
+        "description": "Expert comprehensive management of parkinson's disease with medication optimization and supportive care. provided locally in Palamu.",
+        "icon": "Hand"
+      }
+    ],
+    "specialistIntro": "A neurologist is a specialist trained to diagnose and treat complex disorders of the brain, spinal cord, and peripheral nerves. At Palamu Neuro & Eye Care, Dr. Yuvraj Lahre provides world-class neurological expertise locally. With his rigorous training (DM Neurology from AIIMS), he is uniquely equipped to manage challenging cases of stroke, epilepsy, and neuropathy right here in Medininagar, ensuring patients do not have to travel to metros for premium care.",
+    "whyChooseUs": [
+      "AIIMS-trained neurologist with DM Neurology — the highest qualification in the field",
+      "Gold Medalist in MD Medicine from RIMS Palamu, demonstrating academic excellence",
+      "Comprehensive diagnostic capabilities including EEG and coordinated imaging services",
+      "Personalized treatment plans that consider your unique medical history and lifestyle",
+      "accessible and reasonable consultation fees making premium neurological care accessible",
+      "Conveniently located in Medininagar, Palamu with patients visiting from across Jharkhand, Bihar, West Bengal, and Chhattisgarh"
+    ]
+  },
+  {
+    "slug": "best-neurologist-in-palamu",
+    "category": "specialist",
+    "title": "Best Neurologist in Palamu",
+    "metaTitle": "Best Neurologist in Palamu — Dr. Yuvraj Lahre, DM Neurology AIIMS | Palamu Neuro & Eye Care",
+    "metaDescription": "Searching for the best neurologist in Palamu? Dr. Yuvraj Lahre (DM Neurology, AIIMS Bhubaneswar, Gold Medalist) at Palamu Neuro & Eye Care is widely regarded as one of Palamu's top neurology specialists. Advanced care for brain, nerve, and spine conditions.",
+    "keywords": [
+      "best neurologist in Palamu",
+      "top neurologist Palamu",
+      "best neurology doctor Palamu",
+      "best brain specialist Palamu",
+      "top rated neurologist Jharkhand",
+      "AIIMS neurologist Palamu"
+    ],
+    "hero": {
+      "label": "Top Neurology Care",
+      "title": "Best Neurologist in Palamu",
+      "subtitle": "Dr. Yuvraj Lahre — AIIMS-trained, Gold Medalist neurologist providing world-class brain and nerve care at Palamu Neuro & Eye Care, Palamu."
+    },
+    "faqs": [
+      {
+        "question": "What makes Dr. Yuvraj Lahre the best neurologist in Palamu?",
+        "answer": "Dr. Yuvraj Lahre is one of the most highly qualified neurologists in Palamu, having completed DM Neurology from AIIMS Bhubaneswar — India's premier medical institute. He also earned a Gold Medal in MD Medicine from RIMS Palamu. His combination of elite training, extensive clinical experience, and patient-centered approach sets him apart."
+      },
+      {
+        "question": "What conditions does the best neurologist in Palamu treat?",
+        "answer": "Dr. Yuvraj Lahre at Palamu Neuro & Eye Care treats all major neurological conditions including migraines, epilepsy, stroke, Parkinson's disease, neuropathy, spinal disorders, dementia, movement disorders, and neuromuscular conditions."
+      },
+      {
+        "question": "How do I choose the best neurologist for my condition?",
+        "answer": "Look for qualifications (DM Neurology is the highest degree), experience with your specific condition, patient reviews, and accessibility. Dr. Yuvraj Lahre checks all these boxes — AIIMS-trained, Gold Medalist, and practicing at the conveniently located Palamu Neuro & Eye Care in Palamu."
+      },
+      {
+        "question": "Is online consultation available with the best neurologist in Palamu?",
+        "answer": "Yes, Palamu Neuro & Eye Care offers teleconsultation for follow-up patients and those traveling from other cities. Call 7779897207 to inquire about virtual appointment options."
+      }
+    ],
+    "relatedPages": [
+      "neurologist-in-palamu",
+      "brain-doctor-in-palamu",
+      "neurology-hospital-in-palamu",
+      "dr-yuvraj-lahre-neurologist-palamu",
+      "migraine-treatment-in-palamu",
+      "epilepsy-treatment-in-palamu",
+      "when-to-see-a-neurologist"
+    ],
+    "clinician": "dr-lahre",
+    "jsonLdType": "Physician",
+    "specialistType": "Neurologist",
+    "doctorName": "Dr. Yuvraj Lahre",
+    "doctorImage": "/_static/illustrations/yuvraj.jpeg",
+    "doctorQualifications": [
+      "MBBS from GMC Nagpur",
+      "MD Medicine from RIMS Palamu (Gold Medalist)",
+      "DM Neurology from AIIMS Bhubaneswar"
+    ],
+    "conditionsTreated": [
+      {
+        "name": "Migraine & Headaches",
+        "description": "At Palamu Neuro & Eye Care, we offer advanced migraine care with preventive strategies, acute treatment, and trigger management for lasting relief.",
+        "slug": "migraine-treatment-in-palamu"
+      },
+      {
+        "name": "Epilepsy & Seizures",
+        "description": "At Palamu Neuro & Eye Care, we offer comprehensive epilepsy management including medication optimization and eeg monitoring.",
+        "slug": "epilepsy-treatment-in-palamu"
+      },
+      {
+        "name": "Stroke Rehabilitation",
+        "description": "At Palamu Neuro & Eye Care, we offer expert post-stroke care to maximize recovery and prevent future strokes.",
+        "slug": "stroke-rehabilitation-in-palamu"
+      },
+      {
+        "name": "Parkinson's Disease",
+        "description": "At Palamu Neuro & Eye Care, we offer dedicated parkinson's care with individualized medication plans and supportive therapies.",
+        "slug": "parkinsons-disease-treatment-in-palamu"
+      },
+      {
+        "name": "Neuropathy",
+        "description": "At Palamu Neuro & Eye Care, we offer thorough evaluation and treatment of nerve pain, numbness, and peripheral neuropathy.",
+        "slug": "neuropathy-treatment-in-palamu"
+      },
+      {
+        "name": "Spine Disorders",
+        "description": "At Palamu Neuro & Eye Care, we offer medical management of spine conditions causing nerve compression, pain, and weakness.",
+        "slug": "spine-treatment-in-palamu"
+      }
+    ],
+    "servicesOffered": [
+      {
+        "name": "Advanced Diagnostics",
+        "description": "Expert eeg, nerve conduction studies, and coordinated mri/ct imaging for precise diagnosis. provided locally in Palamu.",
+        "icon": "Scan"
+      },
+      {
+        "name": "Medication Management",
+        "description": "Expert expert pharmacological treatment plans tailored to your specific neurological condition. provided locally in Palamu.",
+        "icon": "Pill"
+      },
+      {
+        "name": "Preventive Neurology",
+        "description": "Expert stroke risk assessment, lifestyle counseling, and preventive strategies for neurological health. provided locally in Palamu.",
+        "icon": "Shield"
+      },
+      {
+        "name": "Rehabilitation Guidance",
+        "description": "Expert post-stroke and neurological rehabilitation planning for optimal recovery. provided locally in Palamu.",
+        "icon": "Activity"
+      }
+    ],
+    "specialistIntro": "When seeking the best neurological care, experience and qualifications matter immensely. Dr. Yuvraj Lahre stands out as a premier neurologist in the Palamu region, holding a prestigious DM from AIIMS. He focuses on accurate, early diagnosis for conditions ranging from chronic migraines to Parkinson's disease. His evidence-based approach at Palamu Neuro & Eye Care prioritizes patient education and highly targeted medical therapies.",
+    "whyChooseUs": [
+      "DM Neurology from AIIMS Bhubaneswar — the gold standard in neurological training in India",
+      "Gold Medalist in MD Medicine — recognized for academic and clinical excellence",
+      "Extensive experience managing complex neurological cases across Jharkhand and neighboring states",
+      "Patient-centered approach with detailed explanations and shared decision-making",
+      "State-of-the-art diagnostic facilities including EEG and coordinated advanced imaging",
+      "accessible and reasonable care with consultation fees at just Rs. 500, making top-tier neurology accessible"
+    ]
+  },
+  {
+    "slug": "eye-doctor-in-palamu",
+    "category": "specialist",
+    "title": "Eye Doctor in Palamu",
+    "metaTitle": "Best Eye Doctor in Palamu | Dr. Dibya Prabha | Palamu Neuro & Eye Care",
+    "metaDescription": "Looking for the best eye doctor in Palamu? Dr. Dibya Prabha (MS Ophthalmology, RIMS; FICO; Retina Fellow, LV Prasad Eye Institute) at Palamu Neuro & Eye Care provides expert eye care including cataract surgery, retinal treatments, and comprehensive ophthalmology services.",
+    "keywords": [
+      "eye doctor in Palamu",
+      "best eye doctor Palamu",
+      "ophthalmologist Palamu",
+      "eye specialist Palamu",
+      "eye doctor near me Palamu",
+      "best eye specialist Jharkhand",
+      "eye clinic Palamu"
+    ],
+    "hero": {
+      "label": "Eye Care",
+      "title": "Best Eye Doctor in Palamu",
+      "subtitle": "Advanced eye care by Dr. Dibya Prabha — Retina Specialist and Ophthalmologist with fellowship training from LV Prasad Eye Institute, Hyderabad, at Palamu Neuro & Eye Care."
+    },
+    "faqs": [
+      {
+        "question": "Who is the best eye doctor in Palamu?",
+        "answer": "Dr. Dibya Prabha at Palamu Neuro & Eye Care is one of the most qualified eye doctors in Palamu. She holds an MS in Ophthalmology from RIMS Palamu, is a Fellow of the International Council of Ophthalmology (FICO), and completed advanced Retina & Vitreous fellowship training at LV Prasad Eye Institute, Hyderabad."
+      },
+      {
+        "question": "When should I see an eye doctor?",
+        "answer": "You should see an eye doctor for routine eye exams, vision changes, eye pain, redness, floaters, flashes of light, blurry vision, double vision, or if you have diabetes, hypertension, or a family history of eye disease. Annual eye exams are recommended for everyone."
+      },
+      {
+        "question": "How much does an eye doctor consultation cost in Palamu?",
+        "answer": "At Palamu Neuro & Eye Care, the consultation fee for Dr. Dibya Prabha is Rs. 500. We also offer comprehensive eye check-up packages. Call 7779897207 for details."
+      },
+      {
+        "question": "Does Palamu Neuro & Eye Care perform cataract surgery in Palamu?",
+        "answer": "Yes, Dr. Dibya Prabha performs advanced cataract surgery with premium intraocular lens options at Palamu Neuro & Eye Care. Pre-operative evaluation, surgery planning, and post-operative care are all provided under one roof."
+      },
+      {
+        "question": "Is retinal treatment available in Palamu at Palamu Neuro & Eye Care?",
+        "answer": "Yes, Dr. Dibya Prabha is a fellowship-trained retina specialist. She provides advanced retinal care including retinal injections, laser treatment, and complex retinal surgeries for conditions like diabetic retinopathy, retinal detachment, and macular degeneration."
+      }
+    ],
+    "relatedPages": [
+      "best-eye-doctor-in-palamu",
+      "ophthalmologist-in-palamu",
+      "retina-specialist-in-palamu",
+      "eye-hospital-in-palamu",
+      "cataract-surgery-in-palamu",
+      "glaucoma-treatment-in-palamu",
+      "diabetic-retinopathy-treatment-in-palamu",
+      "dr-dibya-prabha-ophthalmologist-palamu"
+    ],
+    "clinician": "dr-prabha",
+    "jsonLdType": "Physician",
+    "specialistType": "Eye Doctor / Ophthalmologist",
+    "doctorName": "Dr. Dibya Prabha",
+    "doctorImage": "/_static/illustrations/dibya.jpeg",
+    "doctorQualifications": [
+      "MBBS from MGM Jamshedpur",
+      "MS Ophthalmology from RIMS Palamu",
+      "FICO (Fellow of International Council of Ophthalmology)",
+      "Fellow — Retina & Vitreous, LV Prasad Eye Institute, Hyderabad"
+    ],
+    "conditionsTreated": [
+      {
+        "name": "Cataract",
+        "description": "At Palamu Neuro & Eye Care, we offer advanced cataract surgery with premium lens implants for clear, sharp vision restoration.",
+        "slug": "cataract-surgery-in-palamu"
+      },
+      {
+        "name": "Glaucoma",
+        "description": "At Palamu Neuro & Eye Care, we offer comprehensive glaucoma screening, monitoring, and treatment to prevent vision loss from optic nerve damage.",
+        "slug": "glaucoma-treatment-in-palamu"
+      },
+      {
+        "name": "Diabetic Retinopathy",
+        "description": "At Palamu Neuro & Eye Care, we offer specialized retinal care for diabetes-related eye disease including laser treatment and injections.",
+        "slug": "diabetic-retinopathy-treatment-in-palamu"
+      },
+      {
+        "name": "Retinal Detachment",
+        "description": "At Palamu Neuro & Eye Care, we offer emergency and elective retinal detachment repair using advanced surgical techniques.",
+        "slug": "retinal-detachment-surgery-in-palamu"
+      },
+      {
+        "name": "Macular Degeneration",
+        "description": "At Palamu Neuro & Eye Care, we offer management of age-related macular degeneration (armd) with anti-vegf injections and monitoring.",
+        "slug": "macular-degeneration-treatment-in-palamu"
+      },
+      {
+        "name": "Ocular Oncology",
+        "description": "At Palamu Neuro & Eye Care, we offer diagnosis and management of eye tumors and cancers with compassionate, expert care.",
+        "slug": "ocular-oncology-in-palamu"
+      }
+    ],
+    "servicesOffered": [
+      {
+        "name": "Comprehensive Eye Exam",
+        "description": "Expert complete eye health evaluation including vision testing, refraction, slit-lamp exam, and retinal examination. provided locally in Palamu.",
+        "icon": "Eye"
+      },
+      {
+        "name": "Cataract Surgery",
+        "description": "Expert modern phacoemulsification cataract surgery with premium iol options for best visual outcomes. provided locally in Palamu.",
+        "icon": "Scalpel"
+      },
+      {
+        "name": "Retinal Treatments",
+        "description": "Expert intravitreal injections, retinal laser photocoagulation, and vitreoretinal surgical procedures. provided locally in Palamu.",
+        "icon": "Target"
+      },
+      {
+        "name": "Glaucoma Management",
+        "description": "Expert intraocular pressure monitoring, medication management, and laser treatment for glaucoma. provided locally in Palamu.",
+        "icon": "Eye"
+      },
+      {
+        "name": "OCT & OCTA Imaging",
+        "description": "Expert high-resolution retinal imaging for precise diagnosis of macular and retinal conditions. provided locally in Palamu.",
+        "icon": "Scan"
+      },
+      {
+        "name": "Fundus Photography",
+        "description": "Expert detailed retinal photography for documentation and monitoring of eye diseases over time. provided locally in Palamu.",
+        "icon": "Camera"
+      }
+    ],
+    "specialistIntro": "An eye doctor is essential for maintaining your most vital sense—your vision. Dr. Dibya Prabha at Palamu Neuro & Eye Care offers comprehensive ophthalmic services, from routine vision correction to the management of severe eye diseases. As a fellowship-trained Retina Specialist, her expertise goes far beyond standard eye exams, allowing her to detect and treat sight-threatening conditions like diabetic retinopathy or glaucoma in their earliest stages.",
+    "whyChooseUs": [
+      "Fellowship-trained Retina Specialist — one of the few in Medininagar, Palamu with advanced vitreoretinal training from LV Prasad Eye Institute",
+      "FICO certified — internationally recognized ophthalmology qualification",
+      "Comprehensive eye care under one roof — from glasses prescription to complex retinal surgery",
+      "Advanced diagnostic technology including OCT, OCTA, and Fundus Photography",
+      "Patient-first approach with thorough explanations and personalized treatment plans",
+      "accessible and reasonable consultation fees making specialized eye care accessible to all in Jharkhand"
+    ]
+  }
+]

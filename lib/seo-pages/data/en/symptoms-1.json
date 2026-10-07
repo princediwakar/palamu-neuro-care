@@ -1,0 +1,279 @@
+[
+  {
+    "slug": "headache-specialist-in-palamu",
+    "category": "symptom",
+    "title": "Headache Specialist in Palamu",
+    "metaTitle": "Headache Specialist in Palamu | Migraine & Headache Treatment | Palamu Neuro & Eye Care",
+    "metaDescription": "Consult the best headache specialist in Palamu at Palamu Neuro & Eye Care. Dr. Yuvraj Lahre (DM Neurology, AIIMS) provides expert diagnosis and treatment for migraines, tension headaches, cluster headaches, and chronic daily headaches. Identify your headache type and get lasting relief.",
+    "keywords": [
+      "headache specialist Palamu",
+      "headache treatment Palamu",
+      "headache doctor Palamu",
+      "migraine specialist Palamu",
+      "best headache doctor Jharkhand",
+      "chronic headache treatment Palamu",
+      "cluster headache specialist Palamu",
+      "tension headache treatment Palamu"
+    ],
+    "hero": {
+      "label": "Headache Care",
+      "title": "Headache Specialist in Palamu",
+      "subtitle": "Not all headaches are the same. Get an accurate diagnosis and targeted treatment plan from Dr. Yuvraj Lahre, DM Neurology (AIIMS), Gold Medalist, at Palamu Neuro & Eye Care, Palamu."
+    },
+    "faqs": [
+      {
+        "question": "When should I see a headache specialist instead of a general doctor?",
+        "answer": "You should see a headache specialist when your headaches are frequent (more than twice a week), do not respond to over-the-counter painkillers, are severe enough to disrupt work or daily life, or are accompanied by neurological symptoms such as visual disturbances, numbness, or weakness. A headache specialist can differentiate between migraine, tension-type headache, cluster headache, and secondary headaches caused by underlying conditions — ensuring you get the right treatment rather than just temporary pain relief."
+      },
+      {
+        "question": "What types of headaches does Dr. Yuvraj Lahre treat at Palamu Neuro & Eye Care?",
+        "answer": "Dr. Yuvraj Lahre at Palamu Neuro & Eye Care, Palamu, treats the full spectrum of headache disorders, including: migraines with and without aura, chronic migraine, tension-type headaches, cluster headaches, medication-overuse headaches, cervicogenic headaches (originating from the neck), trigeminal autonomic cephalalgias, and secondary headaches caused by sinus issues, hypertension, or intracranial conditions. Each type requires a different treatment approach."
+      },
+      {
+        "question": "What is the difference between a migraine and a tension headache?",
+        "answer": "Migraines are typically moderate to severe throbbing or pulsing pain, usually on one side of the head, lasting 4 to 72 hours, and often accompanied by nausea, vomiting, and sensitivity to light and sound. Many migraine patients also experience an aura — visual or sensory disturbances before the headache begins. Tension headaches, by contrast, feel like a tight band squeezing both sides of the head with mild to moderate steady pressure, last 30 minutes to several days, and do not typically cause nausea or visual symptoms. Tension headaches are more common but migraines are more disabling. Dr. Lahre uses your detailed history to accurately classify your headache type."
+      },
+      {
+        "question": "Can cluster headaches be treated in Palamu?",
+        "answer": "Yes. Cluster headaches are among the most painful headache disorders, causing intense burning or piercing pain around one eye, often with tearing, nasal congestion, and restlessness. Dr. Yuvraj Lahre provides acute treatments (high-flow oxygen therapy guidance, triptans) and preventive medications (verapamil, lithium, or newer CGRP-based therapies where indicated) to reduce attack frequency and severity. Early diagnosis is critical — many cluster headache patients suffer for years before receiving the correct diagnosis."
+      },
+      {
+        "question": "What investigations might I need for my headaches?",
+        "answer": "Most primary headaches can be diagnosed through a detailed clinical history and neurological examination without any tests. However, Dr. Lahre may recommend investigations if red flags are present: an MRI or CT scan of the brain to rule out structural causes, an EEG if seizures are suspected, blood tests to check for inflammatory markers or metabolic issues, and occasionally a lumbar puncture if raised intracranial pressure or infection is suspected. At Palamu Neuro & Eye Care, we only order tests that are medically necessary based on your specific symptoms."
+      }
+    ],
+    "relatedPages": [
+      "migraine-treatment-in-palamu",
+      "types-of-headaches",
+      "neurologist-in-palamu",
+      "best-neurologist-in-palamu",
+      "eeg-test-in-palamu",
+      "mri-scan-in-palamu",
+      "dr-yuvraj-lahre-neurologist-palamu"
+    ],
+    "clinician": "dr-lahre",
+    "jsonLdType": "MedicalCondition",
+    "symptomName": "Headache",
+    "whenToWorry": [
+      "Sudden thunderclap headache reaching maximum intensity within seconds — this could indicate a ruptured aneurysm or reversible cerebral vasoconstriction syndrome and requires emergency evaluation.",
+      "Headache accompanied by fever, neck stiffness, and sensitivity to light — these are classic signs of meningitis and demand urgent medical attention.",
+      "New-onset headache after age 50 — late-life headaches have a higher likelihood of being secondary to conditions such as giant cell arteritis, which can cause permanent vision loss if untreated.",
+      "Headache with neurological deficits such as weakness on one side of the body, slurred speech, facial drooping, or confusion — these may indicate a stroke and require immediate emergency care.",
+      "Headache that worsens progressively over days to weeks, especially when worse in the morning or accompanied by vomiting without nausea — this pattern raises concern for raised intracranial pressure or a space-occupying lesion.",
+      "Headache triggered by coughing, sneezing, bending, or physical exertion — exertional headaches can be benign but may also indicate posterior fossa pathology or Chiari malformation."
+    ],
+    "possibleCauses": [
+      {
+        "cause": "Migraine (with or without aura)",
+        "description": "A complex neurovascular disorder involving activation of the trigeminovascular system and release of vasoactive peptides like CGRP. Genetic factors play a significant role. Migraines affect approximately 1 in 7 people worldwide and are the second leading cause of years lived with disability. Triggers include hormonal fluctuations, certain foods, stress, sleep changes, and weather shifts."
+      },
+      {
+        "cause": "Tension-Type Headache",
+        "description": "The most common primary headache disorder, caused by pericranial muscle tenderness and central sensitization. Often triggered by stress, poor posture, prolonged screen time, anxiety, or inadequate sleep. Unlike migraines, tension headaches lack pulsating quality and autonomic features. They can become chronic if acute episodes are frequent and poorly managed."
+      },
+      {
+        "cause": "Cluster Headache and Trigeminal Autonomic Cephalalgias",
+        "description": "Relatively rare but extremely painful headaches involving activation of the trigeminal-autonomic reflex. Characterized by strictly unilateral pain with ipsilateral autonomic features (eye redness, tearing, nasal congestion, eyelid drooping). Attacks occur in clusters lasting weeks to months, often at the same time each day. The hypothalamus plays a key role in its pathophysiology."
+      },
+      {
+        "cause": "Medication Overuse Headache",
+        "description": "Occurs when acute headache medications (especially combination analgesics, triptans, or opioids) are taken more than 10 to 15 days per month. The brain develops a dependency on the medication, and withdrawal triggers rebound headaches — creating a vicious cycle. This is one of the most common causes of chronic daily headache and requires supervised withdrawal management."
+      },
+      {
+        "cause": "Cervicogenic Headache",
+        "description": "Referred pain originating from the cervical spine, particularly the upper three cervical segments. Causes include cervical spondylosis, whiplash injury, poor ergonomics, and prolonged neck flexion. Pain typically starts in the neck and radiates to the occipital and frontal regions. Treatment involves addressing the underlying neck pathology."
+      }
+    ],
+    "whichSpecialistToSee": "A neurologist is the ideal specialist for chronic or severe headaches. Dr. Yuvraj Lahre, a highly qualified DM Neurologist at Palamu Neuro & Eye Care, possesses advanced training in distinguishing primary headache disorders from dangerous secondary causes that require immediate attention.",
+    "diagnosticApproach": "Dr. Lahre initiates the evaluation with an in-depth clinical history, analyzing headache patterns, frequency, triggers, and medication use. This is followed by a rigorous neurological exam. While most headaches are diagnosed clinically, Dr. Lahre may order specific imaging (like an MRI) if 'red flag' symptoms are present.",
+    "relatedConditions": [
+      "migraine-treatment-in-palamu",
+      "types-of-headaches",
+      "neurologist-in-palamu",
+      "eeg-test-in-palamu",
+      "mri-scan-in-palamu"
+    ]
+  },
+  {
+    "slug": "seizure-treatment-in-palamu",
+    "category": "symptom",
+    "title": "Seizure Treatment in Palamu",
+    "metaTitle": "Seizure Treatment in Palamu | Epilepsy & Seizure Specialist | Palamu Neuro & Eye Care",
+    "metaDescription": "Expert seizure treatment in Palamu by Dr. Yuvraj Lahre (DM Neurology, AIIMS). Accurate diagnosis, EEG testing, and personalized anti-epileptic medication management for all seizure types. Learn seizure first aid and when to seek emergency care.",
+    "keywords": [
+      "seizure treatment Palamu",
+      "epilepsy treatment Palamu",
+      "seizure doctor Palamu",
+      "epilepsy specialist Palamu",
+      "EEG test Palamu",
+      "fits treatment Palamu",
+      "convulsions treatment Jharkhand",
+      "best epilepsy doctor Palamu"
+    ],
+    "hero": {
+      "label": "Seizure Care",
+      "title": "Seizure Treatment in Palamu",
+      "subtitle": "Expert diagnosis, EEG-based evaluation, and personalized anti-epileptic treatment by Dr. Yuvraj Lahre, DM Neurology (AIIMS), at Palamu Neuro & Eye Care, Palamu. Helping patients achieve seizure freedom and reclaim their lives."
+    },
+    "faqs": [
+      {
+        "question": "What should I do if someone is having a seizure?",
+        "answer": "Follow these first-aid steps: (1) Stay calm and note the time the seizure starts. (2) Clear the area of sharp or hard objects. (3) Gently guide the person to the floor and turn them onto their side to keep the airway clear. (4) Cushion their head with something soft. (5) Remove eyeglasses and loosen tight clothing around the neck. (6) Do NOT restrain them or put anything in their mouth — it is a myth that people swallow their tongue during a seizure. (7) Stay with them until the seizure ends and they regain full consciousness. (8) Call emergency services if the seizure lasts longer than 5 minutes, if they do not regain consciousness, if they have repeated seizures without recovery, or if they are injured, pregnant, or diabetic."
+      },
+      {
+        "question": "What types of seizures does Dr. Yuvraj Lahre treat?",
+        "answer": "Dr. Lahre treats all seizure types recognized by the International League Against Epilepsy (ILAE). Focal onset seizures (with or without impaired awareness), generalized onset seizures (absence, myoclonic, atonic, tonic, clonic, tonic-clonic), and unknown onset seizures. He also manages provoked or acute symptomatic seizures — those triggered by fever (febrile seizures), alcohol withdrawal, metabolic disturbances, or acute brain injury — as well as psychogenic non-epileptic seizures (PNES), which mimic epilepsy but have a psychological basis."
+      },
+      {
+        "question": "Will I need to take medication for life if I have seizures?",
+        "answer": "Not necessarily. The duration of anti-epileptic drug (AED) therapy depends on the underlying cause, seizure type, EEG findings, and response to treatment. For provoked seizures (e.g., febrile seizures or those caused by a reversible metabolic issue), short-term or no treatment may be needed. For unprovoked seizures due to epilepsy, treatment is typically recommended for at least 2 years of seizure freedom before considering a slow, medically supervised taper. Some childhood epilepsies outgrow spontaneously. Dr. Lahre discusses the long-term plan with each patient individually based on their specific epilepsy syndrome."
+      },
+      {
+        "question": "What is an EEG and why is it important for seizure diagnosis?",
+        "answer": "An EEG (electroencephalogram) is a non-invasive test that records the electrical activity of the brain using electrodes placed on the scalp. It is the most important diagnostic tool for epilepsy, helping to: confirm whether spells are epileptic seizures or other events (like syncope or PNES), classify the seizure type and epilepsy syndrome, identify the seizure focus in the brain, and guide medication choice. At Palamu Neuro & Eye Care, Palamu, EEG services are available. In some cases, a sleep-deprived EEG or prolonged video-EEG monitoring may be recommended to capture events."
+      },
+      {
+        "question": "Can children with seizures be treated at Palamu Neuro & Eye Care?",
+        "answer": "Yes. Dr. Yuvraj Lahre evaluates and manages seizures in children above the age of 5 years, including childhood epilepsy syndromes, febrile seizures, and new-onset seizures. He works closely with families to explain the diagnosis, teach seizure recognition, and choose child-friendly medication formulations. For very young children or complex pediatric epilepsy syndromes, coordinated referral to a pediatric neurologist is arranged when needed."
+      }
+    ],
+    "relatedPages": [
+      "migraine-treatment-in-palamu",
+      "neurologist-in-palamu",
+      "best-neurologist-in-palamu",
+      "eeg-test-in-palamu",
+      "mri-scan-in-palamu",
+      "dr-yuvraj-lahre-neurologist-palamu"
+    ],
+    "clinician": "dr-lahre",
+    "jsonLdType": "MedicalCondition",
+    "symptomName": "Seizure",
+    "whenToWorry": [
+      "A seizure lasting more than 5 minutes (status epilepticus) — this is a life-threatening medical emergency. Prolonged seizure activity can cause permanent brain damage due to excitotoxicity and metabolic stress, and the mortality rate of convulsive status epilepticus is approximately 10 to 20 percent.",
+      "Multiple seizures occurring in rapid succession without regaining full consciousness between episodes — this pattern, known as serial seizures or acute repetitive seizures, requires emergency intervention with rescue benzodiazepines and hospital evaluation.",
+      "First-ever seizure in an adult — all first seizures require neurological evaluation with EEG and brain imaging (preferably MRI) to determine the underlying cause, which can range from structural brain lesions to metabolic disorders or genetic epilepsy syndromes.",
+      "Seizure associated with head trauma, drug or alcohol withdrawal, suspected brain infection (fever with altered sensorium), or in a pregnant woman — these specific contexts imply potentially dangerous underlying causes (intracranial hemorrhage, delirium tremens, meningitis, eclampsia) needing urgent targeted treatment.",
+      "Seizure accompanied by prolonged confusion, focal weakness, or speech difficulty that does not resolve within 30 to 60 minutes (Todd's paresis that persists) — this may indicate an underlying structural lesion or ongoing seizure activity requiring urgent imaging.",
+      "A change in seizure pattern in a patient with known epilepsy — increased frequency, new seizure type, or loss of previously achieved seizure control is concerning for disease progression, medication resistance, or development of a new pathology and requires prompt reassessment."
+    ],
+    "possibleCauses": [
+      {
+        "cause": "Epilepsy (Genetic or Structural)",
+        "description": "Epilepsy is a chronic brain disorder defined by an enduring predisposition to generate unprovoked seizures. Genetic epilepsies arise from ion channel mutations or synaptic protein defects (e.g., Dravet syndrome, juvenile myoclonic epilepsy). Structural epilepsies result from brain abnormalities such as hippocampal sclerosis, cortical dysplasia, tumors, or post-stroke scarring. Worldwide, epilepsy affects over 50 million people and carries a two to three times higher risk of premature death compared to the general population."
+      },
+      {
+        "cause": "Febrile Seizures",
+        "description": "Seizures triggered by a rapid rise in body temperature, most commonly in children between 6 months and 5 years of age. Simple febrile seizures are brief (less than 5 minutes), generalized, and occur only once in a 24-hour period — they carry an excellent prognosis and do not typically require long-term AED treatment. Complex febrile seizures are prolonged, focal, or recurrent within 24 hours and carry a slightly higher risk of later epilepsy."
+      },
+      {
+        "cause": "Acute Symptomatic Seizures",
+        "description": "Provoked seizures occurring in close temporal relationship to an acute brain insult. Common triggers include: acute stroke (ischemic or hemorrhagic), traumatic brain injury, central nervous system infections (meningitis, encephalitis, neurocysticercosis), severe metabolic derangements (hypoglycemia, hyponatremia, hypocalcemia, uremia), alcohol or benzodiazepine withdrawal, and drug toxicity. Treatment focuses on the underlying cause rather than long-term anti-epileptic medication."
+      },
+      {
+        "cause": "Brain Tumors and Structural Lesions",
+        "description": "Primary brain tumors (gliomas, meningiomas) and metastatic lesions can cause seizures by disrupting normal cortical circuitry. Seizures are the presenting symptom in 20 to 40 percent of brain tumor patients. Low-grade gliomas and cortically based tumors have the highest epileptogenicity. Treatment involves tumor-directed therapy plus anti-epileptic drugs, though tumor-related epilepsy can be notoriously drug-resistant."
+      },
+      {
+        "cause": "Autoimmune and Inflammatory Causes",
+        "description": "Autoimmune encephalitis (anti-NMDA receptor, anti-LGI1, anti-GAD65 antibodies) is an increasingly recognized cause of seizures, particularly new-onset refractory seizures in previously healthy individuals. Systemic autoimmune diseases like lupus cerebritis, neurosarcoidosis, and Hashimoto's encephalopathy can also present with seizures. Diagnosis requires specific antibody testing, CSF analysis, and MRI — and treatment is immunotherapy rather than standard AEDs alone."
+      }
+    ],
+    "whichSpecialistToSee": "For any suspected seizure activity, immediate consultation with a neurologist is critical. Dr. Yuvraj Lahre in Medininagar brings AIIMS-level expertise to properly classify the seizure type and initiate the most effective, personalized anti-epileptic treatment plan.",
+    "diagnosticApproach": "The cornerstone of Dr. Lahre's diagnosis is a precise eyewitness account of the event. At Palamu Neuro & Eye Care, we utilize advanced EEG testing to capture brain wave abnormalities. Brain imaging, such as an MRI, is also frequently coordinated to rule out structural causes like tumors or past strokes.",
+    "relatedConditions": [
+      "epilepsy-treatment-in-palamu",
+      "neurologist-in-palamu",
+      "eeg-test-in-palamu"
+    ]
+  },
+  {
+    "slug": "vision-loss-treatment-in-palamu",
+    "category": "symptom",
+    "title": "Vision Loss Treatment in Palamu",
+    "metaTitle": "Vision Loss Treatment in Palamu | Retina & Eye Specialist | Palamu Neuro & Eye Care",
+    "metaDescription": "Expert diagnosis and treatment for vision loss in Palamu. Dr. Dibya Prabha (MS Ophthalmology, FICO, Retina Fellow LV Prasad Eye Institute) evaluates sudden and gradual vision loss, retinal diseases, and optic nerve conditions at Palamu Neuro & Eye Care.",
+    "keywords": [
+      "vision loss treatment Palamu",
+      "vision loss specialist Palamu",
+      "eye doctor Palamu",
+      "retina specialist Palamu",
+      "sudden vision loss treatment Palamu",
+      "blurred vision treatment Jharkhand",
+      "ophthalmologist Palamu",
+      "eye specialist near me Palamu"
+    ],
+    "hero": {
+      "label": "Vision Loss Care",
+      "title": "Vision Loss Treatment in Palamu",
+      "subtitle": "Sudden or gradual vision loss is a medical emergency. Dr. Dibya Prabha, MS Ophthalmology (RIMS), FICO, Retina Fellow (LV Prasad Eye Institute, Hyderabad), provides expert evaluation and treatment at Palamu Neuro & Eye Care, Palamu."
+    },
+    "faqs": [
+      {
+        "question": "What are the common causes of sudden vision loss?",
+        "answer": "Sudden vision loss is an ophthalmic emergency. The most common causes Dr. Dibya Prabha evaluates at Palamu Neuro & Eye Care include: retinal artery or vein occlusion (an eye stroke), retinal detachment (where the retina peels away from its blood supply), vitreous hemorrhage (bleeding into the eye's gel), optic neuritis (inflammation of the optic nerve, often associated with multiple sclerosis), giant cell arteritis (inflammation of arteries causing anterior ischemic optic neuropathy in patients over 50), and acute glaucoma. The cause determines the treatment — from laser therapy and intraocular injections to emergency surgery — and time to treatment is the single most important factor affecting visual recovery."
+      },
+      {
+        "question": "What is the difference between retinal and neurological causes of vision loss?",
+        "answer": "Retinal causes (treated by ophthalmologists like Dr. Prabha) involve the eye itself — the retina, macula, vitreous, or blood vessels within the eye. Typical presentations include floaters and flashes (retinal detachment), central distortion (macular disease), and painless progressive loss in one eye. Neurological causes (treated by neurologists) involve the visual pathway behind the eye — the optic nerve, chiasm, tracts, or occipital cortex. Neurological vision loss may present with specific visual field defects (like homonymous hemianopia after a stroke), pain with eye movement (optic neuritis), or associated neurological symptoms. At Palamu Neuro & Eye Care, Dr. Prabha and Dr. Lahre collaborate when the cause is uncertain, ensuring you receive the right specialist care."
+      },
+      {
+        "question": "Can diabetic retinopathy cause permanent vision loss?",
+        "answer": "Yes, diabetic retinopathy is the leading cause of preventable blindness in working-age adults. Chronically high blood sugar damages retinal blood vessels, causing them to leak, bleed, or close off. In advanced stages, abnormal new vessels grow (proliferative diabetic retinopathy), which can bleed into the vitreous or cause tractional retinal detachment. The good news is that vision loss from diabetic retinopathy is largely preventable with strict blood sugar and blood pressure control, annual dilated eye examinations, and timely treatment with laser photocoagulation, intravitreal anti-VEGF injections, or vitrectomy surgery when indicated. Dr. Prabha emphasizes early detection — do not wait for symptoms to appear."
+      },
+      {
+        "question": "When should I seek emergency care for vision loss?",
+        "answer": "Seek emergency ophthalmic care immediately if you experience: sudden, painless vision loss in one eye (like a curtain descending — think retinal detachment or artery occlusion), sudden shower of floaters with flashes of light (retinal tear or detachment), sudden visual field loss (a dark shadow or missing area in your vision), eye trauma with decreased vision, sudden onset of double vision (especially with neurological symptoms), or chemical burn to the eye. At Palamu Neuro & Eye Care, we prioritize emergency eye cases — call 7779897207 and inform our staff about your acute vision problem for urgent evaluation. Time is vision."
+      },
+      {
+        "question": "What diagnostic tests are used for vision loss evaluation?",
+        "answer": "Dr. Dibya Prabha uses a comprehensive diagnostic approach including: (1) detailed visual acuity testing with refraction, (2) slit-lamp biomicroscopy to examine the anterior segment and lens, (3) Goldmann applanation tonometry for intraocular pressure, (4) dilated fundus examination with indirect ophthalmoscopy to visualize the retina, macula, and optic nerve — the single most important test for retinal causes, (5) optical coherence tomography (OCT) for high-resolution cross-sectional imaging of retinal layers, (6) fundus fluorescein angiography to evaluate retinal circulation, (7) visual field testing (perimetry) for optic nerve and neurological lesions, and (8) B-scan ultrasonography when the fundus view is obscured. OCT and perimetry are available at Palamu Neuro & Eye Care."
+      }
+    ],
+    "relatedPages": [
+      "retinal-detachment-surgery-in-palamu",
+      "macular-degeneration-treatment-in-palamu",
+      "diabetic-retinopathy-treatment-in-palamu",
+      "multiple-sclerosis-treatment-in-palamu",
+      "ophthalmologist-in-palamu",
+      "best-eye-doctor-in-palamu"
+    ],
+    "clinician": "dr-prabha",
+    "jsonLdType": "MedicalCondition",
+    "symptomName": "Vision Loss",
+    "whenToWorry": [
+      "Sudden, painless vision loss in one eye lasting more than a few seconds — this is the classic presentation of a retinal artery occlusion (eye stroke) or ischemic optic neuropathy. Central retinal artery occlusion causes irreversible retinal damage within 90 to 120 minutes, making this a true ophthalmological emergency where every minute counts.",
+      "Appearance of a dark curtain or shadow progressing across your visual field, often preceded by a sudden increase in floaters and flashes of light — this strongly suggests a retinal detachment. Without prompt surgical repair, the detached retina loses its blood supply from the underlying choroid, and photoreceptor damage becomes irreversible within days.",
+      "Sudden, painful vision loss with a red eye, cloudy cornea, fixed mid-dilated pupil, and often nausea or vomiting — this is the hallmark of acute angle-closure glaucoma. Intraocular pressure can exceed 60 mmHg (normal is 10 to 21 mmHg), causing rapid and permanent optic nerve damage. Emergency laser iridotomy or medical intervention is required within hours.",
+      "Progressive central vision distortion where straight lines appear wavy or bent, with gradual loss of central acuity — this pattern suggests wet (neovascular) age-related macular degeneration. While not as hyperacute as retinal detachment, anti-VEGF treatment should begin within days to weeks to prevent irreversible scarring of the macula.",
+      "Transient vision loss in one eye, described as a shade coming down and then lifting (amaurosis fugax) — this is a TIA of the retina and a warning sign for an impending stroke. It requires urgent evaluation with carotid Doppler and cardiovascular risk assessment in addition to ophthalmological examination.",
+      "Bilateral gradual vision loss with difficulty seeing at night (nyctalopia), constricted peripheral field, or difficulty distinguishing colors — these suggest retinitis pigmentosa, vitamin A deficiency, or toxic/nutritional optic neuropathy and require comprehensive retinal and neurological evaluation."
+    ],
+    "possibleCauses": [
+      {
+        "cause": "Retinal Detachment",
+        "description": "Separation of the neurosensory retina from the underlying retinal pigment epithelium. Three types: rhegmatogenous (most common, caused by a retinal tear allowing vitreous fluid to seep under the retina, often in high myopes or after trauma), tractional (scar tissue pulls the retina off, seen in advanced diabetic retinopathy), and exudative (fluid accumulation without a tear, seen in inflammation or tumors). Symptoms include sudden floaters, photopsia (flashes), and progressive visual field loss. Surgical repair with scleral buckling, vitrectomy, or pneumatic retinopexy is required."
+      },
+      {
+        "cause": "Macular Degeneration (Age-Related)",
+        "description": "The leading cause of irreversible central vision loss in people over 50. Dry AMD involves drusen accumulation and progressive atrophy of the retinal pigment epithelium and photoreceptors. Wet (neovascular) AMD involves growth of abnormal choroidal neovascular membranes that leak fluid and blood, causing rapid central vision loss and metamorphopsia. Treatment with intravitreal anti-VEGF injections (ranibizumab, aflibercept, bevacizumab) can stabilize and sometimes improve vision in wet AMD if started promptly."
+      },
+      {
+        "cause": "Diabetic Retinopathy",
+        "description": "A microvascular complication of diabetes mellitus affecting the retinal vasculature. Non-proliferative diabetic retinopathy (NPDR) features microaneurysms, dot-blot hemorrhages, hard exudates, and cotton-wool spots. Proliferative diabetic retinopathy (PDR) involves neovascularization — fragile new vessels that can bleed into the vitreous or cause tractional retinal detachment. Diabetic macular edema (DME) is the most common cause of vision loss in diabetic patients. Treatment includes tight metabolic control, laser photocoagulation, and intravitreal anti-VEGF or steroid injections."
+      },
+      {
+        "cause": "Optic Nerve Disorders (Optic Neuritis and Ischemic Optic Neuropathy)",
+        "description": "Optic neuritis is an inflammatory demyelinating condition of the optic nerve, often the first manifestation of multiple sclerosis, presenting with subacute painful vision loss (worsened by eye movement), reduced color vision, and a relative afferent pupillary defect. Non-arteritic anterior ischemic optic neuropathy (NAION) causes sudden, painless vision loss due to infarction of the optic nerve head in patients with a crowded optic disc and vascular risk factors. Arteritic AION from giant cell arteritis requires emergency high-dose steroids to prevent bilateral blindness."
+      }
+    ],
+    "whichSpecialistToSee": "Sudden or unexplained vision loss requires an emergency evaluation by an ophthalmologist. Dr. Dibya Prabha, our Retina & Vitreous Specialist at Palamu Neuro & Eye Care, is expertly trained to quickly identify retinal detachments, vascular occlusions, or severe macular issues.",
+    "diagnosticApproach": "Dr. Prabha performs a rapid, comprehensive dilated eye exam. Depending on the clinical findings, she may utilize high-resolution OCT imaging or fundus photography right in our Palamu clinic to instantly assess the health of the retina, macula, and optic nerve.",
+    "relatedConditions": [
+      "retinal-detachment-surgery-in-palamu",
+      "macular-degeneration-treatment-in-palamu",
+      "diabetic-retinopathy-treatment-in-palamu",
+      "multiple-sclerosis-treatment-in-palamu",
+      "ophthalmologist-in-palamu"
+    ]
+  }
+]

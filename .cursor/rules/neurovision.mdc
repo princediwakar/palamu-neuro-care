@@ -1,0 +1,158 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Neurovision Clinic Homepage - .cursorrules
+## Project Context
+- **Project Name**: Neurovision Clinic Website
+- **Purpose**: Build a professional homepage to increase the digital presence of Neurovision Clinic, showcasing its neurology and ophthalmology specialties and driving patient bookings via WhatsApp.
+- **Clinic Details**:
+  - Location: Ranchi, Jharkhand, India.
+  - Specialties: Neurology (brain, spine, nerve care) and Ophthalmology (eye, retina care).
+  - Doctors:
+    - Dr. Yuvraj Lahre: MBBS, MD Medicine (Ranchi), DM Neurology (AIIMS), Gold Medalist.
+    - Dr. Dibya Prabha: MBBS, MS Ophthalmology, FICO, Fellow - Retina & Vitreous (LVP Eye Institute, Hyderabad).
+  - Target Audience: Patients aged 25–70 from Ranchi, Jharkhand, Bihar, West Bengal, and Chhattisgarh, including urban professionals and rural patients with varying digital literacy.
+  - Regional Focus: Emphasize Ranchi as the primary location, with inclusive messaging for nearby states (e.g., "Serving Jharkhand, Bihar, West Bengal, and Chhattisgarh").
+- **Website Goals**:
+  - Showcase clinic specialties and doctor expertise.
+  - Drive 5–10 weekly WhatsApp bookings within 3 months.
+  - Achieve top 10 SEO rankings for keywords like "neurologist Ranchi," "eye specialist Jharkhand" within 6 months.
+  - Build trust with patient stories and doctor credentials.
+
+## Technical Guidelines
+- **Framework**: Next.js (version 14 or later) for server-side rendering and static site generation.
+- **Styling**: Tailwind CSS for utility-first styling, ensuring responsive and Apple-inspired design.
+- **Animations**: Use `framer-motion` for subtle animations (e.g., fade-in, scale on hover, slide-in on scroll).
+- **Dependencies**:
+  - `next`: For core Next.js functionality.
+  - `tailwindcss`: For styling.
+  - `framer-motion`: For animations.
+  - `next/image`: For optimized images.
+- **File Structure**:
+  - Main page: `pages/index.js` for the homepage.
+  - Components (optional): `components/Header.js`, `components/Section.js`, etc., for reusability.
+  - Assets: `public/logo.png`, `public/hero.jpg`, `public/doctor-lahre.jpg`, `public/doctor-prabha.jpg` for images.
+- **SEO**:
+  - Use Next.js `<Head>` for meta tags.
+  - Meta title: "Neurovision Clinic | Neurologist & Eye Specialist in Ranchi, Jharkhand".
+  - Meta description: "Neurovision Clinic offers expert neurology and ophthalmology care in Ranchi for Jharkhand, Bihar, West Bengal, and Chhattisgarh. Book via WhatsApp."
+  - Keywords: "neurologist Ranchi, eye specialist Jharkhand, retina care Bihar, spine doctor West Bengal, brain specialist Chhattisgarh".
+  - Alt text for all images (e.g., "Neurovision Clinic exterior", "Dr. Yuvraj Lahre headshot").
+- **Accessibility**:
+  - Follow WCAG 2.1 guidelines: high-contrast text (e.g., black on white), alt text for images, keyboard-navigable links/buttons.
+  - Use semantic HTML (`<header>`, `<nav>`, `<section>`, `<footer>`).
+  - Ensure ARIA labels for interactive elements (e.g., `aria-label="Book appointment via WhatsApp"`).
+
+## Design Guidelines
+- **Aesthetic**: Apple-inspired, with big, bold text, clear sections, rounded edges, and minimalistic visuals.
+- **Typography**:
+  - Font: System sans-serif (e.g., -apple-system, SF Pro Display, or fallback to Roboto) for a clean, premium look.
+  - Sizes: 64px (h1), 48px (h2), 24px (subheadings), 18px (body), 14px (small text).
+  - Colors: Black (#000) for primary text, gray (#4B5563) for secondary text.
+- **Color Palette**:
+  - Background: White (#FFF) and light gray (#F9FAFB) for sections.
+  - Accents: Deep blue (#1E3A8A) for trust, green (#15803D) for WhatsApp buttons.
+  - Buttons: Green (#15803D) with white text, white with blue border for secondary buttons.
+- **Layout**:
+  - Sections: Full-width with 50–80px padding, centered content, rounded containers (border-radius: 16px).
+  - Cards: White background, soft shadow, rounded edges (border-radius: 16px).
+  - Navbar: Fixed, transparent with frosted glass effect (backdrop-blur), sticky on scroll.
+- **Visuals**:
+  - Use high-quality, authentic images (clinic exterior, doctor headshots, patient interactions).
+  - Placeholders: `/public/logo.png`, `/public/hero.jpg`, `/public/doctor-lahre.jpg`, `/public/doctor-prabha.jpg`.
+  - Apply rounded edges to images (border-radius: 50% for headshots, 16px for others).
+- **Animations**:
+  - Subtle transitions: Fade-in on section load, scale (1.05x) on button hover, slide-in for cards.
+  - Use `framer-motion` with `initial`, `animate`, and `whileInView` for scroll-triggered effects.
+- **Responsive Design**:
+  - Mobile: Stack sections vertically, collapse navbar to hamburger menu, large WhatsApp buttons.
+  - Desktop: Grid layouts for Services and Doctors, side-by-side cards, centered content.
+  - Use Tailwind classes (e.g., `sm:`, `md:`, `lg:`) for breakpoints.
+
+## Content Guidelines
+- **Tone**: Simple, patient-friendly, professional, and authoritative, avoiding promotional or salesy language.
+- **Language**: Plain English, accessible to urban and rural patients with varying digital literacy.
+- **WhatsApp Booking**:
+  - Link: `https://wa.me/[ClinicNumber]?text=Hi,%20I%20want%20to%20book%20an%20appointment%20for%20neurology%20or%20eye%20care.`
+  - Include in all sections (Welcome, Services, Doctors, Why Neurovision, Patient Stories, Book Now, Footer).
+  - Style: Green button, rounded (border-radius: 9999px), white text, hover effect.
+- **Homepage Sections**:
+  1. **Welcome Section**:
+     - Headline: "Expert Care for Brain, Eyes, Spine" (64px, bold).
+     - Subheadline: "Neurovision’s trusted specialists deliver world-class neurology and ophthalmology care in Ranchi for Jharkhand, Bihar, West Bengal, and Chhattisgarh. Book instantly on WhatsApp." (24px, gray).
+     - Buttons: Primary (WhatsApp, green), Secondary (Services, blue border).
+     - Note: "Trusted Across the Region | Board-Certified Specialists" (14px, gray).
+     - Visual: Full-width hero image (`/public/hero.jpg`), rounded bottom edges.
+  2. **Our Services**:
+     - Title: "What We Do" (48px, bold).
+     - Text: "Our specialists provide advanced care for brain, eye, spine, and nerve conditions, helping patients across Jharkhand, Bihar, West Bengal, and Chhattisgarh live healthier." (20px, gray).
+     - Cards: Neurology and Eye Care, with examples (e.g., migraines, glaucoma), rounded, shadow.
+     - WhatsApp Button: "Need a specialist? Book on WhatsApp."
+  3. **Meet the Doctors**:
+     - Title: "Our Specialists" (48px, bold).
+     - Text: "Our world-class doctors deliver exceptional care for patients from Ranchi, Bihar, West Bengal, and Chhattisgarh." (20px, gray).
+     - Cards: Dr. Yuvraj Lahre and Dr. Dibya Prabha, with credentials and headshots (`/public/doctor-lahre.jpg`, `/public/doctor-prabha.jpg`).
+     - Button: WhatsApp booking.
+  4. **Why Neurovision Excels**:
+     - Title: "Why Neurovision Excels" (48px, bold).
+     - Text: "Neurovision leads in specialized neurology and ophthalmology, delivering unmatched expertise and advanced care across Jharkhand, Bihar, West Bengal, and Chhattisgarh." (20px, gray).
+     - Points: Unmatched Expertise, Comprehensive Care, Cutting-Edge Diagnostics, Accessible for All.
+     - Button: WhatsApp booking.
+  5. **Patient Stories**:
+     - Title: "Patient Stories" (48px, bold).
+     - Text: "Hear from patients we’ve helped in Ranchi, Bihar, West Bengal, and Chhattisgarh." (20px, gray).
+     - Quotes: Sarah M. (Ranchi), Anil K. (Patna), Rina D. (Durgapur).
+     - Button: WhatsApp booking.
+  6. **Book Now Section**:
+     - Title: "Book Your Visit Today" (48px, bold).
+     - Text: "Message us on WhatsApp or call to book your brain or eye visit. We provide in-person or online care for Ranchi, Jharkhand, Bihar, West Bengal, and Chhattisgarh, with flexible scheduling. Easily reachable from Patna, Durgapur, Raipur, and more. Reply within 2 hours." (20px, gray).
+     - Buttons: WhatsApp (green), Call (blue border).
+  7. **Footer**:
+     - Clinic Info: Address ([Street], Ranchi, Jharkhand, [ZIP]), Phone ([Phone Number]), Email ([Email Address]).
+     - Links: Home, About, Services, Blog, Contact, Book Appointment.
+     - Social Media: Facebook, Instagram, LinkedIn, YouTube (placeholders).
+     - WhatsApp Button: Green, rounded.
+     - Copyright: "© 2025 Neurovision Clinic, Ranchi".
+
+## Coding Guidelines
+- **Code Style**:
+  - Use functional components with React hooks (e.g., `useState` for navbar toggle).
+  - Follow ESLint and Prettier defaults for Next.js projects.
+  - Use arrow functions and destructuring for concise code.
+- **Component Structure**:
+  - Main page: `pages/index.js` composes all sections.
+  - Optional: Break into components (`components/Header.js`, `components/Section.js`) for reusability.
+  - Use `motion.div` from `framer-motion` for animations.
+- **Tailwind Classes**:
+  - Typography: `text-5xl`, `text-4xl`, `font-bold`, `text-gray-600`.
+  - Layout: `container`, `mx-auto`, `px-4`, `py-16`, `grid`, `md:grid-cols-2`.
+  - Buttons: `bg-green-600`, `text-white`, `rounded-full`, `hover:bg-green-700`, `transition`, `transform`, `hover:scale-105`.
+  - Cards: `bg-white`, `p-8`, `rounded-2xl`, `shadow-lg`.
+- **Image Handling**:
+  - Use Next.js `<Image>` for optimization.
+  - Ensure alt text for accessibility (e.g., `alt="Dr. Yuvraj Lahre"`).
+- **WhatsApp Links**:
+  - Consistent URL: `https://wa.me/[ClinicNumber]?text=Hi,%20I%20want%20to%20book%20an%20appointment%20for%20neurology%20or%20eye%20care.`.
+  - Add `target="_blank"` and `rel="noopener noreferrer"` for external links.
+- **Error Handling**:
+  - Add fallback content for images (e.g., placeholder if `/public/hero.jpg` is missing).
+  - Ensure navbar toggle works smoothly on mobile.
+
+## Deployment
+- **Platform**: Vercel for seamless Next.js deployment.
+- **Steps**:
+  1. Initialize Next.js project: `npx create-next-app@latest neurovision-clinic --tailwind`.
+  2. Install `framer-motion`: `npm install framer-motion`.
+  3. Push to GitHub and connect to Vercel.
+  4. Configure domain (e.g., `neurovisionclinic.com`).
+- **Environment Variables**:
+  - Store `[ClinicNumber]`, `[Phone Number]`, `[Email Address]` in `.env.local` (e.g., `NEXT_PUBLIC_WHATSAPP_NUMBER`).
+
+## Notes
+- Replace placeholders (`[ClinicNumber]`, `[Street]`, `[Phone Number]`, `[Email Address]`) with actual clinic details before deployment.
+- Use authentic images for logo, hero, and doctor headshots; avoid generic stock photos.
+- Test WhatsApp links on iOS, Android, and desktop to ensure compatibility.
+- Monitor SEO performance using Google Search Console after launch.
+- Ensure content remains patient-friendly and avoids promotional language, focusing on expertise and trust.

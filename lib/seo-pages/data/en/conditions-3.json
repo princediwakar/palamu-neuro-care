@@ -1,0 +1,377 @@
+[
+  {
+    "slug": "diabetic-retinopathy-treatment-in-palamu",
+    "category": "condition",
+    "title": "Diabetic Retinopathy Treatment in Palamu",
+    "metaTitle": "Diabetic Retinopathy Treatment in Palamu | Retina Specialist | Palamu Neuro & Eye Care",
+    "metaDescription": "Expert diabetic retinopathy treatment in Palamu by Dr. Dibya Prabha, Retina & Vitreous Fellow (LV Prasad Eye Institute). Advanced retinal care including anti-VEGF injections, laser photocoagulation, and OCT monitoring. Protect your vision from diabetes complications.",
+    "keywords": [
+      "diabetic retinopathy treatment Palamu",
+      "diabetic eye treatment Palamu",
+      "retina specialist for diabetes Palamu",
+      "diabetic retinopathy laser Palamu",
+      "eye injection for diabetes Palamu",
+      "diabetes eye checkup Palamu",
+      "diabetic retinopathy doctor Jharkhand"
+    ],
+    "hero": {
+      "label": "Retina Care",
+      "title": "Diabetic Retinopathy Treatment in Palamu",
+      "subtitle": "Specialized retinal care for diabetic patients by Dr. Dibya Prabha — Fellowship-trained Retina Specialist from LV Prasad Eye Institute, Hyderabad — at Palamu Neuro & Eye Care, Palamu."
+    },
+    "faqs": [
+      {
+        "question": "How often should diabetic patients get their eyes checked?",
+        "answer": "All diabetic patients should have a comprehensive dilated eye exam at least once a year, even if their vision seems fine. Those with existing diabetic retinopathy may need more frequent checks (every 3-6 months) depending on severity. Dr. Dibya Prabha recommends immediate eye screening at the time of diabetes diagnosis for type 2 diabetes."
+      },
+      {
+        "question": "What is the best treatment for diabetic retinopathy?",
+        "answer": "The best treatment depends on the stage. Early NPDR (non-proliferative) requires strict blood sugar, blood pressure, and cholesterol control. Advanced PDR (proliferative) and diabetic macular edema are treated with anti-VEGF injections, laser photocoagulation, or vitrectomy surgery. Dr. Dibya Prabha customizes treatment to your specific condition."
+      },
+      {
+        "question": "Can vision loss from diabetic retinopathy be reversed?",
+        "answer": "Early diabetic retinopathy changes may improve with excellent blood sugar control. Vision loss from macular edema can often be reversed or significantly improved with anti-VEGF injections. However, vision lost due to prolonged retinal damage, scarring, or detachment may be permanent — which is why early detection and treatment are crucial."
+      },
+      {
+        "question": "Is laser treatment for diabetic retinopathy available in Palamu?",
+        "answer": "Yes, Dr. Dibya Prabha performs retinal laser photocoagulation (both focal/grid laser for macular edema and pan-retinal photocoagulation for proliferative disease) at Palamu Neuro & Eye Care using modern laser equipment."
+      }
+    ],
+    "relatedPages": [
+      "retina-specialist-in-palamu",
+      "eye-doctor-in-palamu",
+      "ophthalmologist-in-palamu",
+      "eye-hospital-in-palamu",
+      "retinal-laser-treatment-in-palamu",
+      "oct-scan-in-palamu",
+      "octa-scan-in-palamu",
+      "fundus-photography-in-palamu",
+      "best-eye-doctor-in-palamu"
+    ],
+    "clinician": "dr-prabha",
+    "jsonLdType": "MedicalCondition",
+    "parentDepartment": "ophthalmology",
+    "conditionName": "Diabetic Retinopathy",
+    "whatIsIt": "Diabetic retinopathy is a serious eye complication arising from long-term or poorly controlled diabetes. It occurs when elevated blood sugar levels progressively weaken the tiny blood vessels in the retina—the light-sensitive tissue at the back of the eye. These damaged vessels can leak fluid, bleed, or close completely, severely distorting vision. In its most advanced form, fragile new blood vessels grow (proliferative diabetic retinopathy), which can lead to severe bleeding and even retinal detachment. As a leading cause of blindness in working-age adults, early detection is critical. With advanced retinal care at Palamu Neuro & Eye Care, the vast majority of vision loss can be successfully prevented.",
+    "symptoms": [
+      "New 'floaters' appearing as dark spots, specks, or cobweb-like strings in your field of vision",
+      "Vision that fluctuates from clear to blurry throughout the day",
+      "Faded or washed-out perception of colors",
+      "Noticeable dark or empty patches (scotomas) in the center of your vision",
+      "Worsening difficulty seeing in low-light conditions or at night",
+      "Sudden, dramatic loss of vision (a red flag for a bleed or detachment in the eye)",
+      "Note: Early diabetic eye disease often presents without any symptoms, making proactive screening vital"
+    ],
+    "causes": [
+      "Prolonged periods of elevated blood sugar levels directly damaging retinal vessels",
+      "The length of time a person has lived with diabetes (risk rises with duration)",
+      "Consistently high HbA1c levels due to poor diabetes management",
+      "Uncontrolled high blood pressure (hypertension) compounding vascular stress",
+      "Elevated cholesterol and triglyceride levels",
+      "Pregnancy in diabetic women, which can trigger or worsen the condition rapidly",
+      "Co-existing diabetic kidney disease (nephropathy)",
+      "Tobacco smoking, which drastically reduces oxygen supply to the retina"
+    ],
+    "diagnosticTests": [
+      {
+        "name": "Fundus Photography",
+        "description": "High-resolution color imaging of the retina to document retinopathy grade and monitor changes over time.",
+        "slug": "fundus-photography-in-palamu"
+      },
+      {
+        "name": "OCT (Optical Coherence Tomography)",
+        "description": "Cross-sectional retinal imaging to detect and measure macular edema — the most common cause of vision loss in diabetic retinopathy.",
+        "slug": "oct-scan-in-palamu"
+      },
+      {
+        "name": "OCTA (OCT Angiography)",
+        "description": "Non-invasive imaging of retinal blood flow showing areas of capillary dropout and abnormal vessels without dye injection.",
+        "slug": "octa-scan-in-palamu"
+      }
+    ],
+    "treatmentApproach": {
+      "intro": "Dr. Dibya Prabha utilizes the latest fellowship-trained techniques to manage diabetic eye disease and preserve vision in Palamu:",
+      "methods": [
+        {
+          "name": "Systemic Medical Coordination",
+          "description": "Collaborating with local physicians to stabilize blood sugar, blood pressure, and cholesterol, which forms the bedrock of long-term retinal health."
+        },
+        {
+          "name": "Anti-VEGF Therapy",
+          "description": "Administering precise intravitreal injections (such as aflibercept or ranibizumab) to halt abnormal blood vessel growth and reduce macular swelling, preserving central vision."
+        },
+        {
+          "name": "Targeted Laser Treatments",
+          "description": "Using precise laser photocoagulation to seal leaking vessels in the macula or to shrink abnormal new vessels in proliferative stages, preventing major bleeds."
+        },
+        {
+          "name": "Advanced Vitrectomy",
+          "description": "For severe complications like persistent vitreous hemorrhage or tractional retinal detachment, Dr. Prabha provides expert surgical intervention to restore sight."
+        }
+      ]
+    },
+    "whenToSeeDoctor": [
+      "If you have diabetes — schedule an immediate comprehensive dilated eye exam (do not wait for symptoms)",
+      "Annually — every diabetic patient needs a retinal examination at least once a year",
+      "If you notice new floaters, flashes, or any change in vision",
+      "If your vision becomes blurry and doesn't improve with glasses",
+      "During pregnancy if you have diabetes — more frequent monitoring is essential",
+      "If your HbA1c or blood pressure is uncontrolled — eye complications progress faster"
+    ],
+    "clinicalObservations": [
+      {
+        "standardView": "Standard ophthalmology guidelines recommend annual dilated fundus examination for all diabetic patients, with anti-VEGF injections or laser photocoagulation for those who develop proliferative diabetic retinopathy or diabetic macular oedema.",
+        "palamuObservation": "Dr. Dibya Prabha at Palamu Neuro & Eye Care sees diabetic retinopathy in Jharkhand patients at significantly more advanced stages than in metropolitan Indian cities. By the time a patient from rural Palamu or Khunti walks into our clinic, they often have already developed vitreous haemorrhage or tractional retinal detachment — complications that require complex vitreoretinal surgery rather than simple laser treatment.",
+        "treatmentModification": "We run monthly diabetic retinopathy screening camps in Palamu's peripheral blocks with a portable fundus camera, and educate diabetics in Hindi that 'sugar ki bimari aankhon ki roshni cheen sakti hai' (diabetes can steal eyesight) — even when vision seems normal. We offer same-day OCT and OCTA imaging so the patient sees their own retinal scans.",
+        "clinician": "dr-prabha"
+      }
+    ]
+  },
+  {
+    "slug": "retinal-detachment-surgery-in-palamu",
+    "category": "condition",
+    "title": "Retinal Detachment Surgery in Palamu",
+    "metaTitle": "Retinal Detachment Surgery in Palamu | Retina Surgeon | Palamu Neuro & Eye Care",
+    "metaDescription": "Urgent retinal detachment surgery in Palamu by Dr. Dibya Prabha, Retina & Vitreous Fellow. Expert surgical repair including vitrectomy, scleral buckle, and pneumatic retinopexy. Emergency retina care to save your vision at Palamu Neuro & Eye Care.",
+    "keywords": [
+      "retinal detachment surgery Palamu",
+      "retina surgery Palamu",
+      "vitrectomy surgery Palamu",
+      "retinal detachment treatment Palamu",
+      "scleral buckle surgery Palamu",
+      "emergency retina surgery Palamu",
+      "retina operation Jharkhand",
+      "retinal detachment doctor Palamu"
+    ],
+    "hero": {
+      "label": "Emergency Retina Care",
+      "title": "Retinal Detachment Surgery in Palamu",
+      "subtitle": "Urgent, expert surgical care for retinal detachment by Dr. Dibya Prabha — Fellowship-trained Retina & Vitreous Surgeon — at Palamu Neuro & Eye Care, Palamu."
+    },
+    "faqs": [
+      {
+        "question": "Is retinal detachment an emergency?",
+        "answer": "Yes. Retinal detachment is a medical emergency. The sooner the retina is reattached, the better the visual outcome. If the macula (central retina) detaches, permanent central vision loss can occur within days. If you experience sudden flashes, floaters, or a curtain-like shadow, seek immediate eye care."
+      },
+      {
+        "question": "What types of retinal detachment surgery are available in Palamu?",
+        "answer": "Dr. Dibya Prabha at Palamu Neuro & Eye Care offers the three main types of retinal detachment repair: vitrectomy (removing the vitreous gel and reattaching the retina with gas or silicone oil tamponade), scleral buckle (an external band to support the detached retina), and pneumatic retinopexy (gas bubble injection for select cases). The choice depends on the type, location, and severity of detachment."
+      },
+      {
+        "question": "How successful is retinal detachment surgery?",
+        "answer": "Retinal detachment surgery has a success rate of approximately 85-95% for anatomical reattachment. Visual recovery depends on whether the macula was detached before surgery, how quickly surgery was performed, and any pre-existing eye conditions. Even when the retina is successfully reattached, some degree of vision change is common."
+      },
+      {
+        "question": "What is recovery like after retinal detachment surgery?",
+        "answer": "Recovery depends on the type of surgery. With gas tamponade, you may need to maintain a specific head position (face-down or side-position) for several days to weeks. Air travel and high altitudes must be avoided until the gas bubble dissolves. Most patients take 2-4 weeks off work. Dr. Prabha provides detailed recovery instructions and monitors your healing closely."
+      }
+    ],
+    "relatedPages": [
+      "retina-specialist-in-palamu",
+      "eye-doctor-in-palamu",
+      "eye-hospital-in-palamu",
+      "macular-hole-surgery-in-palamu",
+      "uveitis-treatment-in-palamu",
+      "oct-scan-in-palamu",
+      "vision-loss-treatment-in-palamu",
+      "when-to-see-an-ophthalmologist",
+      "best-eye-doctor-in-palamu"
+    ],
+    "clinician": "dr-prabha",
+    "jsonLdType": "MedicalProcedure",
+    "parentDepartment": "ophthalmology",
+    "conditionName": "Retinal Detachment",
+    "whatIsIt": "Retinal detachment is an acute medical emergency where the retina—the vital neurological tissue at the back of the eye—pulls away from its normal position and blood supply. When detached, the retinal cells are starved of oxygen and nourishment, leading to rapid and potentially permanent blindness if not surgically repaired. It can occur due to a tear in the retina allowing fluid to seep underneath (most common), or from scar tissue pulling on the retina (often seen in advanced diabetes). Immediate evaluation by a retina specialist like Dr. Dibya Prabha in Medininagar is crucial to saving your sight.",
+    "symptoms": [
+      "A sudden and dramatic increase in the number of floaters (spots or cobwebs)",
+      "Unexpected flashes of light (photopsia), resembling lightning streaks, usually in the peripheral vision",
+      "A dark shadow or 'curtain' seemingly descending or moving across your visual field",
+      "A rapid, painless decline in overall vision clarity",
+      "A heavy sensation or feeling as if something is obstructing your eye",
+      "Immediate loss of central vision if the detachment involves the macula"
+    ],
+    "causes": [
+      "Age-related separation of the vitreous gel from the retina (Posterior Vitreous Detachment)",
+      "High degrees of nearsightedness (myopia), which naturally thins the retina",
+      "Direct trauma, blunt force, or penetrating injury to the eye",
+      "Complications from previous ocular procedures, including cataract surgery",
+      "Lattice degeneration (congenital thinning of the peripheral retina)",
+      "Advanced, untreated diabetic retinopathy causing scar tissue traction",
+      "A genetic predisposition or family history of retinal detachments",
+      "Having experienced a retinal detachment previously in the other eye"
+    ],
+    "diagnosticTests": [
+      {
+        "name": "Dilated Fundus Examination",
+        "description": "The primary diagnostic test — detailed examination of the entire retina to locate tears, holes, and extent of detachment.",
+        "slug": "retina-specialist-in-palamu"
+      },
+      {
+        "name": "OCT (Optical Coherence Tomography)",
+        "description": "High-resolution cross-sectional imaging to confirm detachment, assess macular involvement, and plan surgery.",
+        "slug": "oct-scan-in-palamu"
+      },
+      {
+        "name": "Fundus Photography",
+        "description": "Wide-field retinal photography to document the detachment and any retinal tears for surgical planning.",
+        "slug": "fundus-photography-in-palamu"
+      }
+    ],
+    "treatmentApproach": {
+      "intro": "Time is critical. Dr. Dibya Prabha offers urgent, state-of-the-art surgical interventions for retinal detachments:",
+      "methods": [
+        {
+          "name": "Micro-Incision Vitrectomy",
+          "description": "A sophisticated surgery to remove the vitreous gel, drain fluid from behind the retina, and reattach it using a temporary gas bubble or silicone oil."
+        },
+        {
+          "name": "Scleral Buckling",
+          "description": "Placing a flexible silicone band around the equator of the eye to gently push the eyewall against the detached retina, permanently relieving traction."
+        },
+        {
+          "name": "Pneumatic Retinopexy",
+          "description": "For specific types of small, upper-retina detachments, an expansile gas bubble is injected into the eye to push the retina back into place, sealed with laser or freezing."
+        }
+      ]
+    },
+    "whenToSeeDoctor": [
+      "Immediately — if you experience sudden increase in floaters, flashes of light, or a shadow/curtain in your peripheral vision. This is a medical emergency.",
+      "If you have had a recent eye injury and notice any vision changes",
+      "If you are highly myopic and notice new floaters or flashes — you are at higher risk",
+      "If you have a family history of retinal detachment and experience any warning symptoms",
+      "After any eye surgery — report any new visual symptoms promptly"
+    ],
+    "clinicalObservations": [
+      {
+        "standardView": "Standard vitreoretinal textbooks describe retinal detachment as a separation of the neurosensory retina from the retinal pigment epithelium, classified as rhegmatogenous, tractional, or exudative. Timely surgical repair within 7–10 days is recommended for macula-on detachments.",
+        "palamuObservation": "Dr. Dibya Prabha at Palamu Neuro & Eye Care notes that retinal detachment patients from rural Jharkhand routinely arrive 2–4 weeks after the initial 'curtain' or 'shadow' symptom, having first consulted local practitioners who may prescribe eye drops for presumed 'weak eyesight.' The delay means macula-on detachments have often progressed to macula-off by the time surgery is performed, reducing the chance of full visual recovery.",
+        "treatmentModification": "We educate general practitioners and optometrists across Palamu and neighbouring districts that 'sudden flashes and floaters with a shadow in peripheral vision is a retinal emergency — send the patient to a retina specialist the same day.' We also train patients post-operatively in Hindi about positioning requirements after gas or silicone oil tamponade.",
+        "clinician": "dr-prabha"
+      }
+    ]
+  },
+  {
+    "slug": "macular-degeneration-treatment-in-palamu",
+    "category": "condition",
+    "title": "Macular Degeneration Treatment in Palamu",
+    "metaTitle": "Macular Degeneration (ARMD) Treatment in Palamu | Retina Specialist | Palamu Neuro & Eye Care",
+    "metaDescription": "Expert age-related macular degeneration (ARMD) treatment in Palamu by Dr. Dibya Prabha, Retina Specialist. Advanced anti-VEGF injections, OCT monitoring, and comprehensive management for both dry and wet ARMD at Palamu Neuro & Eye Care.",
+    "keywords": [
+      "macular degeneration treatment Palamu",
+      "ARMD treatment Palamu",
+      "eye injection for ARMD Palamu",
+      "retina doctor for ARMD Palamu",
+      "wet AMD treatment Palamu",
+      "macular degeneration specialist Palamu",
+      "anti VEGF injection Palamu",
+      "ARMD doctor Jharkhand"
+    ],
+    "hero": {
+      "label": "Macular Care",
+      "title": "Macular Degeneration Treatment in Palamu",
+      "subtitle": "Expert care for age-related macular degeneration (ARMD) by Dr. Dibya Prabha — Retina Specialist — at Palamu Neuro & Eye Care. Advanced anti-VEGF therapy with OCT-guided monitoring."
+    },
+    "faqs": [
+      {
+        "question": "What is the difference between dry and wet ARMD?",
+        "answer": "Dry ARMD is the more common form (90% of cases), involving gradual thinning of the macula with drusen (yellow deposits) accumulation. It progresses slowly over years. Wet ARMD is less common but more severe, involving abnormal blood vessel growth under the macula that leaks fluid and blood, causing rapid vision loss. Wet ARMD requires urgent treatment with anti-VEGF injections."
+      },
+      {
+        "question": "Can ARMD be treated?",
+        "answer": "Wet ARMD is treatable with anti-VEGF injections (ranibizumab, aflibercept, bevacizumab) that stop abnormal blood vessel growth and leakage. With regular injections, most patients maintain or even gain vision. For dry ARMD, treatment focuses on AREDS2 vitamin supplements and lifestyle measures to slow progression. Dr. Dibya Prabha provides both."
+      },
+      {
+        "question": "How often are anti-VEGF injections needed?",
+        "answer": "Initially, monthly injections are typical for 3-4 months. After that, Dr. Prabha uses a 'treat-and-extend' protocol — gradually increasing the interval between injections (to 6, 8, 10, or 12 weeks) while monitoring with OCT to ensure the macula remains dry. Some patients eventually need injections only every 10-12 weeks."
+      },
+      {
+        "question": "Are eye injections painful?",
+        "answer": "The eye is numbed with anesthetic drops before the injection. Most patients feel only mild pressure or no sensation at all. The actual injection takes less than a second. Dr. Prabha performs injections with meticulous sterile technique to minimize any infection risk."
+      }
+    ],
+    "relatedPages": [
+      "retina-specialist-in-palamu",
+      "eye-doctor-in-palamu",
+      "ophthalmologist-in-palamu",
+      "eye-hospital-in-palamu",
+      "oct-scan-in-palamu",
+      "octa-scan-in-palamu",
+      "fundus-photography-in-palamu",
+      "vision-loss-treatment-in-palamu",
+      "best-eye-doctor-in-palamu"
+    ],
+    "clinician": "dr-prabha",
+    "jsonLdType": "MedicalCondition",
+    "parentDepartment": "ophthalmology",
+    "conditionName": "Age-Related Macular Degeneration (ARMD)",
+    "whatIsIt": "Age-Related Macular Degeneration (ARMD) is a progressive eye condition that damages the macula—the central part of the retina responsible for crisp, straight-ahead vision. This disease severely affects a person's ability to read, drive, and recognize faces. It comes in two primary forms: 'Dry' ARMD (the most common), which involves slow tissue thinning and yellow deposits called drusen; and 'Wet' ARMD, a more aggressive form where fragile, abnormal blood vessels grow and leak fluid under the macula. As a leading cause of severe vision loss in older adults, comprehensive monitoring and advanced treatment at Palamu Neuro & Eye Care can significantly slow its progression.",
+    "symptoms": [
+      "A gradual or sudden decline in central visual sharpness",
+      "Visual distortions where straight lines appear wavy, bent, or irregular (metamorphopsia)",
+      "The appearance of dark, blurry, or completely blank spots in the center of your vision",
+      "Increasing difficulty with tasks that require fine detail, such as reading or threading a needle",
+      "Colors appearing faded, dull, or less vibrant than usual",
+      "Trouble adapting when moving from a brightly lit environment into a dim one",
+      "A persistent need for much brighter lighting for close-up work"
+    ],
+    "causes": [
+      "Advancing age is the primary factor, particularly in individuals over the age of 60",
+      "A strong genetic component and family history of macular degeneration",
+      "Tobacco smoking, which drastically accelerates the risk and progression of the disease",
+      "Cardiovascular issues, including high blood pressure and elevated cholesterol",
+      "A poor diet lacking essential antioxidants, vitamins, and omega-3 fatty acids",
+      "Extensive, unprotected exposure to intense sunlight and UV radiation over a lifetime",
+      "Obesity and an inactive lifestyle"
+    ],
+    "diagnosticTests": [
+      {
+        "name": "OCT (Optical Coherence Tomography)",
+        "description": "The essential imaging tool for ARMD. High-resolution cross-sections of the macula detect fluid, drusen, and retinal thinning. Essential for diagnosing wet ARMD and monitoring treatment response.",
+        "slug": "oct-scan-in-palamu"
+      },
+      {
+        "name": "OCTA (OCT Angiography)",
+        "description": "Non-invasive imaging of retinal blood flow that can detect abnormal choroidal neovascularization (the hallmark of wet ARMD) without dye injection.",
+        "slug": "octa-scan-in-palamu"
+      },
+      {
+        "name": "Fundus Photography",
+        "description": "Color retinal imaging to document drusen, pigment changes, hemorrhage, and other ARMD features for long-term monitoring.",
+        "slug": "fundus-photography-in-palamu"
+      }
+    ],
+    "treatmentApproach": {
+      "intro": "Dr. Dibya Prabha provides highly specialized ARMD management tailored to the specific type and stage of your condition:",
+      "methods": [
+        {
+          "name": "Intravitreal Anti-VEGF Therapy",
+          "description": "For Wet ARMD, routine injections of advanced medications (like aflibercept or ranibizumab) into the eye stop abnormal vessel growth, dry out the macula, and preserve central vision."
+        },
+        {
+          "name": "Nutritional and Lifestyle Counseling",
+          "description": "For Dry ARMD, prescribing specific high-dose AREDS2 vitamin formulations and advising on diet modifications (like increasing leafy greens) to slow disease progression."
+        },
+        {
+          "name": "Precision OCT Monitoring",
+          "description": "Utilizing state-of-the-art Optical Coherence Tomography (OCT) at our Medininagar clinic to track macular thickness at a microscopic level and guide timely treatment decisions."
+        }
+      ]
+    },
+    "whenToSeeDoctor": [
+      "If you notice any distortion in your central vision — wavy or bent straight lines",
+      "If you experience a gradual or sudden decline in central vision",
+      "If colors appear less vivid than before",
+      "Annually after age 50 — comprehensive eye exam with retinal evaluation",
+      "If you have a family history of ARMD — begin screening at an earlier age",
+      "If you are a smoker or former smoker — screening is especially important"
+    ],
+    "clinicalObservations": [
+      {
+        "standardView": "Standard ophthalmology texts describe age-related macular degeneration (ARMD) as the leading cause of irreversible vision loss in the elderly, with dry ARMD managed by nutritional supplements (AREDS2 formula) and wet ARMD treated with intravitreal anti-VEGF injections.",
+        "palamuObservation": "Dr. Dibya Prabha at Palamu Neuro & Eye Care observes that ARMD in Jharkhand's elderly is frequently exacerbated by chronic sun exposure from a lifetime of outdoor agricultural work without UV protection. Additionally, poor dietary intake of lutein and zeaxanthin — found in green leafy vegetables — contributes to faster progression, as many elderly in rural areas subsist on rice-heavy diets with limited vegetable variety.",
+        "treatmentModification": "We counsel patients and their families in Hindi about the importance of eating green leafy vegetables (saag), yellow-orange fruits, and wearing a wide-brimmed hat or cap when outdoors — low-cost interventions that can slow dry ARMD progression. For wet ARMD, we offer intravitreal anti-VEGF injections with a pro-re-nata (PRN) protocol to reduce the financial burden of monthly injections.",
+        "clinician": "dr-prabha"
+      }
+    ]
+  }
+]

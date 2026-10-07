@@ -1,0 +1,189 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+Neurovision Clinic Homepage Content
+Header/Navbar
+
+Logo: Neurovision Clinic logo, left-aligned, bold sans-serif or custom icon, linking to homepage.
+Navigation Links: Centered, bold sans-serif (SF Pro Text, 16px, black):
+Home
+About
+Services (dropdown: Neurology, Ophthalmology)
+Blog
+Contact
+
+
+Book Appointment Button: Right-aligned, green button (rounded, 16px padding, white text, WhatsApp icon), linking to https://wa.me/[ClinicNumber]?text=Hi,%20I%20want%20to%20book%20an%20appointment%20for%20neurology%20or%20eye%20care.
+Design: Transparent navbar with frosted glass effect, sticky on scroll, subtle shadow, hover animations (links underline, button scales 1.1x).
+Mobile: Hamburger menu (rounded icon) collapses links; WhatsApp button remains prominent.
+
+
+Welcome Section
+Big Text
+Expert Care for Brain, Eyes, Spine
+Small Text
+Neurovision’s trusted specialists deliver world-class neurology and ophthalmology care in Ranchi for Jharkhand, Bihar, West Bengal, and Chhattisgarh. Book instantly on WhatsApp.
+Buttons
+
+Main: Book on WhatsApp (green, rounded, 20px padding, bold text)
+Extra: See Our Services (white with blue border, rounded, 16px padding)
+
+Extra Note
+Trusted Across the Region | Board-Certified Specialists
+Design
+
+Typography: SF Pro Display, 64px for headline (black, bold), 24px for subheadline (gray), 16px for note (gray).
+Visual: Full-width hero image of clinic or doctors with patients, subtle blue gradient overlay, rounded bottom edges.
+Animation: Fade-in on load, button scales on hover.
+Layout: Centered text, 100px padding, white background, rounded container with soft shadow.
+
+
+Our Services
+Title
+What We Do
+Text
+Our specialists provide advanced care for brain, eye, spine, and nerve conditions, helping patients across Jharkhand, Bihar, West Bengal, and Chhattisgarh live healthier.
+Neurology
+
+We treat headaches, spine pain, and complex brain conditions common in our region.
+Examples: Migraines, epilepsy, back pain, stroke recovery, Parkinson’s.
+Learn About Neurology
+
+Eye Care
+
+We diagnose and treat eye and retina conditions, especially for diabetes or advanced cases.
+Examples: Glaucoma, cataracts, diabetic eye issues, retina disorders.
+Learn About Eye Care
+
+WhatsApp Note
+Need a specialist? Book on WhatsApp
+Design
+
+Typography: SF Pro Display, 48px for title, 20px for text, 18px for examples (black/gray).
+Visual: Two cards (rounded, soft shadow) with icons (brain, eye), minimal blue/green accents.
+Animation: Cards fade-in on scroll, buttons pulse subtly on hover.
+Layout: Grid layout, 50px section padding, white background, centered content.
+
+
+Meet the Doctors
+Title
+Our Specialists
+Text
+Our world-class doctors deliver exceptional care for patients from Ranchi, Bihar, West Bengal, and Chhattisgarh.
+Neurologist
+
+Name: Dr. Yuvraj Lahre, MBBS, MD Medicine (Ranchi), DM Neurology (AIIMS), Gold Medalist
+Text: Expert in brain, spine, and nerve care with elite training from AIIMS.
+
+Eye Doctor
+
+Name: Dr. Dibya Prabha, MBBS, MS Ophthalmology, FICO, Fellow - Retina & Vitreous (LVP Eye Institute, Hyderabad)
+Text: Specialist in eye and retina care to protect and restore vision.
+
+Button
+Book with Our Specialists (green, rounded)
+Design
+
+Typography: SF Pro Display, 48px for title, 20px for text, 18px for credentials (black/gray).
+Visual: Two cards (rounded, soft shadow) with doctor headshots (circular, bordered), blue accent for neurology, green for eye care.
+Animation: Cards slide-in on scroll, button glows on hover.
+Layout: Side-by-side cards, 50px padding, light gray background.
+
+
+Why Neurovision Stands Out
+Title
+Why Neurovision Excels
+Text
+Neurovision leads in specialized neurology and ophthalmology, delivering unmatched expertise and advanced care across Jharkhand, Bihar, West Bengal, and Chhattisgarh.
+Points
+
+Unmatched Expertise: Our doctors, trained at AIIMS and LVP Eye Institute, bring world-class neurology and retina care.
+Comprehensive Care: A rare clinic combining advanced brain, spine, and eye care in one place.
+Cutting-Edge Diagnostics: State-of-the-art technology for precise brain, spine, and eye assessments.
+Accessible for All: Seamless WhatsApp or phone booking with flexible in-person or online visits.
+
+Button
+Book Your Visit Now (green, rounded)
+Design
+
+Typography: SF Pro Display, 48px for title, 20px for text, 18px for points (black/gray).
+Visual: Four cards (rounded, minimal border) with icons (brain, eye, tech, phone), blue/green gradients.
+Animation: Cards zoom-in on scroll, button scales on hover.
+Layout: Grid layout, 50px padding, white background, centered.
+
+
+Patient Stories
+Title
+Patient Stories
+Text
+Hear from patients we’ve helped in Ranchi, Bihar, West Bengal, and Chhattisgarh.
+Quotes
+
+“Dr. Lahre stopped my migraines. WhatsApp booking was so simple!” – Sarah M., Ranchi
+“Dr. Prabha saved my vision from diabetes. Great care!” – Anil K., Patna, Bihar
+“My back pain is gone, and booking on WhatsApp was easy.” – Rina D., Durgapur, West Bengal
+
+Button
+Ready to Book? Use WhatsApp (green, rounded)
+Design
+
+Typography: SF Pro Display, 48px for title, 20px for text, 18px for quotes (black/gray).
+Visual: Carousel of quote cards (rounded, soft shadow), subtle blue background.
+Animation: Carousel auto-scrolls, pauses on hover; button pulses.
+Layout: Centered carousel, 50px padding, light gray background.
+
+
+Book Now Section
+Title
+Book Your Visit Today
+Text
+Message us on WhatsApp or call to book your brain or eye visit. We provide in-person or online care for Ranchi, Jharkhand, Bihar, West Bengal, and Chhattisgarh, with flexible scheduling. Easily reachable from Patna, Durgapur, Raipur, and more. Reply within 2 hours.
+Buttons
+
+Main: Message Now (green, rounded, large)
+Extra: Call Now ([Phone Number]) (white with blue border, rounded)
+
+Design
+
+Typography: SF Pro Display, 48px for title, 20px for text (black/gray).
+Visual: Full-width section with green gradient background, rounded container.
+Animation: Buttons fade-in, scale on hover.
+Layout: Centered content, 80px padding, bold WhatsApp button.
+
+
+Footer
+Clinic Info
+
+Address: [Street], Ranchi, Jharkhand, [ZIP]
+Phone: [Phone Number]
+Email: [Email Address]
+
+Links
+
+Home
+About
+Services
+Blog
+Contact
+Book Appointment
+
+Social Media
+
+Facebook
+Instagram
+LinkedIn
+YouTube
+
+WhatsApp
+Book on WhatsApp (green, rounded)
+Copyright
+© 2025 Neurovision Clinic, Ranchi
+Design
+
+Typography: SF Pro Text, 14px (gray).
+Visual: Dark blue background, white text, rounded social media icons.
+Animation: Links underline on hover, WhatsApp button glows.
+Layout: Three-column grid (info, links, social/WhatsApp), 50px padding.
+

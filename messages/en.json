@@ -1,0 +1,874 @@
+{
+  "nav": {
+    "neurology": "Neurology",
+    "ophthalmology": "Ophthalmology",
+    "doctors": "Doctors",
+    "videos": "Videos",
+    "gallery": "Gallery"
+  },
+  "cta": {
+    "bookAppointment": "Book Appointment",
+    "contactUs": "Contact Us",
+    "callNow": "Call Now",
+    "callToBook": "Call {phone}",
+    "whatsappUs": "WhatsApp Us"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "ourSpecialists": "Our Specialists",
+    "neuroConditions": "Neuro Conditions",
+    "eyeConditions": "Eye Conditions",
+    "company": "Company",
+    "clinicName": "Palamu Neuro & Eye Care",
+    "home": "Home",
+    "doctors": "Doctors",
+    "videos": "Videos",
+    "gallery": "Gallery",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "neurology": "Neurology",
+    "ophthalmology": "Ophthalmology",
+    "neurologist": "Neurologist",
+    "ophthalmologist": "Ophthalmologist",
+    "eyeSpecialist": "Eye Specialist",
+    "retinaSpecialist": "Retina Specialist",
+    "migraine": "Migraine",
+    "epilepsy": "Epilepsy",
+    "stroke": "Stroke",
+    "spineBackPain": "Spine & Back Pain",
+    "parkinsonsDisease": "Parkinson's Disease",
+    "neuropathy": "Neuropathy",
+    "cataract": "Cataract",
+    "glaucoma": "Glaucoma",
+    "diabeticRetinopathy": "Diabetic Retinopathy",
+    "retinalDetachment": "Retinal Detachment",
+    "macularDegeneration": "Macular Degeneration"
+  },
+  "common": {
+    "readMore": "Read More",
+    "home": "Home",
+    "viewOnGoogleMaps": "View on Google Maps",
+    "getDirections": "Get directions on Google Maps",
+    "loadMore": "Load More Images",
+    "alsoExplore": "Also Explore",
+    "frequentlyAskedQuestions": "Frequently Asked Questions",
+    "copyright": "Palamu Neuro & Eye Care, Palamu."
+  },
+  "homepage": {
+    "conditionsTitle": "Ailments We Manage",
+    "metaTitle": "Palamu Neuro & Eye Care - Leading Neurologist in Palamu | Dr. Yuvraj Lahre | Epilepsy & Migraine Treatment",
+    "metaDescription": "Palamu Neuro & Eye Care provides trusted neurology and eye care services in Palamu. We specialize in epilepsy, migraine, and other neurological disorders. Schedule your visit with Dr. Yuvraj Lahre, renowned neurologist in Palamu.",
+    "metaKeywords": "neurologist in Palamu, eye specialist in Jharkhand, retina care in Bihar, spine doctor in West Bengal, brain specialist in Chhattisgarh, neurology clinic, eye clinic, Palamu Neuro & Eye Care",
+    "conditionsLabel": "We're Here to Help",
+    "conditionsSubtitle": "From migraines to retinal issues, our experts offer specialized care for various neurological and eye-related conditions.",
+    "neuroHeading": "Brain & Nerve Disorders",
+    "eyeHeading": "Eye Disorders"
+  },
+  "gallery": {
+    "label": "Gallery",
+    "title": "Explore Our Gallery",
+    "subtitle": "Get a glimpse into the events, patient interactions, and advanced facilities at Palamu Neuro & Eye Care. From medical conferences to compassionate care, we are committed to delivering top-tier neurology and ophthalmology services across Jharkhand, Bihar, Chhattisgarh, and West Bengal."
+  },
+  "videos": {
+    "label": "Learning Resources",
+    "title": "Insights from Our Experts",
+    "subtitle": "Watch expert videos on brain, spine, nerve, and eye health from Dr. Yuvraj Lahre and Dr. Dibya Prabha, specialists at Palamu Neuro & Eye Care.",
+    "neuroVideosTitle": "Neurology Videos by Dr. Yuvraj Lahre",
+    "eyeVideosTitle": "Ophthalmology Videos by Dr. Dibya Prabha",
+    "viewAllNeuro": "View All Neurology Videos",
+    "viewAllEye": "View All Ophthalmology Videos",
+    "learnMore": "Learn more →",
+    "neuroVideos": [
+      {
+        "title": "Brain Stroke",
+        "description": "Brain stroke is a serious and common neurological emergency. This video helps you understand how it happens, its risk factors, warning signs, and treatment options."
+      },
+      {
+        "title": "Spinal Tuberculosis",
+        "description": "Get insights into spinal TB and its treatment options from Dr. Lahre."
+      },
+      {
+        "title": "Nerve Pain Solutions",
+        "description": "Understand the basic anatomy of brain infections like meningitis and encephalitis."
+      }
+    ],
+    "eyeVideos": [
+      {
+        "title": "Conjunctivitis | Pink Eye",
+        "description": "Conjunctivitis is an eye infection caused by viruses or bacteria. It spreads easily and typically causes red eyes, watering, gritty feeling, crusting, and discharge."
+      },
+      {
+        "title": "Cataract Symptoms",
+        "description": "Learn about the symptoms of cataract and the surgery process."
+      },
+      {
+        "title": "Pterygium/ Nakhuna",
+        "description": "Pterygium is a common eye condition affecting both men and women, often due to sunlight, dust, and smoke. Surgery is the treatment."
+      }
+    ]
+  },
+  "doctors": {
+    "label": "Our Specialists",
+    "title": "Meet the Doctors",
+    "subtitle": "Our specialists provide advanced care for brain, eye, spine, and nerve conditions, helping patients across Jharkhand, Bihar, West Bengal, and Chhattisgarh live healthier.",
+    "missionTitle": "Our Mission",
+    "missionText1": "At Palamu Neuro & Eye Care, we are committed to providing world-class care for brain, eye, spine, and nerve conditions. Our mission is to improve the quality of life for our patients through advanced diagnostics, personalized treatment plans, and compassionate care.",
+    "missionText2": "We serve patients from Palamu, Jharkhand, Bihar, West Bengal, and Chhattisgarh, ensuring accessible and inclusive healthcare for all.",
+    "educationAndTraining": "Education & Training",
+    "achievements": "Achievements",
+    "specializations": "Specializations",
+    "lahreName": "Dr. Yuvraj Lahre",
+    "prabhaName": "Dr. Dibya Prabha",
+    "lahreTitle": "Neurologist",
+    "prabhaTitle": "Ophthalmologist & Retina Specialist",
+    "lahreBio": "Dr. Yuvraj Lahre is passionate about bringing advanced neurology care to Palamu and surrounding areas. He believes in treating each patient with empathy and understanding, ensuring they receive the best possible care.",
+    "prabhaBio": "Dr. Dibya Prabha is dedicated to providing cutting-edge eye care to the people of Palamu and nearby regions. She is known for her compassionate approach and commitment to patient well-being.",
+    "viewFullProfile": "View full profile →",
+    "lahreQualifications": "MBBS, MD Medicine, DM Neurology (AIIMS), Gold Medalist",
+    "lahreDegree2": "MD in Medicine",
+    "lahreDegree3": "DM in Neurology",
+    "lahreInstitution1": "GMC Nagpur",
+    "lahreInstitution2": "RIMS Palamu",
+    "lahreInstitution3": "AIIMS, Bhubaneswar",
+    "lahreAchievement1Title": "Gold Medalist",
+    "lahreAchievement1Desc": "Neurology during DM training",
+    "lahreAchievement2Title": "Research Publications",
+    "lahreAchievement2Desc": "Published over 20 research papers in national and international journals",
+    "lahreAchievement3Title": "Conference Speaker",
+    "lahreAchievement3Desc": "Regular speaker at national neurology conferences",
+    "prabhaQualifications": "MBBS, MS Ophthalmology, FICO, Fellow - Retina & Vitreous",
+    "prabhaDegree2": "MD in Ophthalmology",
+    "prabhaDegree3": "Fellowship",
+    "prabhaInstitution1": "MGM Jamshedpur",
+    "prabhaInstitution2": "RIMS Palamu",
+    "prabhaInstitution3": "LV Prasad Eye Institute, Hyderabad",
+    "prabhaSpecializations": [
+      "Diabetic Retinopathy",
+      "Retinal Detachment",
+      "Endophthalmitis",
+      "Macular Hole",
+      "ARMD (Age-Related Macular Degeneration)",
+      "Ocular Oncology"
+    ],
+    "degreeMBBS": "MBBS"
+  },
+  "clinic": {
+    "name": "Palamu Neuro & Eye Care",
+    "address": "Address",
+    "fullAddress": "Sitakunj police line road, Hamidganj, Medininagar, Jharkhand 822102",
+    "phone": "Phone",
+    "whatsapp": "WhatsApp",
+    "hours": "Hours",
+    "chatWithUs": "Chat with us"
+  },
+  "language": {
+    "switchTo": "हिन्दी"
+  },
+  "templates": {
+    "condition": {
+      "whatIs": "What is {condition}?",
+      "symptomsOf": "Symptoms of {condition}",
+      "causesAndRiskFactors": "Causes & Risk Factors",
+      "diagnosticTests": "Diagnostic Tests",
+      "treatmentApproach": "Treatment Approach",
+      "whenToSeeDoctor": "When to See a Doctor",
+      "clinicalObservations": "Clinical Observations at Palamu Neuro & Eye Care",
+      "standardMedicalLiterature": "Standard medical literature states:",
+      "treatmentOutcomes": "Treatment Outcomes at Palamu Neuro & Eye Care"
+    },
+    "diagnostic": {
+      "whatIs": "What is {test}?",
+      "whyItIsDone": "Why is {test} Done?",
+      "howItIsPerformed": "How {test} is Performed",
+      "howToPrepare": "How to Prepare",
+      "relatedConditions": "Related Conditions",
+      "relatedConditionsIntro": "{testName} helps diagnose and monitor these conditions. Explore our condition pages for more detailed information about each.",
+      "clinicalObservations": "Clinical Observations at Palamu Neuro & Eye Care",
+      "standardMedicalLiterature": "Standard medical literature states:"
+    },
+    "symptom": {
+      "whenToWorry": "When to Worry",
+      "possibleCauses": "Possible Causes",
+      "whichSpecialistToSee": "Which Specialist Should You See?",
+      "diagnosticApproach": "Diagnostic Approach",
+      "experiencing": "Experiencing {symptom}?",
+      "ctaDescription": "Don't ignore your symptoms. Get expert evaluation from {doctorName} at Palamu Neuro & Eye Care, Palamu.",
+      "clinicalObservations": "Clinical Observations at Palamu Neuro & Eye Care",
+      "standardMedicalLiterature": "Standard medical literature states:"
+    },
+    "specialist": {
+      "whatIsA": "What is a {specialist}?",
+      "conditionsTreated": "Conditions Treated",
+      "servicesOffered": "Services Offered",
+      "whyChoose": "Why Choose {doctor} at {clinic}?",
+      "clinicalObservations": "Clinical Observations at Palamu Neuro & Eye Care",
+      "standardMedicalLiterature": "Standard medical literature states:"
+    },
+    "location": {
+      "doctorServing": "{doctorTitle} Serving {city}",
+      "travelInfo": "Travel Information — {city} to Palamu",
+      "servicesAvailableFor": "Services Available for {city} Patients",
+      "areasWeServe": "Areas We Serve Around {city}",
+      "visitingFrom": "Visiting from {city}?",
+      "visitingDesc": "Call us to plan your visit. We'll help coordinate your appointment and provide any travel guidance you need.",
+      "callToBook": "Call {phone}",
+      "whatsappUs": "WhatsApp Us",
+      "clinicDescription": "Palamu Neuro & Eye Care in Palamu, led by {doctorName} ({doctorTitle}), provides specialized {department} care to patients from {city}, {state}, and the surrounding region. Located just {distance} from {city}, our clinic offers accessible, high-quality care that may not be readily available in your city.",
+      "neurological": "neurological",
+      "ophthalmologyRetinal": "ophthalmology and retinal"
+    },
+    "info": {
+      "consultAt": "Consult {doctor} at Palamu Neuro & Eye Care, Palamu."
+    },
+    "doctor": {
+      "educationAndTraining": "Education & Training",
+      "specializationsAndExpertise": "Specializations & Expertise",
+      "achievementsAndRecognition": "Achievements & Recognition",
+      "bookAppointmentWith": "Book an Appointment with {doctor}",
+      "visitClinic": "Visit {clinic}, Palamu. Open Mon–Sat, 9 AM – 8 PM."
+    }
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "Oops! The page you're looking for doesn't exist. Let's get you back on track.",
+    "buttonText": "Book a visit today"
+  },
+  "pages": {
+    "neurology": {
+      "metaTitle": "Neurology Department - Palamu Neuro & Eye Care",
+      "metaDescription": "Discover advanced neurology care at Palamu Neuro & Eye Care. We treat brain, spine, and nerve disorders with expertise, serving Palamu, Jharkhand, and nearby regions.",
+      "headerLabel": "Neurology Services",
+      "headerTitle": "Trusted Care for Brain, Spine, and Nerve Disorders",
+      "headerSubtitle": "At Palamu Neuro & Eye Care, we deliver advanced neurological diagnosis and treatment for patients across Jharkhand, Bihar, Chhattisgarh, and West Bengal, ensuring expert care close to home.",
+      "departments": [
+        {
+          "title": "Neurology",
+          "description": "The Neurology Department at Palamu Neuro & Eye Care offers comprehensive care for a variety of neurological disorders. Our skilled neurologists, led by Dr. Yuvraj Lahre, use modern diagnostic tools and advanced treatments to address brain, spine, and nerve conditions. Whether managing chronic issues like migraines and epilepsy or providing rehabilitation after a stroke, we focus on improving daily life for our patients. As a leading neurology center in Palamu, Jharkhand, we proudly serve the region. Our services include:",
+          "services": [
+            {
+              "name": "Migraine Management",
+              "details": "Tailored treatment plans for chronic migraines, including medications and lifestyle changes.",
+              "benefits": [
+                "Fewer and less severe migraines",
+                "Personalized care plans",
+                "Better daily functioning"
+              ]
+            },
+            {
+              "name": "Epilepsy Care",
+              "details": "Complete epilepsy care, from diagnosis to medication and surgical options.",
+              "benefits": [
+                "Accurate diagnosis with EEG and imaging",
+                "Customized medication plans",
+                "Surgical options for refractory cases"
+              ]
+            },
+            {
+              "name": "Stroke Rehabilitation",
+              "details": "Specialized rehab programs to help patients recover from strokes and regain independence.",
+              "benefits": [
+                "Physical and occupational therapy",
+                "Speech and language therapy",
+                "Support for emotional and mental health"
+              ]
+            },
+            {
+              "name": "Parkinson's Disease Treatment",
+              "details": "Advanced treatments and therapies to manage Parkinson's disease and improve quality of life.",
+              "benefits": [
+                "Medication management",
+                "Deep brain stimulation (DBS)",
+                "Physical and speech therapy"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Services",
+          "description": "We provide a range of diagnostic services to accurately identify and monitor neurological conditions. Our advanced technology ensures precise and timely diagnoses.",
+          "services": [
+            {
+              "name": "MRI and CT Scans",
+              "details": "High-resolution imaging for detailed brain and spine analysis.",
+              "benefits": [
+                "Non-invasive and painless",
+                "Detailed images for accurate diagnosis",
+                "Quick results for timely treatment"
+              ]
+            },
+            {
+              "name": "Electroencephalogram (EEG)",
+              "details": "Monitoring brain activity to diagnose epilepsy and other neurological disorders.",
+              "benefits": [
+                "Non-invasive and safe",
+                "Accurate diagnosis of seizure disorders",
+                "Customized treatment plans"
+              ]
+            }
+          ]
+        }
+      ],
+      "keyBenefits": "Key Benefits:",
+      "learnMore": "Learn more →",
+      "commonConditions": {
+        "heading": "Common Conditions We Treat",
+        "subtitle": "Expert diagnosis and treatment for a wide range of neurological conditions at Palamu Neuro & Eye Care, Palamu."
+      },
+      "meetOurSpecialists": {
+        "heading": "Meet Our Specialists",
+        "subtitle": "Our team is led by experienced, fellowship-trained specialists dedicated to providing the highest standard of neurological care."
+      },
+      "diagnosticTests": {
+        "heading": "Advanced Diagnostic Tests",
+        "subtitle": "We use state-of-the-art technology to accurately diagnose and monitor neurological conditions."
+      },
+      "stats": {
+        "patientsTreated": "10,000+",
+        "patientsTreatedLabel": "Patients Treated",
+        "experience": "15+",
+        "experienceLabel": "Years of Experience",
+        "successRate": "98%",
+        "successRateLabel": "Success Rate"
+      }
+    },
+    "ophthalmology": {
+      "metaTitle": "Eye Department - Palamu Neuro & Eye Care",
+      "metaDescription": "Discover our advanced eye services at Palamu Neuro & Eye Care, providing expert treatment for eye conditions in Palamu, Jharkhand.",
+      "headerLabel": "Eye Services",
+      "headerTitle": "Expert Care for Eye Conditions",
+      "headerSubtitle": "At Palamu Neuro & Eye Care, we offer advanced eye services to diagnose and treat various eye disorders, serving patients from Palamu, Jharkhand, and nearby areas.",
+      "departments": [
+        {
+          "title": "Eye Department",
+          "description": "The Eye Department at Palamu Neuro & Eye Care leads in eye care, offering advanced diagnostics and personalized treatment plans for various conditions. Our experienced ophthalmologists, led by Dr. Dibya Prabha, specialize in managing complex disorders such as retinal diseases, cataracts, glaucoma, and eye tumors. With a patient-focused approach, we strive to deliver the highest standard of care, ensuring better outcomes and improved quality of life for our patients. Serving Palamu, Jharkhand, and beyond, we are dedicated to excellence in eye care. Our services include:",
+          "services": [
+            {
+              "name": "Retinal Injection",
+              "details": "Injecting medications directly into the retina to treat conditions like macular degeneration and diabetic retinopathy.",
+              "benefits": [
+                "Effective treatment for retinal diseases",
+                "Minimally invasive procedure",
+                "Quick recovery time"
+              ]
+            },
+            {
+              "name": "Retinal Laser",
+              "details": "Using laser technology to treat retinal conditions such as diabetic retinopathy and retinal tears.",
+              "benefits": [
+                "Precise and targeted treatment",
+                "Non-invasive procedure",
+                "Prevents further vision loss"
+              ]
+            },
+            {
+              "name": "Complex Retinal Surgery",
+              "details": "Advanced surgical techniques to repair complex retinal conditions like retinal detachment and macular holes.",
+              "benefits": [
+                "High success rates",
+                "Restores vision in severe cases",
+                "Minimally invasive options available"
+              ]
+            },
+            {
+              "name": "Cataract Surgery",
+              "details": "State-of-the-art cataract removal and lens replacement surgery to restore clear vision.",
+              "benefits": [
+                "Quick and painless procedure",
+                "Improved vision within days",
+                "Customized intraocular lenses (IOLs)"
+              ]
+            },
+            {
+              "name": "Fundus Photograph",
+              "details": "High-resolution imaging of the retina to diagnose and monitor eye conditions.",
+              "benefits": [
+                "Non-invasive and painless",
+                "Detailed images for accurate diagnosis",
+                "Quick results for timely treatment"
+              ]
+            },
+            {
+              "name": "OCT (Optical Coherence Tomography)",
+              "details": "Non-invasive imaging for detailed retina and optic nerve analysis.",
+              "benefits": [
+                "High-resolution images",
+                "Early detection of eye diseases",
+                "Quick and painless procedure"
+              ]
+            },
+            {
+              "name": "OCTA (Optical Coherence Tomography Angiography)",
+              "details": "Advanced imaging to visualize blood flow in the retina and choroid.",
+              "benefits": [
+                "Non-invasive and detailed",
+                "Early detection of vascular eye diseases",
+                "Quick and painless procedure"
+              ]
+            },
+            {
+              "name": "Retinal Detachment",
+              "details": "Specialized care for retinal detachment, including surgical repair.",
+              "benefits": [
+                "High success rates",
+                "Restores vision in severe cases",
+                "Minimally invasive options available"
+              ]
+            },
+            {
+              "name": "Endophthalmitis",
+              "details": "Treatment for severe eye infections, including antibiotics and surgery.",
+              "benefits": [
+                "Prevents vision loss",
+                "Customized treatment plans",
+                "Quick and effective care"
+              ]
+            },
+            {
+              "name": "Macular Hole",
+              "details": "Surgical repair of macular holes to restore central vision.",
+              "benefits": [
+                "High success rates",
+                "Restores central vision",
+                "Minimally invasive options available"
+              ]
+            },
+            {
+              "name": "ARMD (Age-Related Macular Degeneration)",
+              "details": "Comprehensive care for ARMD, including medications and laser therapy.",
+              "benefits": [
+                "Slows disease progression",
+                "Preserves vision",
+                "Personalized treatment plans"
+              ]
+            },
+            {
+              "name": "Ocular Oncology",
+              "details": "Specialized care for eye tumors, including diagnosis and treatment.",
+              "benefits": [
+                "Accurate diagnosis",
+                "Customized treatment plans",
+                "Preserves vision and eye health"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Diagnostic Services",
+          "description": "We offer a range of diagnostic services to accurately identify and monitor eye conditions. Our advanced technology ensures precise and timely diagnoses.",
+          "services": [
+            {
+              "name": "Optical Coherence Tomography (OCT)",
+              "details": "Non-invasive imaging for detailed retina and optic nerve analysis.",
+              "benefits": [
+                "High-resolution images",
+                "Early detection of eye diseases",
+                "Quick and painless procedure"
+              ]
+            },
+            {
+              "name": "Visual Field Testing",
+              "details": "Assessing peripheral vision to detect glaucoma and other eye conditions.",
+              "benefits": [
+                "Early detection of vision loss",
+                "Customized treatment plans",
+                "Non-invasive and quick"
+              ]
+            }
+          ]
+        }
+      ],
+      "keyBenefits": "Key Benefits:",
+      "learnMore": "Learn more →",
+      "commonConditions": {
+        "heading": "Common Conditions We Treat",
+        "subtitle": "Expert diagnosis and treatment for a wide range of eye conditions at Palamu Neuro & Eye Care, Palamu."
+      },
+      "meetOurSpecialists": {
+        "heading": "Meet Our Specialists",
+        "subtitle": "Our team is led by experienced, fellowship-trained specialists dedicated to providing the highest standard of eye care."
+      },
+      "diagnosticTests": {
+        "heading": "Advanced Diagnostic Tests",
+        "subtitle": "We use state-of-the-art technology to accurately diagnose and monitor eye conditions."
+      },
+      "commonSymptoms": {
+        "heading": "Common Eye Symptoms",
+        "subtitle": "Expert evaluation and treatment for eye-related symptoms at Palamu Neuro & Eye Care, Palamu."
+      },
+      "stats": {
+        "patientsTreated": "10,000+",
+        "patientsTreatedLabel": "Patients Treated",
+        "experience": "15+",
+        "experienceLabel": "Years of Experience",
+        "successRate": "98%",
+        "successRateLabel": "Success Rate"
+      }
+    },
+    "privacy": {
+      "metaTitle": "Privacy Policy - Palamu Neuro & Eye Care",
+      "metaDescription": "Learn how Palamu Neuro & Eye Care collects, uses, and protects your data.",
+      "title": "Privacy Policy",
+      "lastUpdated": "Last updated: May 18, 2025",
+      "sections": [
+        {
+          "heading": "1. Introduction",
+          "body": [
+            "Welcome to Palamu Neuro & Eye Care! This Privacy Policy explains how we collect, use, and protect your personal information when you use our services. By engaging with Palamu Neuro & Eye Care, you agree to the terms outlined in this policy."
+          ]
+        },
+        {
+          "heading": "2. Information We Collect",
+          "body": [
+            "We may collect the following types of information:",
+            "Personal Information: Name, email address, phone number, and other details you provide when booking an appointment or using our services.",
+            "Medical Information: Health history, symptoms, and treatment details relevant to your care.",
+            "Usage Data: Information about how you interact with our website, such as pages visited and time spent.",
+            "Cookies and Tracking: We use cookies and similar technologies to enhance your experience and analyze website usage."
+          ]
+        },
+        {
+          "heading": "3. How We Use Your Information",
+          "body": [
+            "We use your information for the following purposes:",
+            "To provide, maintain, and improve our medical services.",
+            "To communicate with you about appointments, follow-ups, and health updates.",
+            "To personalize your experience and provide relevant health information.",
+            "To comply with legal obligations and protect patient rights."
+          ]
+        },
+        {
+          "heading": "4. Data Sharing and Disclosure",
+          "body": [
+            "We do not sell your personal information. However, we may share it in the following cases:",
+            "Medical Professionals: With doctors and specialists involved in your care.",
+            "Legal Requirements: When required by law or to protect patient safety.",
+            "Service Providers: With third-party vendors who assist in operating our clinic (e.g., IT support, billing)."
+          ]
+        },
+        {
+          "heading": "5. Data Security",
+          "body": [
+            "We take reasonable measures to protect your data from unauthorized access, alteration, or destruction. All medical records are stored securely and accessed only by authorized personnel."
+          ]
+        },
+        {
+          "heading": "6. Your Rights",
+          "body": [
+            "You have the following rights regarding your data:",
+            "Access and update your personal information.",
+            "Request deletion of your data, subject to legal and medical retention requirements.",
+            "Opt-out of non-essential communications.",
+            "Withdraw consent for data processing, where applicable.",
+            "To exercise these rights, contact us at hello@palamu-neuro-care.app."
+          ]
+        },
+        {
+          "heading": "7. Third-Party Links",
+          "body": [
+            "Our website may contain links to third-party websites or services. We are not responsible for their privacy practices. Please review their policies before providing any information."
+          ]
+        },
+        {
+          "heading": "8. Changes to This Policy",
+          "body": [
+            "We may update this Privacy Policy from time to time. We will notify you of significant changes by posting the new policy on our website or sending you an email."
+          ]
+        },
+        {
+          "heading": "9. Contact Us",
+          "body": [
+            "If you have any questions about this Privacy Policy, please contact us at:",
+            "hello@palamu-neuro-care.app",
+            "Phone: +91 7779897207",
+            "Address: Sitakunj police line road, Hamidganj, Medininagar, Jharkhand 822102"
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "metaTitle": "Terms of Service - Palamu Neuro & Eye Care",
+      "metaDescription": "Learn the rules and guidelines for using Palamu Neuro & Eye Care's services.",
+      "title": "Terms of Service",
+      "lastUpdated": "Last updated: May 18, 2025",
+      "sections": [
+        {
+          "heading": "1. Acceptance of Terms",
+          "body": [
+            "By accessing or using Palamu Neuro & Eye Care (\"the Clinic\"), you agree to be bound by these Terms of Service (\"Terms\"). If you do not agree to these Terms, you may not use our services."
+          ]
+        },
+        {
+          "heading": "2. Use of Services",
+          "body": [
+            "You agree to use the Clinic's services only for lawful purposes and in accordance with these Terms:",
+            "You must provide accurate and complete information when booking appointments or using our services.",
+            "You are responsible for maintaining the confidentiality of your medical records and account information.",
+            "You agree not to use the Clinic's services for any illegal or unauthorized purpose.",
+            "You must not interfere with or disrupt the operation of the Clinic's services."
+          ]
+        },
+        {
+          "heading": "3. Intellectual Property",
+          "body": [
+            "All content, features, and functionality of the Clinic's website and services, including but not limited to text, graphics, logos, and software, are the property of Palamu Neuro & Eye Care or its licensors and are protected by intellectual property laws.",
+            "You may not reproduce, distribute, modify, or create derivative works of any content without our prior written consent."
+          ]
+        },
+        {
+          "heading": "4. Patient Responsibilities",
+          "body": [
+            "As a patient, you are responsible for providing accurate health information, attending scheduled appointments, and following the treatment plans prescribed by our doctors.",
+            "You agree not to misuse the Clinic's services or engage in any behavior that could harm the Clinic or its staff."
+          ]
+        },
+        {
+          "heading": "5. Prohibited Activities",
+          "body": [
+            "You agree not to engage in any of the following activities:",
+            "Violating any applicable laws or regulations.",
+            "Harassing, abusing, or harming Clinic staff or other patients.",
+            "Uploading viruses or malicious code to the Clinic's systems.",
+            "Attempting to gain unauthorized access to the Clinic's records or systems."
+          ]
+        },
+        {
+          "heading": "6. Limitation of Liability",
+          "body": [
+            "Palamu Neuro & Eye Care and its affiliates shall not be liable for any indirect, incidental, or consequential damages arising out of your use of our services. In no event shall our total liability exceed the amount you paid for the services."
+          ]
+        },
+        {
+          "heading": "7. Termination",
+          "body": [
+            "We reserve the right to terminate or suspend your access to the Clinic's services at any time, without notice, for any reason, including but not limited to a violation of these Terms."
+          ]
+        },
+        {
+          "heading": "8. Changes to These Terms",
+          "body": [
+            "We may update these Terms from time to time. We will notify you of significant changes by posting the new Terms on our website or sending you an email. Your continued use of the Clinic's services after such changes constitutes your acceptance of the updated Terms."
+          ]
+        },
+        {
+          "heading": "9. Governing Law",
+          "body": [
+            "These Terms shall be governed by and construed in accordance with the laws of Palamu, Jharkhand, without regard to its conflict of law principles."
+          ]
+        },
+        {
+          "heading": "10. Contact Us",
+          "body": [
+            "If you have any questions about these Terms of Service, please contact us at:",
+            "hello@palamu-neuro-care.app",
+            "Phone: +91 7779897207",
+            "Address: Sitakunj police line road, Hamidganj, Medininagar, Jharkhand 822102"
+          ]
+        }
+      ]
+    }
+  },
+  "sections": {
+    "stats": {
+      "patients": "10,000+",
+      "patientsLabel": "Patients Served",
+      "experience": "15+",
+      "experienceLabel": "Years Combined Experience",
+      "specialists": "2",
+      "specialistsLabel": "Board-Certified Specialists",
+      "states": "4",
+      "statesLabel": "States Served"
+    },
+    "hero": {
+      "heading": "Advanced Care for <highlight>Brain, Eyes & Spine</highlight> in Palamu",
+      "description": "At Palamu Neuro & Eye Care, our expert neurologists and eye specialists provide top-tier treatment right here in Palamu, Jharkhand. Patients from across Jharkhand, Bihar, West Bengal, and Chhattisgarh trust us for compassionate, world-class care. Book your visit on WhatsApp in seconds.",
+      "trustBadge": "Regional Trust | Certified Specialists",
+      "bookButton": "Book Your Appointment",
+      "slideLabels": [
+        "Neurology",
+        "Ophthalmology",
+        "Spine Treatment"
+      ]
+    },
+    "services": {
+      "label": "What We Do",
+      "title": "Our Services",
+      "subtitle": "Our specialists offer advanced care for brain, eye, spine, and nerve conditions, helping patients across Jharkhand, Bihar, West Bengal, and Chhattisgarh lead healthier lives.",
+      "conditionsWeTreat": "Conditions We Treat:",
+      "askButton": "Book a Consultation",
+      "items": [
+        {
+          "title": "Brain Care",
+          "description": "Expert diagnosis and treatment for brain conditions, including migraines, epilepsy, stroke, and Parkinson's disease.",
+          "conditions": [
+            "Migraines",
+            "Epilepsy",
+            "Stroke Recovery",
+            "Parkinson's"
+          ]
+        },
+        {
+          "title": "Eye Care",
+          "description": "Comprehensive eye care for conditions like glaucoma, cataracts, and diabetic eye issues.",
+          "conditions": [
+            "Glaucoma",
+            "Cataracts",
+            "Diabetic Eye Issues",
+            "Retinal Disorders"
+          ]
+        },
+        {
+          "title": "Nerve Care",
+          "description": "Advanced treatment for nerve-related conditions, including neuropathy and carpal tunnel syndrome.",
+          "conditions": [
+            "Neuropathy",
+            "Carpal Tunnel Syndrome",
+            "Nerve Pain"
+          ]
+        },
+        {
+          "title": "Retina Care",
+          "description": "Specialized care for retinal conditions, including retinal detachment, macular degeneration, and diabetic retinopathy.",
+          "conditions": [
+            "Retinal Detachment",
+            "Macular Degeneration",
+            "Diabetic Retinopathy"
+          ]
+        },
+        {
+          "title": "Spine Care",
+          "description": "Expert care for spine conditions, including back pain, herniated discs, and spinal injuries.",
+          "conditions": [
+            "Back Pain",
+            "Herniated Discs",
+            "Spinal Injuries",
+            "Scoliosis"
+          ]
+        }
+      ]
+    },
+    "doctors": {
+      "label": "The Palamu Neuro & Eye Care Difference",
+      "title": "Meet Our Distinguished Specialists",
+      "subtitle": "Fellowship-trained experts from premier institutes like AIIMS, delivering trusted super-specialty care to Jharkhand, Bihar, Chhattisgarh & West Bengal.",
+      "descriptions": [
+        "Expert neurologist treating complex brain, spine, and nerve disorders with precision.",
+        "Leading eye specialist offering advanced retina and comprehensive eye care."
+      ],
+      "consultButton": "Schedule Appointment",
+      "learnMore": "Read more →",
+      "lahreName": "Dr. Yuvraj Lahre",
+      "lahreCredentials": "MBBS, MD Medicine (RIMS Palamu), DM Neurology (AIIMS Bhubaneswar), Gold Medalist",
+      "prabhaName": "Dr. Dibya Prabha",
+      "prabhaCredentials": "MBBS, MS Ophthalmology, FICO, Fellow - Retina & Vitreous (LV Prasad Eye Institute, Hyderabad)"
+    },
+    "cta": {
+      "heading": "Book Your Visit Today",
+      "description": "Get expert care for brain, eye, and spine conditions in Palamu. Serving Jharkhand, Bihar, West Bengal, and Chhattisgarh. Book now on WhatsApp—we're here to help.",
+      "buttonText": "Book an Appointment"
+    },
+    "benefits": {
+      "label": "Why Choose Us",
+      "title": "Experience the Palamu Neuro & Eye Care Difference",
+      "subtitle": "Board-certified specialists, advanced diagnostics, and affordable care — discover why patients across Jharkhand and neighboring states trust Palamu Neuro & Eye Care for their health.",
+      "items": [
+        {
+          "title": "Expert Doctors",
+          "description": "Highly experienced neurologists and ophthalmologists trained at India's top medical schools including AIIMS, RIMS, and more."
+        },
+        {
+          "title": "Advanced Diagnostics",
+          "description": "Cutting-edge diagnostic tools for accurate assessments, including EEG, MRI, OCT, and comprehensive eye and neurological examinations."
+        },
+        {
+          "title": "Compassionate Care",
+          "description": "Patient-first approach ensuring you feel heard, understood, and cared for throughout your treatment journey."
+        },
+        {
+          "title": "Affordable Treatment",
+          "description": "World-class medical care at affordable rates, making advanced neurology and ophthalmology accessible to everyone."
+        },
+        {
+          "title": "Modern Facilities",
+          "description": "State-of-the-art clinic equipped with the latest technology for precise diagnosis and effective treatment."
+        },
+        {
+          "title": "Trusted by Many",
+          "description": "Serving thousands of patients from Jharkhand, Bihar, West Bengal, and Chhattisgarh with consistent, high-quality care."
+        }
+      ]
+    },
+    "faq": {
+      "label": "Frequently Asked Questions",
+      "title": "Got Questions?",
+      "subtitle": "Find answers to common questions about our services, appointments, and more.",
+      "questions": [
+        {
+          "question": "What conditions do you treat at Palamu Neuro & Eye Care?",
+          "answer": "At Palamu Neuro & Eye Care in Palamu, we specialize in neurology and ophthalmology, treating conditions such as migraines, epilepsy, stroke, Parkinson's disease, cataracts, glaucoma, and retinal disorders. Our team of experts provides comprehensive care for patients from Jharkhand, Bihar, West Bengal, and Chhattisgarh."
+        },
+        {
+          "question": "How do I book an appointment?",
+          "answer": "You can book an appointment by clicking the 'Book an Appointment' button on our website or calling us directly at 7779897207. We also offer online scheduling for your convenience."
+        },
+        {
+          "question": "Do you offer video consultations?",
+          "answer": "Yes, we offer video consultations for patients who cannot visit the clinic in person. This service is ideal for follow-ups, second opinions, and non-emergency consultations, especially for patients traveling from Bihar, West Bengal, or Chhattisgarh."
+        },
+        {
+          "question": "What should I bring to my first appointment?",
+          "answer": "Please bring your ID, medical records, any previous test results, and a list of current medications. If you have insurance, bring your insurance card as well. For patients traveling from other states, we recommend carrying all relevant medical documents."
+        },
+        {
+          "question": "What are your clinic hours?",
+          "answer": "Doctor consultations are available strictly on Sundays. However, our pharmacy and appointment booking services are open 7 days a week."
+        },
+        {
+          "question": "How do I reach Palamu Neuro & Eye Care from the railway station or airport?",
+          "answer": "Our clinic is conveniently located in Medininagar and is easily accessible from the railway station and airport. You can take a taxi or auto-rickshaw. Our address: Sitakunj police line road, Hamidganj, Medininagar. You can call us at 7779897207."
+        }
+      ]
+    },
+    "testimonials": {
+      "label": "Patient Stories",
+      "title": "Hear from Our Patients",
+      "subtitle": "Discover how Palamu Neuro & Eye Care has made a difference in the lives of our patients.",
+      "reviews": {
+        "ramesh": "I struggled with chronic migraines for years. Dr. Yuvraj Lahre's treatment plan finally gave me relief. I can't thank him enough!",
+        "sunita": "After my retinal detachment, I thought I'd never see clearly again. Dr. Dibya Prabha's surgery restored my vision. She's a miracle worker!",
+        "amit": "A spinal injury left me unable to walk. Palamu Neuro & Eye Care's team not only treated me but also gave me hope. I'm back to my daily routine now.",
+        "priya": "Living with epilepsy was terrifying until I met Dr. Lahre. His expertise and care have made managing my condition so much easier.",
+        "rajesh": "Cataracts made my world blurry. Dr. Prabha's surgery gave me clear vision again. The entire process was smooth and professional.",
+        "anita": "Nerve pain was disrupting my life. Palamu Neuro & Eye Care's team diagnosed the issue and provided a treatment plan that worked wonders. I'm pain-free now!",
+        "vikram": "I had a stroke that left me with mobility issues. Dr. Lahre's rehabilitation plan helped me regain my strength and independence.",
+        "meena": "Glaucoma was slowly taking my vision. Dr. Prabha's timely intervention saved my eyesight. I'm forever grateful to her and the team."
+      }
+    },
+    "map": {
+      "label": "Our Location",
+      "title": "Palamu Neuro & Eye Care",
+      "subtitle": "Sitakunj police line road, Hamidganj, Medininagar, Jharkhand 822102"
+    },
+    "infoLanding": {
+      "heading": "Why Palamu Neuro & Eye Care Excels",
+      "buttonText": "Book an Appointment",
+      "strengths": [
+        {
+          "title": "Unmatched Expertise",
+          "description": "Our specialists are board-certified and bring years of experience in neurology and ophthalmology."
+        },
+        {
+          "title": "Comprehensive Care",
+          "description": "We provide end-to-end care for brain, eye, spine, and nerve conditions, ensuring holistic treatment."
+        },
+        {
+          "title": "Cutting-Edge Diagnostics",
+          "description": "We use the latest technology for accurate diagnosis and effective treatment plans."
+        },
+        {
+          "title": "Accessible for All",
+          "description": "Our services are designed to be inclusive, catering to patients from urban and rural areas alike."
+        }
+      ]
+    }
+  }
+}
