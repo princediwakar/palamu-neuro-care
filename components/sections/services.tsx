@@ -44,7 +44,7 @@ export default async function Services({ lang }: { lang?: string }) {
   const icons: ServiceIconKey[] = ["brain", "eye", "activity", "eyeOff", "bone"];
 
   return (
-    <section className="py-24 sm:py-32 lg:py-40">
+    <section className="py-16 sm:py-20 lg:py-24">
       <MaxWidthWrapper>
         <HeaderSection
           label={t("label")}
@@ -64,11 +64,11 @@ export default async function Services({ lang }: { lang?: string }) {
               : `/${serviceSlug}`;
             return (
               <div
-                className="group relative flex flex-col overflow-hidden rounded-lg bg-secondary/30 p-8 transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_8px_30px_rgb(0,0,0,0.04)] dark:hover:shadow-[0_8px_30px_rgb(255,255,255,0.02)]"
+                className="group relative flex flex-col overflow-hidden rounded-lg bg-secondary/30 p-8 transition-all duration-200 hover:-translate-y-1 hover:shadow-[0_8px_30px_rgb(0,0,0,0.04)] dark:hover:shadow-[0_8px_30px_rgb(255,255,255,0.02)]"
                 key={service.title}
               >
                 <div className="relative flex-1">
-                  <div className="mb-6 flex size-12 items-center justify-center rounded-full bg-background shadow-sm transition-transform duration-500 group-hover:scale-110">
+                  <div className="mb-6 flex size-12 items-center justify-center rounded-full bg-background shadow-sm transition-transform duration-200 group-hover:scale-110">
                     <Icon className="size-5 text-zinc-900 dark:text-zinc-100" />
                   </div>
                   <h3 className="text-xl font-medium tracking-tight">
