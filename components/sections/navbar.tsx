@@ -56,7 +56,7 @@ export const Navbar = ({
       {/* 1. THE HEADER SHELL */}
       <header 
         className={`fixed top-0 left-0 w-full z-50 transition-colors duration-300 border-b border-border/50 ${
-          isOpen ? "bg-background" : "bg-background/95 backdrop-blur-md"
+          isOpen ? "bg-background" : "bg-background/60 backdrop-blur-md"
         }`}
       >
         <nav className="max-w-7xl mx-auto px-4 sm:px-6 md:px-12 xl:px-6">

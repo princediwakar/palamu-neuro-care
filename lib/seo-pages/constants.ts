@@ -5,7 +5,7 @@ export const CLINIC = {
   alternateName: "Palamu Neuro & Eye Care",
   url: "https://www.palamuneurocare.com",
   logo: "https://www.palamuneurocare.com/logo.svg",
-  email: "hello@palamu-neuro-care.app",
+  email: "hello@palamuneurocare.com",
   phones: ["+91 77798 97207", "+91 99557 07207"],
   phone: "+91 77798 97207",
   phoneDisplay: "77798 97207",

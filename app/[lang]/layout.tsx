@@ -23,7 +23,7 @@ export default async function LangLayout({
   return (
     <NextIntlClientProvider messages={messages} locale={lang}>
       <Navbar lang={lang} />
-      <main className="pt-20">{children}</main>
+      <main className="pt-[72px]">{children}</main>
       <SiteFooter lang={lang} />
     </NextIntlClientProvider>
   );

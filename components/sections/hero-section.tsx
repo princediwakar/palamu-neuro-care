@@ -17,7 +17,7 @@ export default async function HeroLanding({ lang }: { lang?: string }) {
   const slideLabels = [t("slideLabels.0"), t("slideLabels.1"), t("slideLabels.2")];
 
   return (
-    <section className="relative py-12 sm:py-16 lg:py-20 overflow-hidden">
+    <section className="relative -mt-[72px] pt-[120px] pb-12 sm:pt-[136px] sm:pb-16 lg:pt-[152px] lg:pb-20 overflow-hidden">
       <div
         aria-hidden="true"
         className="pointer-events-none absolute inset-0 grid grid-cols-2 -space-x-52 opacity-40 dark:opacity-20 -z-10"
