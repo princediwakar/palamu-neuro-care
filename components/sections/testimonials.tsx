@@ -36,9 +36,9 @@ export default async function Testimonials({ lang }: { lang?: string }) {
           title={t("title")}
           subtitle={t("subtitle")}
         />
-        <div className="column-1 gap-8 space-y-8 md:columns-2 lg:columns-3">
+        <div className="columns-1 gap-8 md:columns-2 lg:columns-3">
           {patientTestimonials.map((item) => (
-            <div className="break-inside-avoid" key={item.name}>
+            <div className="break-inside-avoid mb-8" key={item.name}>
               <div className="group relative rounded-lg bg-secondary/30 p-8 transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_8px_30px_rgb(0,0,0,0.04)] dark:hover:shadow-[0_8px_30px_rgb(255,255,255,0.02)]">
                 <div className="flex flex-col">
                   <div className="relative mb-6 flex items-center gap-4">
