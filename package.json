@@ -17,7 +17,7 @@
   },
   "scripts": {
     "dev": "next dev --turbopack",
-    "postinstall": "cp scripts/pre-commit.sh .git/hooks/pre-commit && chmod +x .git/hooks/pre-commit",
+    "postinstall": "test -d .git/hooks && cp scripts/pre-commit.sh .git/hooks/pre-commit && chmod +x .git/hooks/pre-commit || true",
     "prebuild": "node scripts/generate-content-dates.mjs",
     "build": "SERWIST_SUPPRESS_TURBOPACK_WARNING=1 next build --webpack",
     "start": "next start",
