@@ -2,7 +2,7 @@ import CTA from '@/components/sections/cta';
 import MaxWidthWrapper from '@/components/shared/max-width-wrapper';
 import { PageHeader } from '@/components/shared/page-header';
 import { resolveSlug } from '@/lib/seo-pages/registry';
-import { getTranslations } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import Link from 'next/link';
 import type { Metadata } from 'next';
 
@@ -12,6 +12,7 @@ interface PageProps {
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { lang } = await params;
+  setRequestLocale(lang);
   const t = await getTranslations({ locale: lang, namespace: "videos" });
   return {
     title: { absolute: t("title") },
@@ -47,6 +48,7 @@ function getHref(index: number, isNeuro: boolean, lang: string): string | null {
 
 export default async function VideosPage({ params }: PageProps) {
   const { lang } = await params;
+  setRequestLocale(lang);
   const t = await getTranslations("videos");
 
   const neuroVideosRaw = t.raw("neuroVideos") as Array<{ title: string; description: string }>;

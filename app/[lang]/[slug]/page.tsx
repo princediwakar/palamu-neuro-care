@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { getSeoPage, getAllSlugs } from "@/lib/seo-pages/registry";
 import { generateMetadata as seoMetadata } from "@/lib/seo-pages/metadata-factory";
 import { getContentDates } from "@/lib/seo-pages/content-dates";
+import { setRequestLocale } from "next-intl/server";
 
 import Breadcrumbs from "@/components/seo/breadcrumbs";
 import JsonLdScripts from "@/components/seo/json-ld";
@@ -31,6 +32,7 @@ export const dynamicParams = false;
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { slug, lang } = await params;
+  setRequestLocale(lang);
   const page = getSeoPage(slug, lang);
   if (!page) return {};
   return seoMetadata(page, lang);
@@ -58,6 +60,7 @@ function renderTemplate(page: ReturnType<typeof getSeoPage>, lang: string) {
 
 export default async function SeoPage({ params }: PageProps) {
   const { slug, lang } = await params;
+  setRequestLocale(lang);
   const page = getSeoPage(slug, lang);
 
   if (!page) {

@@ -8,7 +8,8 @@ const nextConfig = {
     ignoreBuildErrors: true,
   },
   images: {
-    formats: ["image/avif", "image/webp"],
+    formats: ["image/webp"],
+    minimumCacheTTL: 31536000,
     deviceSizes: [640, 768, 1024, 1280, 1536],
     imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
     remotePatterns: [
@@ -29,6 +30,18 @@ const nextConfig = {
             value: "public, max-age=31536000, immutable",
           },
         ],
+      },
+    ];
+  },
+  async rewrites() {
+    return [
+      {
+        source: "/",
+        destination: "/en",
+      },
+      {
+        source: "/:path((?!hi|_next|_static|offline|favicon\\.ico|robots\\.txt|sitemap\\.xml).*)",
+        destination: "/en/:path*",
       },
     ];
   },
@@ -57,4 +70,4 @@ const serwistConfig = {
   additionalPrecacheEntries: [{ url: "/offline", revision: null }],
 };
 
-module.exports = withSerwist(serwistConfig)(withNextIntl(nextConfig)); 
+module.exports = withSerwist(serwistConfig)(withNextIntl(nextConfig));

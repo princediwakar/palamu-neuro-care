@@ -1,5 +1,5 @@
 import { Metadata } from "next";
-import { getTranslations } from "next-intl/server";
+import { getTranslations, setRequestLocale } from "next-intl/server";
 
 interface PageProps {
   params: Promise<{ lang: string }>;
@@ -7,6 +7,7 @@ interface PageProps {
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { lang } = await params;
+  setRequestLocale(lang);
   const t = await getTranslations({ locale: lang, namespace: "pages.privacy" });
   return {
     title: { absolute: t("metaTitle") },
@@ -18,6 +19,7 @@ type Section = { heading: string; body: string[] };
 
 export default async function PrivacyPolicy({ params }: PageProps) {
   const { lang } = await params;
+  setRequestLocale(lang);
   const t = await getTranslations({ locale: lang, namespace: "pages.privacy" });
   const sections = t.raw("sections") as unknown as Section[];
 

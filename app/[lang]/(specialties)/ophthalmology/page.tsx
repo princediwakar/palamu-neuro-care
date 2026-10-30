@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
-import { getTranslations } from "next-intl/server";
+import { getTranslations, setRequestLocale } from "next-intl/server";
 import MaxWidthWrapper from "@/components/shared/max-width-wrapper";
 import { PageHeader } from "@/components/shared/page-header";
 import { Camera, Check, Clock, Eye, Pill, Search, ShieldCheck, Stethoscope, Syringe, Target, Users, Zap } from "lucide-react";
@@ -34,6 +34,7 @@ interface PageProps {
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { lang } = await params;
+  setRequestLocale(lang);
   const t = await getTranslations({ locale: lang, namespace: "pages.ophthalmology" });
   return {
     title: { absolute: t("metaTitle") },
@@ -108,6 +109,7 @@ function getDepartmentJsonLd() {
 
 export default async function OphthalmologyPage({ params }: PageProps) {
   const { lang } = await params;
+  setRequestLocale(lang);
   const t = await getTranslations({ locale: lang, namespace: "pages.ophthalmology" });
   const departments = t.raw("departments") as unknown as Department[];
 

@@ -3,7 +3,7 @@ import { PageHeader } from "@/components/shared/page-header";
 import Image from "next/image";
 import Link from "next/link";
 import CTA from "@/components/sections/cta";
-import { getTranslations } from "next-intl/server";
+import { getTranslations, setRequestLocale } from "next-intl/server";
 import { resolveSlug } from "@/lib/seo-pages/registry";
 import type { Metadata } from "next";
 
@@ -13,6 +13,7 @@ interface PageProps {
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { lang } = await params;
+  setRequestLocale(lang);
   const t = await getTranslations({ locale: lang, namespace: "doctors" });
   return {
     title: { absolute: t("title") },
@@ -29,6 +30,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
 export default async function DoctorsPage({ params }: PageProps) {
   const { lang } = await params;
+  setRequestLocale(lang);
   const t = await getTranslations("doctors");
 
   return (

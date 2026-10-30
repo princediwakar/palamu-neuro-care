@@ -5,9 +5,10 @@ import MaxWidthWrapper from '@/components/shared/max-width-wrapper'
 import { HeaderSection } from '@/components/shared/header-section'
 import { getFeaturedHomepageConditions } from '@/lib/seo-pages/featured-pages'
 import ConditionGlowCard from '@/components/seo/condition-glow-card'
-import { getTranslations } from 'next-intl/server'
+import { getTranslations, setRequestLocale } from 'next-intl/server'
 import Image from 'next/image'
 import type { Metadata } from "next";
+import { routing } from "@/i18n/routing";
 
 // Above fold — SSR for SEO-critical medical content
 import Services from '@/components/sections/services';
@@ -27,6 +28,7 @@ const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || "https://www.palamuneurocar
 
 export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }): Promise<Metadata> {
   const { lang } = await params;
+  setRequestLocale(lang);
   const t = await getTranslations({ locale: lang, namespace: "homepage" });
   const isHi = lang === "hi";
   const enUrl = BASE_URL;
@@ -63,8 +65,13 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
   };
 }
 
+export function generateStaticParams() {
+  return routing.locales.map((locale) => ({ lang: locale }));
+}
+
 const HomePage = async ({ params }: { params: Promise<{ lang: string }> }) => {
   const { lang } = await params;
+  setRequestLocale(lang);
   const images = await getGalleryImages();
   const featuredConditions = getFeaturedHomepageConditions(lang);
   const t = await getTranslations("homepage");
