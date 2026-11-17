@@ -31,6 +31,24 @@ const nextConfig = {
           },
         ],
       },
+      {
+        // Shield origin & runtime cache by caching public HTML/RSC at Vercel Edge CDN (0 Read Units on edge hit)
+        source: "/((?!api|_next|_static|offline|favicon\\.ico|robots\\.txt|sitemap\\.xml).*)",
+        headers: [
+          {
+            key: "Vercel-CDN-Cache-Control",
+            value: "public, s-maxage=86400, stale-while-revalidate=604800",
+          },
+          {
+            key: "CDN-Cache-Control",
+            value: "public, s-maxage=86400, stale-while-revalidate=604800",
+          },
+          {
+            key: "Cache-Control",
+            value: "public, max-age=3600, s-maxage=86400, stale-while-revalidate=604800",
+          },
+        ],
+      },
     ];
   },
   async rewrites() {
